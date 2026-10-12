@@ -48,27 +48,27 @@
  "words": [
   [
    [
-    "lave-vaisselle 60 cm",
+    "lave-vaisselle",
     "O",
-    18,
+    20,
     true
    ],
    [
-    "   silencieux",
+    "   encastrable",
     "K",
-    16,
+    18,
     true
    ]
   ],
   [
    [
-    "rapport qualité-prix",
+    "pose libre",
     "G",
     15,
     true
    ],
    [
-    "   encastrable",
+    "   60 cm",
     "K",
     14,
     true
@@ -76,61 +76,67 @@
   ],
   [
    [
-    "bandeau apparent",
+    "45 cm",
     "O",
     13,
     true
    ],
    [
-    "   fiabilité",
+    "   Série 2",
     "G",
     12,
     false
+   ],
+   [
+    "   Série 4",
+    "K",
+    12,
+    true
    ]
   ],
   [
    [
-    "moins de 600 €",
+    "EcoSilence Drive",
     "O",
+    11,
+    true
+   ],
+   [
+    "   tiroir à couverts",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "13 couverts",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   14 couverts",
+    "G",
+    11,
+    false
+   ],
+   [
+    "   dB",
+    "O",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "livraison gratuite",
+    "K",
     11,
     true
    ],
    [
     "   Black Friday",
-    "K",
-    11,
-    true
-   ]
-  ],
-  [
-   [
-    "four à pyrolyse",
-    "K",
-    11,
-    true
-   ],
-   [
-    "   induction",
-    "G",
-    11,
-    false
-   ],
-   [
-    "   airfryer",
-    "O",
-    11,
-    true
-   ]
-  ],
-  [
-   [
-    "pompe à chaleur",
-    "K",
-    11,
-    true
-   ],
-   [
-    "   compatibilité",
     "G",
     11,
     false
@@ -141,26 +147,24 @@
   "Je veux un lave-vaisselle 60 cm à bandeau apparent à ~500 €",
   "Un lave-vaisselle bon rapport qualité-prix pour moins de 600 € ?",
   "L'entretien et la fiabilité sont-ils simples sur le long terme ?",
-  "Est-ce qu'il vaut mieux attendre le Black Friday ?",
-  "Quel four à pyrolyse pour une famille de 4 personnes ?"
+  "Est-ce qu'il vaut mieux attendre le Black Friday ?"
  ],
  "cats": [
   [
    "Comparaison marques et modèles",
-   46
+   5
   ],
   [
    "Encastrables et intégrables",
-   7
+   46
   ],
   [
    "Compacts et largeur 45 cm",
-   0,
-   "< 1 %"
+   15
   ],
   [
    "Grande capacité et 60 cm",
-   47
+   34
   ],
   [
    "Lave-vaisselle silencieux",
@@ -175,19 +179,19 @@
  ],
  "insights": [
   [
-   "Mettre en avant les modèles encastrables",
-   "Les lave-vaisselle tout encastrables et semi-encastrables atteignent 1,28 fois le CTR moyen. Ils ne représentent pourtant que 7 % de la diffusion.",
-   "Augmenter la part des modèles encastrables dans la diffusion."
+   "Les modèles Série 2 cliquent le mieux",
+   "Les lave-vaisselle Série 2 atteignent 1,06 fois le CTR moyen, contre 0,95 fois pour les Série 4. Le Série 2 tout encastrable SMV2HTX02E atteint 1,41 fois.",
+   "Mettre en avant les Série 2 avec un argument prix."
   ],
   [
-   "Les modèles d'entrée de gamme cliquent le mieux",
-   "Les Série 2 sont en tête (jusqu'à 1,41 fois la moyenne). Plusieurs Série 4 restent sous la moyenne (0,60 à 0,71 fois).",
-   "Mettre en avant les Série 2 avec un argument prix, et les Série 4 avec un bénéfice précis."
+   "Des écarts forts d'un modèle à l'autre",
+   "Avec la même description, les modèles vont de 0,60 fois (Série 4 SBV4HCX07E) à 1,41 fois la moyenne.",
+   "Concentrer la diffusion sur les modèles qui cliquent le plus et retirer les moins performants."
   ],
   [
-   "Le silence est un argument fort",
-   "Le modèle pose libre à 38 dB fait partie des meilleures annonces (1,30 fois la moyenne).",
-   "Mettre le niveau sonore en avant dans les accroches, surtout pour les cuisines ouvertes."
+   "Varier les descriptions",
+   "52 des 53 annonces utilisent la même description (« Cdiscount Electroménager - Découvrez notre offre… »), qui reprend la fiche technique.",
+   "Tester des descriptions centrées sur un bénéfice (silence en cuisine ouverte, gain de place, économie d'eau)."
   ],
   [
    "Préparer le Black Friday",

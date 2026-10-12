@@ -244,6 +244,58 @@ Bonne journée,
 
 ---
 
+## Boulanger
+
+**Objet : Rapport de performance Boulanger - septembre 2026**
+
+> **À vérifier** : Destinataire à confirmer (André Wadleich cité dans le rapport hebdo du 25/09). Achats artificiels Boulanger les 29/09 et 01/10 : ne pas citer de conversions.
+
+**À :** André Wadleich (Boulanger)
+
+Bonjour André,
+
+Vous trouverez ci-joint le rapport de performance de Boulanger pour le mois de septembre 2026.
+
+En complément de nos rapports hebdomadaires, voici le bilan du premier mois complet de la campagne, lancée le 28 août.
+
+C'était le premier mois de diffusion de la campagne :
+
+- **3 133 801 impressions** et **19 975 clics** ;
+- **un CTR de 0,64 %**.
+
+Pour rappel, l'objectif de la campagne : amener sur boulanger.com des visiteurs en intention d'achat (budget 10 000 € / mois).
+
+**Les principaux enseignements de septembre**
+
+- **Faire du smartphone la priorité de visibilité** : le smartphone est la première intention d'achat (6,1 % des conversations). Côté annonces, l'iPhone 17 (1,16 fois le CTR moyen) et les iPhone reconditionnés (1,10 fois) tirent la catégorie.
+- **Resserrer la sélection sur les intentions les plus demandées** : smartphone, casque et écouteurs, enceinte portable : ces trois intentions pèsent plus de 16 % des conversations. Les annonces enceintes et barres de son restent pourtant à 0,56 fois le CTR moyen.
+- **Vendre le son par l'usage et le cadeau** : « Quelle enceinte portable offrir ? », « Quels écouteurs pour le sport ? » : l'audience part d'un usage ou d'un cadeau, pas d'une référence.
+- **Capter les cadeaux gaming avant Noël** : les consoles de jeux atteignent 3,04 fois le CTR moyen, le meilleur score de la campagne, pour seulement 3 % de la diffusion.
+
+**Nos recommandations**
+
+- Construire avec vous le plan de visibilité smartphone 2027 : références, ad groups et budget.
+- Pousser sur ces intentions une sélection resserrée de vos produits phares, à mesurer contre le périmètre actuel.
+- Présenter casques et enceintes par usage (sport, soirée, salon) et comme idée cadeau à l'approche de Noël.
+- Donner plus de place aux consoles et à l'informatique gaming en novembre et décembre.
+
+**Aller plus loin avec Lemrock**
+
+Pour amplifier ces résultats, nous vous proposons :
+
+1. **Construire le plan de visibilité smartphone 2027**, la priorité que vous nous avez exprimée lors du weekly du 25/09.
+2. **Resserrer la sélection de produits** sur les intentions les plus demandées (smartphone, casque, enceinte) et renforcer les consoles avant Noël.
+3. **Valider la réconciliation du Conversion Tracker** avec vos données, pour piloter la campagne sur les ventes.
+
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
+
+Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
+
+Bonne journée,
+Ève
+
+---
+
 ## Cdiscount Mobile
 
 **Objet : Rapport de performance Cdiscount Mobile - septembre 2026**

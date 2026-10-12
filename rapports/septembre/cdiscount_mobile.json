@@ -142,19 +142,24 @@
  ],
  "insights": [
   [
-   "Afficher le prix dans les annonces",
-   "Les 3 annonces de septembre ne citent pas de prix et cliquent toutes au même niveau (0,99 à 1,02 fois la moyenne). En août, les messages prix + data + sans engagement atteignaient jusqu'à 4,3 fois.",
-   "Mettre le prix mensuel dans le titre : « Forfait 40 Go à x €/mois, sans engagement »."
+   "Afficher immédiatement le prix, la data et l'absence d'engagement",
+   "En août, les annonces avec data, prix mensuel et sans engagement atteignaient 4,26 fois le CTR moyen. En septembre, les 3 annonces ne citent pas de prix et restent à la moyenne.",
+   "Présenter directement l'offre complète : « 40 Go à x €/mois, sans engagement »."
   ],
   [
-   "Créer une annonce eSIM",
-   "Aucune annonce ne parle de l'eSIM en septembre, alors que cet angle atteignait 2,1 fois le CTR moyen en août.",
-   "Ajouter une annonce dédiée à l'eSIM et à l'activation immédiate."
+   "Faire de l'eSIM un axe d'acquisition à part entière",
+   "L'eSIM atteignait 2,09 fois le CTR moyen en août et représente 23 % des recherches liées aux forfaits. Aucune annonce de septembre n'en parle.",
+   "Créer une campagne eSIM dédiée : activation immédiate, conservation du numéro, aucune attente de carte."
   ],
   [
-   "Piloter aux souscriptions, pas au ROAS",
-   "Le ROAS ne reflète pas la valeur d'un forfait : la souscription est facturée 1 €, puis 1 € par mois.",
-   "Suivre le nombre et le coût par souscription face à l'objectif de 550 souscriptions."
+   "Associer les forfaits aux smartphones reconditionnés",
+   "L'association reconditionné + forfait atteignait 1,68 fois le CTR moyen en août. Elle n'a pas été reprise en septembre.",
+   "Construire des offres reconditionné + forfait sans engagement, avec un prix total clair."
+  ],
+  [
+   "Segmenter par usage plutôt que par profil",
+   "En août, la mobilité atteignait 1,95 fois le CTR moyen et le partage de connexion 1,24 fois. Les annonces de septembre ne parlent que du volume de data (40 Go, 150 Go).",
+   "Cibler des usages précis : vidéo en déplacement, travail en mobilité, plusieurs appareils connectés."
   ]
  ],
  "kpis": [

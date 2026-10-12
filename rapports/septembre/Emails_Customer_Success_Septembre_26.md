@@ -215,15 +215,17 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Revenir aux messages d'usage qui marchaient en août** : en septembre, les annonces sont des fiches techniques : aucune caractéristique ne se démarque (entre 0,95 et 1,06 fois le CTR moyen). En août, les messages d'usage atteignaient jusqu'à 1,58 fois.
-- **Couper les 10 annonces les moins performantes** : 10 annonces, soit 24 % de la diffusion, restent à 0,74 fois le CTR moyen (jusqu'à 0,60 fois pour le SBV4HCX07E).
-- **Renforcer les 6 annonces qui cliquent le plus** : 6 annonces, soit 15 % de la diffusion, atteignent 1,27 fois le CTR moyen, surtout des Série 2 (SMV2HTX02E à 1,41 fois).
+- **Parler du problème en cuisine plutôt que présenter une référence produit** : en août, les annonces évoquant une situation concrète atteignaient 1,58 fois le CTR moyen. En septembre, toutes présentent un modèle et restent autour de la moyenne.
+- **Faire du silence un argument prioritaire** : le silence atteignait 1,51 fois le CTR moyen en août. En septembre, il n'apparaît plus que sous forme de chiffre (« 44 dB ») et ne fait pas la différence (1,05 fois).
+- **Expliquer ce que Home Connect permet réellement de faire** : expliquer le pilotage depuis le smartphone atteignait 1,23 fois le CTR moyen en août. Aucune annonce de septembre ne parle de Home Connect.
+- **Rassurer sur l'installation avant de parler du financement** : l'installation atteignait 1,76 fois le CTR moyen en août, contre 0,54 fois pour le paiement en quatre fois. En septembre, le type d'encastrement est cité sans bénéfice (1,00 fois).
 
 **Nos recommandations**
 
-- Réintroduire des annonces d'usage : « Votre vaisselle s'accumule après le dîner ? », « Lancez-le le soir sans bruit ».
-- Les retirer et réallouer leur budget aux modèles qui cliquent.
-- Leur donner plus de budget, en priorité pour le Black Friday.
+- Commencer par le besoin du foyer : « Votre vaisselle s'accumule après le dîner ? » plutôt que « Découvrez le Bosch SMV4HCX07E ».
+- Traduire le niveau sonore en bénéfice : « Lancez votre lave-vaisselle le soir sans perturber la maison ».
+- Réintroduire Home Connect par ses usages : lancer un cycle à distance, suivre son avancement, être notifié à la fin.
+- Mettre en avant dimensions, encastrement et compatibilité avec la cuisine, puis le financement.
 
 **Aller plus loin avec Lemrock**
 
@@ -264,15 +266,17 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 
 **Les principaux enseignements de septembre**
 
-- **Afficher le prix dans les annonces** : les 3 annonces de septembre ne citent pas de prix et cliquent toutes au même niveau (0,99 à 1,02 fois la moyenne). En août, les messages prix + data + sans engagement atteignaient jusqu'à 4,3 fois.
-- **Créer une annonce eSIM** : aucune annonce ne parle de l'eSIM en septembre, alors que cet angle atteignait 2,1 fois le CTR moyen en août.
-- **Piloter aux souscriptions, pas au ROAS** : le ROAS ne reflète pas la valeur d'un forfait : la souscription est facturée 1 €, puis 1 € par mois.
+- **Afficher immédiatement le prix, la data et l'absence d'engagement** : en août, les annonces avec data, prix mensuel et sans engagement atteignaient 4,26 fois le CTR moyen. En septembre, les 3 annonces ne citent pas de prix et restent à la moyenne.
+- **Faire de l'eSIM un axe d'acquisition à part entière** : l'eSIM atteignait 2,09 fois le CTR moyen en août et représente 23 % des recherches liées aux forfaits. Aucune annonce de septembre n'en parle.
+- **Associer les forfaits aux smartphones reconditionnés** : l'association reconditionné + forfait atteignait 1,68 fois le CTR moyen en août. Elle n'a pas été reprise en septembre.
+- **Segmenter par usage plutôt que par profil** : en août, la mobilité atteignait 1,95 fois le CTR moyen et le partage de connexion 1,24 fois. Les annonces de septembre ne parlent que du volume de data (40 Go, 150 Go).
 
 **Nos recommandations**
 
-- Mettre le prix mensuel dans le titre : « Forfait 40 Go à x €/mois, sans engagement ».
-- Ajouter une annonce dédiée à l'eSIM et à l'activation immédiate.
-- Suivre le nombre et le coût par souscription face à l'objectif de 550 souscriptions.
+- Présenter directement l'offre complète : « 40 Go à x €/mois, sans engagement ».
+- Créer une campagne eSIM dédiée : activation immédiate, conservation du numéro, aucune attente de carte.
+- Construire des offres reconditionné + forfait sans engagement, avec un prix total clair.
+- Cibler des usages précis : vidéo en déplacement, travail en mobilité, plusieurs appareils connectés.
 
 **Aller plus loin avec Lemrock**
 

@@ -180,19 +180,24 @@
  ],
  "insights": [
   [
-   "Revenir aux messages d'usage qui marchaient en août",
-   "En septembre, les annonces sont des fiches techniques : aucune caractéristique ne se démarque (entre 0,95 et 1,06 fois le CTR moyen). En août, les messages d'usage atteignaient jusqu'à 1,58 fois.",
-   "Réintroduire des annonces d'usage : « Votre vaisselle s'accumule après le dîner ? », « Lancez-le le soir sans bruit »."
+   "Parler du problème en cuisine plutôt que présenter une référence produit",
+   "En août, les annonces évoquant une situation concrète atteignaient 1,58 fois le CTR moyen. En septembre, toutes présentent un modèle et restent autour de la moyenne.",
+   "Commencer par le besoin du foyer : « Votre vaisselle s'accumule après le dîner ? » plutôt que « Découvrez le Bosch SMV4HCX07E »."
   ],
   [
-   "Couper les 10 annonces les moins performantes",
-   "10 annonces, soit 24 % de la diffusion, restent à 0,74 fois le CTR moyen (jusqu'à 0,60 fois pour le SBV4HCX07E).",
-   "Les retirer et réallouer leur budget aux modèles qui cliquent."
+   "Faire du silence un argument prioritaire",
+   "Le silence atteignait 1,51 fois le CTR moyen en août. En septembre, il n'apparaît plus que sous forme de chiffre (« 44 dB ») et ne fait pas la différence (1,05 fois).",
+   "Traduire le niveau sonore en bénéfice : « Lancez votre lave-vaisselle le soir sans perturber la maison »."
   ],
   [
-   "Renforcer les 6 annonces qui cliquent le plus",
-   "6 annonces, soit 15 % de la diffusion, atteignent 1,27 fois le CTR moyen, surtout des Série 2 (SMV2HTX02E à 1,41 fois).",
-   "Leur donner plus de budget, en priorité pour le Black Friday."
+   "Expliquer ce que Home Connect permet réellement de faire",
+   "Expliquer le pilotage depuis le smartphone atteignait 1,23 fois le CTR moyen en août. Aucune annonce de septembre ne parle de Home Connect.",
+   "Réintroduire Home Connect par ses usages : lancer un cycle à distance, suivre son avancement, être notifié à la fin."
+  ],
+  [
+   "Rassurer sur l'installation avant de parler du financement",
+   "L'installation atteignait 1,76 fois le CTR moyen en août, contre 0,54 fois pour le paiement en quatre fois. En septembre, le type d'encastrement est cité sans bénéfice (1,00 fois).",
+   "Mettre en avant dimensions, encastrement et compatibilité avec la cuisine, puis le financement."
   ]
  ],
  "conv_msg": "Conversions mesurées par Cdiscount, non intégrées à ce rapport. Elles apparaîtront ici dès l'intégration du Conversion Tracker."

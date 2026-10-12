@@ -74,14 +74,12 @@ Par rapport à août :
 - **Parler de boissons fermentées sans alcool** : l'annonce « Boissons fermentées sans alcool » atteint 1,53 fois le CTR moyen, le meilleur score du mois.
 - **Mettre en avant les formats 33 cl** : les packs de 12 kombuchas de 33 cl dépassent la moyenne (jusqu'à 1,30 fois). Le pack de 6 bouteilles de 75 cl tombe à 0,66 fois.
 - **Mettre le cassis et le pomelo gingembre en avant** : les annonces pomelo gingembre (1,23 fois le CTR moyen) et cassis (1,15 fois) font mieux que la moyenne. Framboise, figuier et clémentine restent juste en dessous (0,93 fois).
-- **Une campagne qui accélère** : les clics sont multipliés par 3,5 et le CTR passe de 0,41 % à 0,51 %.
 
 **Nos recommandations**
 
 - Mettre l'alternative sans alcool au cœur des accroches : apéritif, repas, pause.
 - Faire des formats 33 cl le produit d'appel et garder les 75 cl pour la page produit.
 - Donner plus de visibilité au cassis et au pomelo gingembre.
-- Garder le ciblage actuel et renforcer le message sans alcool à l'approche des fêtes.
 
 **Aller plus loin avec Lemrock**
 

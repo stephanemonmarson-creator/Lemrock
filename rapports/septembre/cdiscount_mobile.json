@@ -8,65 +8,57 @@
     "O",
     20,
     true
+   ]
+  ],
+  [
+   [
+    "sans engagement",
+    "K",
+    17,
+    true
    ],
    [
-    "   sans engagement",
-    "K",
-    18,
-    true
+    "      eSIM",
+    "G",
+    15,
+    false
    ]
   ],
   [
    [
     "40 Go",
-    "G",
-    16,
+    "O",
+    14,
     true
    ],
    [
     "   150 Go",
     "K",
-    15,
-    true
-   ]
-  ],
-  [
-   [
-    "4G & 5G",
-    "O",
     13,
     true
    ],
    [
-    "   eSIM",
+    "   5G",
     "G",
-    12,
+    13,
     false
    ]
   ],
   [
    [
-    "meilleur prix",
+    "carte SIM",
     "O",
     11,
     true
    ],
    [
-    "   data",
-    "K",
-    11,
-    true
-   ]
-  ],
-  [
-   [
-    "départ en vacances",
+    "   code RIO",
     "K",
     11,
     true
    ],
    [
-    "   changement d'opérateur",
+    "   portabilité",
     "G",
     11,
     false
@@ -74,60 +66,78 @@
   ],
   [
    [
-    "promotion",
+    "activation immédiate",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   partage de connexion",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "roaming",
     "K",
     11,
     true
    ],
    [
-    "   compatibilité",
+    "   meilleur prix",
     "G",
     11,
     false
+   ],
+   [
+    "   départ en vacances",
+    "O",
+    11,
+    true
    ]
   ]
  ],
  "queries": [
-  "À compléter : le rapport d'insights porte surtout sur les smartphones, pas sur les forfaits"
+  "Quel forfait mobile sans engagement choisir ?",
+  "Puis-je utiliser une eSIM avec Cdiscount Mobile ?",
+  "Puis-je conserver mon numéro en changeant d'opérateur ?",
+  "Quel forfait pour faire du partage de connexion ?",
+  "Quel forfait prendre pour partir en vacances à l'étranger ?"
  ],
  "cats": [
   [
    "Recherche générale d'un forfait",
-   0,
-   "< 1 %"
+   36
   ],
   [
    "eSIM et carte SIM",
-   0,
-   "< 1 %"
+   25
   ],
   [
    "Prix et sans engagement",
-   66
+   15
   ],
   [
    "Partage de connexion et nomade",
-   0,
-   "< 1 %"
+   12
   ],
   [
    "5G et volume de data",
-   34
+   6
   ],
   [
    "International et roaming",
-   0,
-   "< 1 %"
+   4
   ],
   [
    "Changement d'opérateur",
-   0,
-   "< 1 %"
+   1
   ],
   [
    "Forfaits par profil",
-   0,
-   "< 1 %"
+   1
   ]
  ],
  "insights": [

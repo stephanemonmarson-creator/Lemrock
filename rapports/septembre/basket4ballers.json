@@ -138,9 +138,11 @@
   ]
  ],
  "queries": [
-  "Je peux utiliser le Wilson Authentic en salle sans l'abîmer ?",
-  "Des idées de sneakers blanches qui vont bien avec ce jean",
-  "Montre-moi des baskets solides et pas chères pour marcher beaucoup"
+  "Où acheter des Adidas Samba ou des New Balance 530 ?",
+  "Quel modèle choisir entre Jordan 4 et Nike Air Max ?",
+  "Où trouver un maillot NBA officiel ou vintage ?",
+  "Où acheter le maillot de Wembanyama aux Spurs ?",
+  "Quel ballon et quelle tenue de basket pour un enfant ?"
  ],
  "cats": [
   [
@@ -181,5 +183,6 @@
    "Les clics passent de 1 083 à 3 198 pour 33 % d'impressions en plus. Le CTR passe de 0,20 % à 0,45 %.",
    "Garder le ciblage et concentrer le budget sur les catégories qui cliquent le plus."
   ]
- ]
+ ],
+ "conv_msg": "Le Conversion Tracker est en cours d'implémentation. Les conversions apparaîtront dans ce rapport dès que la remontée des données sera validée."
 }

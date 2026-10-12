@@ -27,7 +27,11 @@
   ]
  ],
  "queries": [
-  "À compléter : le rapport d'insights de septembre porte sur les smartphones reconditionnés, pas sur la photo d'identité"
+  "Comment faire une photo d'identité conforme avec mon téléphone ?",
+  "Peut-on faire une photo de passeport depuis chez soi ?",
+  "Comment savoir si ma photo d'identité sera acceptée ?",
+  "Quelle photo faut-il transmettre sur le site de l'ANTS ?",
+  "Comment prendre une photo d'identité correcte pour un bébé ?"
  ],
  "cats": [
   [
@@ -121,5 +125,6 @@
    "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Smartphone_ID_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Smartphone_ID_sept2026.pptx",
+ "conv_msg": "Conversions non mesurées par Lemrock sur cette campagne. Elles seront intégrées à ce rapport à partir de vos données dès leur transmission."
 }

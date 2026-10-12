@@ -175,5 +175,6 @@
    "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Qonto_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Qonto_sept2026.pptx",
+ "conv_msg": "Le Conversion Tracker est en cours de validation : l'intégration a été réalisée le 7 octobre. Les conversions apparaîtront dans ce rapport dès que la remontée des données sera validée."
 }

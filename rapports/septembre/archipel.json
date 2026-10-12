@@ -144,8 +144,11 @@
   ]
  ],
  "queries": [
-  "Comment faire une version sans alcool de l'Americano ?",
-  "Y a-t-il des alternatives sans alcool qui gardent le même goût ?"
+  "Où acheter de la ginger beer ?",
+  "Comment faire son kéfir de fruits maison ?",
+  "Quels sont les bienfaits du kéfir ?",
+  "Quelle recette pour un kombucha maison ?",
+  "Quel cocktail ou spritz sans alcool préparer ?"
  ],
  "cats": [
   [
@@ -186,5 +189,6 @@
    "Les clics sont multipliés par 3,5 et le CTR passe de 0,41 % à 0,51 %.",
    "Garder le ciblage actuel et renforcer le message sans alcool à l'approche des fêtes."
   ]
- ]
+ ],
+ "conv_msg": "Le Conversion Tracker est en cours de validation : l'intégration a été réalisée le 30 septembre. Les conversions apparaîtront dans ce rapport dès que la remontée des données sera validée."
 }

@@ -101,10 +101,10 @@
  ],
  "queries": [
   "Quel forfait mobile sans engagement choisir ?",
+  "Où trouver un forfait 120 Go à moins de 10 € par mois ?",
   "Puis-je utiliser une eSIM avec Cdiscount Mobile ?",
   "Puis-je conserver mon numéro en changeant d'opérateur ?",
-  "Quel forfait pour faire du partage de connexion ?",
-  "Quel forfait prendre pour partir en vacances à l'étranger ?"
+  "Quel forfait pour faire du partage de connexion ?"
  ],
  "cats": [
   [
@@ -206,5 +206,6 @@
    "YTD 0,02"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Mobile_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Mobile_sept2026.pptx",
+ "conv_msg": "Conversions communiquées via Awin, à titre indicatif. Elles seront consolidées dès l'intégration du Conversion Tracker."
 }

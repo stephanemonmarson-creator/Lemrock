@@ -99,11 +99,11 @@
   ]
  ],
  "queries": [
-  "Une enceinte pour la radio et Deezer avec un bon son, budget max 550 €",
-  "Quel casque le plus approprié si je ne veux pas dépasser 200 € ?",
-  "Si je reste à 400 €, quelle platine sans enceintes ?",
-  "Ça vaut le coup d'acheter des écouteurs filaires aujourd'hui ?",
-  "Quelles sont les meilleures offres sur les enceintes pour les French Days ?"
+  "Quel casque pour ne plus entendre le bruit des transports ?",
+  "Quelle enceinte Marshall choisir pour mon salon ?",
+  "Quelle enceinte Bluetooth pour partir en week-end ?",
+  "Quelle différence entre l'Emberton et la Kilburn ?",
+  "Quelle enceinte pour diffuser de la musique en soirée ?"
  ],
  "cats": [
   [
@@ -190,5 +190,6 @@
    "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Marshall_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Marshall_sept2026.pptx",
+ "conv_msg": "Conversions mesurées par Cdiscount, non intégrées à ce rapport. Elles apparaîtront ici dès l'intégration du Conversion Tracker."
 }

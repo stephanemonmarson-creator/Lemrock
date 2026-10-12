@@ -144,10 +144,11 @@
   ]
  ],
  "queries": [
-  "Je veux un lave-vaisselle 60 cm à bandeau apparent à ~500 €",
-  "Un lave-vaisselle bon rapport qualité-prix pour moins de 600 € ?",
-  "L'entretien et la fiabilité sont-ils simples sur le long terme ?",
-  "Est-ce qu'il vaut mieux attendre le Black Friday ?"
+  "Quel lave-vaisselle Bosch pour une cuisine ouverte ?",
+  "Quelle différence entre encastrable et semi-intégrable ?",
+  "Un lave-vaisselle de 44 dB est-il vraiment silencieux ?",
+  "Quel modèle de 45 cm pour une petite cuisine ?",
+  "À quoi sert Home Connect sur un lave-vaisselle Bosch ?"
  ],
  "cats": [
   [
@@ -198,5 +199,6 @@
    "10,6 % des freins exprimés portent sur l'attente d'une promotion. Le CTR passe de 0,23 % à 0,50 %.",
    "Préparer des messages promotionnels dès début novembre."
   ]
- ]
+ ],
+ "conv_msg": "Conversions mesurées par Cdiscount, non intégrées à ce rapport. Elles apparaîtront ici dès l'intégration du Conversion Tracker."
 }

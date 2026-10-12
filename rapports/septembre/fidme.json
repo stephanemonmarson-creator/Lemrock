@@ -94,7 +94,11 @@
   ]
  ],
  "queries": [
-  "À compléter : le rapport d'insights ne fournit pas d'exemples de requêtes pour FidMe"
+  "Quelles offres de remboursement sur mes courses ?",
+  "Quelle boisson protéinée prendre avant un entraînement ?",
+  "Quel yaourt riche en protéines pour une collation ?",
+  "Quel dentifrice blanchissant utiliser au quotidien ?",
+  "Où trouver une promotion sur les pochons pour chat ?"
  ],
  "cats": [
   [
@@ -188,5 +192,6 @@
    "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/FidMe_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/FidMe_sept2026.pptx",
+ "conv_msg": "Conversions non mesurées par Lemrock sur cette campagne. Elles seront intégrées à ce rapport à partir de vos données dès leur transmission."
 }

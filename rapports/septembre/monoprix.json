@@ -93,11 +93,11 @@
   ]
  ],
  "queries": [
-  "Montre-moi des hauts ajustés pour accompagner ce jean gris",
-  "Quelle coupe de robe convient le mieux aux petites poitrines ?",
-  "Que choisir pour un look mariage avec un ensemble vichy ?",
-  "Quels collants opaques tu recommandes pour l'hiver ?",
-  "Où trouver ces Skechers et la livraison la plus rapide ?"
+  "Quel collant lisse la silhouette sans se voir ?",
+  "Quel collant ne marque pas la taille ?",
+  "Quel legging pour un enfant qui bouge beaucoup ?",
+  "Quelles chaussettes résistent le mieux aux lavages ?",
+  "Quel pyjama facilite le change d'un bébé la nuit ?"
  ],
  "cats": [
   [
@@ -183,5 +183,6 @@
    "YTD 0,00"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Monoprix_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Monoprix_sept2026.pptx",
+ "conv_msg": "Le Conversion Tracker est en cours d'implémentation. Les conversions apparaîtront dans ce rapport dès que la remontée des données sera validée."
 }

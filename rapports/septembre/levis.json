@@ -93,11 +93,11 @@
   ]
  ],
  "queries": [
-  "Show me fitted tops to go with these grey jeans",
-  "Where can I find comfortable tulip jeans with a little stretch?",
-  "Show me complete outfit ideas with a long denim skirt",
-  "What's the real difference between a softshell and a puffer jacket?",
-  "Can I wear these shorts to the office without looking too casual?"
+  "Which Levi's jeans for a relaxed fit?",
+  "Straight-leg or wide-leg jeans, what's the difference?",
+  "How should a pair of 501 jeans fit?",
+  "Which high-rise jeans make the legs look longer?",
+  "How does a Levi's Trucker jacket age over time?"
  ],
  "cats": [
   [
@@ -199,5 +199,6 @@
  "out": "/home/user/Lemrock/rapports/septembre/Levis_sept2026.pptx",
  "cats_title": "PRODUCT CATEGORIES",
  "lang": "en",
- "objectif": "To be defined"
+ "objectif": "To be defined",
+ "conv_msg": "The Conversion Tracker is not installed yet. Conversions will appear in this report once it is integrated."
 }

@@ -111,9 +111,9 @@
   ]
  ],
  "queries": [
+  "Quel vol direct choisir entre Paris et Lisbonne ?",
   "Quels vols au départ de Marseille vers Abidjan ?",
   "Existe-t-il un vol direct entre Paris et Fort-de-France ?",
-  "Quel vol direct choisir entre Paris et Lisbonne ?",
   "Où trouver un aller-retour Paris – Nice à un bon prix ?",
   "Quelle destination pour un week-end en Europe ?"
  ],
@@ -211,5 +211,6 @@
   ]
  ],
  "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Vols_sept2026.pptx",
- "objectif": "Atteindre un ROI de 35 pour un CA de 87 k€."
+ "objectif": "Atteindre un ROI de 35 pour un CA de 87 k€.",
+ "conv_msg": "Conversions communiquées via Awin, à titre indicatif. Elles seront consolidées dès l'intégration du Conversion Tracker."
 }

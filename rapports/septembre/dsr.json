@@ -184,5 +184,6 @@
    "Définir un objectif de campagne (inscriptions, visites de la page) pour piloter la suite."
   ]
  ],
- "objectif": "À définir"
+ "objectif": "À définir",
+ "conv_msg": "Campagne mesurée au clic : pas de suivi de conversion prévu."
 }

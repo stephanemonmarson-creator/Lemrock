@@ -106,9 +106,10 @@
  ],
  "queries": [
   "Où partir au soleil en octobre ?",
+  "Quel camping choisir pour des vacances en famille ?",
   "Quel séjour tout compris pour une famille ?",
-  "Peut-on payer un voyage en quatre fois ?",
-  "Quel hôtel choisir aux Canaries pour la Toussaint ?"
+  "Quelle croisière choisir en Méditerranée ?",
+  "Peut-on payer un voyage en quatre fois ?"
  ],
  "cats": [
   [
@@ -212,5 +213,6 @@
   ]
  ],
  "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Sejours_sept2026.pptx",
- "objectif": "Atteindre un ROI de 12 pour un CA de 30 k€."
+ "objectif": "Atteindre un ROI de 12 pour un CA de 30 k€.",
+ "conv_msg": "Conversions communiquées via Awin, à titre indicatif. Elles seront consolidées dès l'intégration du Conversion Tracker."
 }

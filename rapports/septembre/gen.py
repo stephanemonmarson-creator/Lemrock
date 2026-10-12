@@ -37,9 +37,21 @@ txt(1300,128,542,30,[R('vs 01/08/2026 → 31/08/2026',K,15,True)],align=PP_ALIGN
 for x,t in((87,'DIFFUSION'),(392,'ENGAGEMENT'),(1002,'CONVERSION')):txt(x,210,400,30,[R(t,O,14,True)])
 kp=[tuple(k[:3])+(GR if k[3]=='up' else RD if k[3]=='down' else G,k[4]) for k in D['kpis']]
 for i,(l,v,d,dc,y) in enumerate(kp):
-    x=87+i*305;rect(x,252,228,185,W,RGBColor(0xE4,0xE2,0xDC));rect(x,252,8,185,O)
-    txt(x+22,265,200,20,[R(l,G,10,True)]);txt(x+22,310,200,45,[R(v,K,22 if len(v)<9 else 18,True)])
-    txt(x+22,368,200,18,[R(d,dc,10,True)]);txt(x+22,390,200,15,[R('vs période préc.',G,7)]);txt(x+22,410,200,15,[R(y,G,8,False,True)])
+    x=87+i*305;gr=i>=3
+    if gr:
+        rect(x,252,228,185,RGBColor(0xF4,0xF3,0xF0),RGBColor(0xE4,0xE2,0xDC))
+        pl=s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE,X(x+118),X(238),X(100),X(28));pl.adjustments[0]=0.5;pl.fill.solid();pl.fill.fore_color.rgb=RGBColor(0xD9,0xD6,0xD1);pl.line.fill.background();pl.shadow.inherit=False
+        txt(x+118,238,100,28,[R('INDICATIF',G,8,True)],align=PP_ALIGN.CENTER,anchor=MSO_ANCHOR.MIDDLE)
+        dc=LG;vc=LG
+    else:
+        rect(x,252,228,185,W,RGBColor(0xE4,0xE2,0xDC));rect(x,252,8,185,O);vc=K
+    txt(x+22,280 if gr else 265,200,20,[R(l,LG if gr else G,10,True)]);txt(x+22,310,200,45,[R(v,vc,22 if len(v)<9 else 18,True)])
+    txt(x+22,368,200,18,[R(d,dc,10,True)]);txt(x+22,390,200,15,[R('vs période préc.',LG if gr else G,7)]);txt(x+22,410,200,15,[R(y,LG if gr else G,8,False,True)])
+if D.get('conv_msg'):
+    tri=s.shapes.add_shape(MSO_SHAPE.ISOSCELES_TRIANGLE,X(1405),X(441),X(30),X(14));tri.fill.solid();tri.fill.fore_color.rgb=RGBColor(0xEB,0xE9,0xE5);tri.line.fill.background();tri.shadow.inherit=False
+    b=s.shapes.add_shape(MSO_SHAPE.ROUNDED_RECTANGLE,X(1002),X(455),X(838),X(72));b.adjustments[0]=0.15;b.fill.solid();b.fill.fore_color.rgb=RGBColor(0xEB,0xE9,0xE5);b.line.fill.background();b.shadow.inherit=False
+    m=D['conv_msg'];h,_,t=m.partition(' : ') if ' : ' in m else ('',None,m)
+    txt(1022,462,798,60,[R(h+' : ',G,9,True),R(t,G,9)] if h else [R(t,G,9)],anchor=MSO_ANCHOR.MIDDLE)
 txt(87,545,1200,30,[R('INSIGHTS QUALITATIFS · ANALYSE DES RECHERCHES',O,14,True)])
 for x in(87,688,1289):rect(x,588,558,420,W,RGBColor(0xE4,0xE2,0xDC))
 # champ lexical

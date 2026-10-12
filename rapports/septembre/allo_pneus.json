@@ -1,0 +1,197 @@
+{
+ "client": "Allo Pneus",
+ "out": "Allo_Pneus_sept2026.pptx",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "577 195",
+   "▼ −59 %",
+   "down",
+   "YTD 3 845 061"
+  ],
+  [
+   "CLICS",
+   "2 287",
+   "▲ +6 %",
+   "up",
+   "YTD 6 845"
+  ],
+  [
+   "CTR",
+   "0,40 %",
+   "▲ +0,24 pt",
+   "up",
+   "YTD 0,18 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "pneu hiver",
+    "O",
+    20,
+    true
+   ],
+   [
+    "    jante",
+    "K",
+    18,
+    true
+   ]
+  ],
+  [
+   [
+    "3PMSF",
+    "G",
+    16,
+    true
+   ],
+   [
+    "    roue de secours",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "voiture électrique",
+    "O",
+    14,
+    true
+   ],
+   [
+    "    freinage",
+    "G",
+    13,
+    false
+   ]
+  ],
+  [
+   [
+    "Michelin Alpin",
+    "O",
+    12,
+    true
+   ],
+   [
+    "    loi montagne",
+    "K",
+    12,
+    true
+   ]
+  ],
+  [
+   [
+    "Continental WinterContact",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "chaînes à neige",
+    "O",
+    11,
+    true
+   ],
+   [
+    "    autonomie",
+    "G",
+    11,
+    false
+   ]
+  ],
+  [
+   [
+    "kit anti-crevaison",
+    "K",
+    11,
+    true
+   ],
+   [
+    "    toutes saisons",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "Quels pneus pas chers sont quand même sûrs ?",
+  "Quels pneus VE recommandez-vous pour une Zoé 2020 ?",
+  "Peux-tu comparer Michelin Alpin 7 et Continental WinterContact TS870 ?",
+  "Chaînes, chaussettes ou pneus hiver : quoi privilégier ?",
+  "Mes pneus toutes saisons suffisent-ils pour la loi montagne ?"
+ ],
+ "cats": [
+  [
+   "Pneus auto et dimensions",
+   66
+  ],
+  [
+   "Jantes et roues",
+   15
+  ],
+  [
+   "Pneus hiver et neige",
+   8
+  ],
+  [
+   "Crevaison et dépannage",
+   8
+  ],
+  [
+   "Pneus été et toutes saisons",
+   2
+  ],
+  [
+   "Pneus connectés",
+   1
+  ]
+ ],
+ "insights": [
+  [
+   "Préparer dès maintenant la saison hiver",
+   "Pneus hiver et chaînes à neige pèsent 8,5 % des produits nommés en septembre. Les questions sur la loi montagne, le marquage 3PMSF et la comparaison Michelin Alpin / Continental WinterContact se multiplient.",
+   "Lancer des messages hiver dès octobre : conformité loi montagne, comparatifs de modèles, montage avant les premiers froids."
+  ],
+  [
+   "Cibler les conducteurs de voitures électriques",
+   "De nombreuses requêtes citent un modèle électrique (Zoé 2020, MG4 EV Urban) ou s'interrogent sur l'impact des pneus ou des jantes sur l'autonomie.",
+   "Créer une campagne dédiée « pneus VE » : autonomie, silence de roulement et dimensions compatibles par modèle."
+  ],
+  [
+   "Transformer la visibilité payante en recommandation spontanée",
+   "Allo Pneus passe à 7,0 % de part de voix (+5,7 pts, 5e enseigne) et 21,3 % côté ads (+7,0 pts), mais reste sous 0,1 % dans les recommandations spontanées des IA, loin de Michelin et Norauto.",
+   "Maintenir la pression publicitaire et enrichir les contenus de marque (guides, fiches produits) pour être cité sans être nommé."
+  ],
+  [
+   "Répondre à des questions plus longues et plus précises",
+   "Les requêtes shopping passent à 12,5 mots en moyenne (+42,7 %). Trois conversations sur quatre sont déclenchées par l'achat d'une voiture. Le CTR passe de 0,15 % à 0,40 % sur le mois.",
+   "Décliner les accroches par véhicule et par dimension : « Quels pneus pour votre nouvelle voiture ? », puis la référence adaptée."
+  ]
+ ]
+}

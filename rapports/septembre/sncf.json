@@ -99,50 +99,50 @@
  ],
  "cats": [
   [
-   "Réservation de billets de train",
-   40
+   "Paris – Rennes",
+   23
   ],
   [
-   "Prix et petits prix",
-   20
+   "Paris – Lyon / Marseille / Nice",
+   23
   ],
   [
-   "Destinations et itinéraires",
-   16
+   "Paris – Bordeaux / Toulouse",
+   17
   ],
   [
-   "Cartes et abonnements",
-   12
+   "Paris – Nantes / Lille / Strasbourg",
+   21
   ],
   [
-   "Trains de nuit et international",
-   8
+   "International (Amsterdam, Barcelone)",
+   9
   ],
   [
-   "Bagages et services à bord",
-   4
+   "Autres liaisons",
+   7
   ]
  ],
  "insights": [
   [
-   "Une marque leader dans les conversations",
-   "La SNCF domine avec 56,4 % de part de voix et 61,8 % des recommandations spontanées des IA, loin devant easyJet et Air France.",
-   "Capitaliser sur cette position pour orienter les voyageurs vers SNCF Connect."
+   "Les trajets vers Paris cliquent le mieux",
+   "Les trajets Lille – Paris, Marseille – Paris et Lyon – Paris atteignent plus de 1,3 fois le CTR moyen.",
+   "Mettre en avant les trajets retour vers Paris."
   ],
   [
-   "Une part de voix qui recule",
-   "La part de voix baisse de 27,7 pts et la recommandation spontanée de 4,4 pts sur le mois. La part de voix ads reste sous 0,1 %, la campagne ayant démarré le 30/09.",
-   "Suivre l'effet de la campagne sur la part de voix dès octobre."
+   "Revoir Paris – Rennes",
+   "Paris – Rennes représente 23 % de la diffusion mais reste à 0,54 fois la moyenne.",
+   "Rééquilibrer la diffusion vers les liaisons qui cliquent le plus (Lyon, Toulouse, Lille)."
   ],
   [
-   "Les vacances, unique déclencheur",
-   "100 % des conversations du secteur sont déclenchées par un départ en vacances.",
-   "Associer les trajets aux périodes de vacances : Toussaint, Noël, vacances d'hiver."
+   "Les liaisons internationales intéressent",
+   "Paris – Barcelone (1,17 fois) et Paris – Amsterdam (1,10 fois) dépassent la moyenne.",
+   "Tester davantage de liaisons internationales."
   ],
   [
    "Premier jour de diffusion",
-   "La campagne a démarré le 30/09 : 139 036 impressions et 788 clics sur la journée, pour un CTR de 0,57 %.",
-   "Premier bilan complet à faire sur le mois d'octobre."
+   "Lancée le 30/09, la campagne génère 788 clics sur la journée, pour un CTR de 0,57 %.",
+   "Premier bilan complet sur le mois d'octobre."
   ]
  ],
  "kpis": [

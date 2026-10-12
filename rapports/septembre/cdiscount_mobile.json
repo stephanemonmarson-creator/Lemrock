@@ -103,57 +103,63 @@
  "cats": [
   [
    "Recherche générale d'un forfait",
-   36
+   0,
+   "< 1 %"
   ],
   [
    "eSIM et carte SIM",
-   25
+   0,
+   "< 1 %"
   ],
   [
    "Prix et sans engagement",
-   15
+   66
   ],
   [
    "Partage de connexion et nomade",
-   12
+   0,
+   "< 1 %"
   ],
   [
    "5G et volume de data",
-   6
+   34
   ],
   [
    "International et roaming",
-   4
+   0,
+   "< 1 %"
   ],
   [
    "Changement d'opérateur",
-   1
+   0,
+   "< 1 %"
   ],
   [
    "Forfaits par profil",
-   1
+   0,
+   "< 1 %"
   ]
  ],
  "insights": [
   [
-   "Activer le moment « départ en vacances »",
-   "Le départ en vacances déclenche 24,3 % des conversations, avec des recherches de forfait mobile et d'eSIM. L'achat ou le remplacement d'un smartphone en représente plus d'un tiers.",
-   "Pousser les offres forfait + eSIM avant les départs, et l'offre smartphone + forfait sur les moments de remplacement."
+   "Le forfait 40 Go est le plus efficace",
+   "Le forfait 40 Go sans engagement concentre deux tiers de la diffusion et reste au niveau du meilleur CTR (1,02 fois la moyenne).",
+   "Garder le 40 Go comme offre d'appel."
   ],
   [
-   "Répondre aux freins avant la souscription",
-   "Doute sur l'utilité (20,6 %), attente d'une promotion (17,9 %), compatibilité (16,7 %), prix (16,5 %) et fiabilité (16,5 %) se partagent les freins exprimés.",
-   "Mettre en avant le prix mensuel, la compatibilité réseau et un argument promo daté pour déclencher la décision."
+   "Les trois annonces performent de la même façon",
+   "Les 3 annonces diffusées sont entre 0,99 et 1,02 fois la moyenne : elles ne permettent pas de tester d'autres messages.",
+   "Ajouter des annonces par profil (vacances et eSIM, étudiants, famille) pour trouver de nouveaux leviers."
   ],
   [
-   "Capitaliser sur une marque déjà recommandée",
-   "Cdiscount Mobile est 3e en part de voix (11,3 %, +3,6 pts) et 3e des recommandations spontanées des IA (10,7 %), derrière Orange et Amazon. Côté ads : 9,3 % (+7,6 pts).",
-   "Renforcer la présence ads sur les requêtes forfaits pour passer devant Amazon et Orange."
+   "Activer le départ en vacances",
+   "Le départ en vacances déclenche 24 % des conversations du secteur, avec des recherches de forfait et d'eSIM.",
+   "Créer une annonce dédiée à l'eSIM et aux forfaits pour voyager."
   ],
   [
    "Les clics triplent, les conversions restent rares",
-   "Les clics passent de 2 980 à 9 138 (CTR 0,52 %, +0,31 pt), mais seules 4 conversions sont attribuées, loin de l'objectif de 550 souscriptions.",
-   "Vérifier le tracking Awin et la page d'atterrissage, puis orienter les accroches vers la souscription (prix, sans engagement)."
+   "9 138 clics (+207 %) mais 4 conversions seulement, loin de l'objectif de 550 souscriptions.",
+   "Vérifier le tracking Awin et le parcours de souscription."
   ]
  ],
  "kpis": [

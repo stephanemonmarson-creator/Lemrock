@@ -147,23 +147,25 @@
  "cats": [
   [
    "Comparaison marques et modèles",
-   54
+   46
   ],
   [
    "Encastrables et intégrables",
-   25
+   7
   ],
   [
    "Compacts et largeur 45 cm",
-   13
+   0,
+   "< 1 %"
   ],
   [
    "Grande capacité et 60 cm",
-   5
+   47
   ],
   [
    "Lave-vaisselle silencieux",
-   3
+   0,
+   "< 1 %"
   ],
   [
    "Lave-vaisselle connectés",
@@ -173,24 +175,24 @@
  ],
  "insights": [
   [
-   "Parler prix et dimensions sur le lave-vaisselle",
-   "Le lave-vaisselle pèse 4,6 % des produits nommés, mais les requêtes sont très précises : largeur 60 cm, bandeau apparent, budget autour de 500 à 600 €.",
-   "Construire les accroches autour du format et du prix : « Lave-vaisselle Bosch 60 cm à moins de 600 € »."
+   "Mettre en avant les modèles encastrables",
+   "Les lave-vaisselle tout encastrables et semi-encastrables atteignent 1,28 fois le CTR moyen. Ils ne représentent pourtant que 7 % de la diffusion.",
+   "Augmenter la part des modèles encastrables dans la diffusion."
   ],
   [
-   "Lever les freins avant l'achat",
-   "Le doute sur l'utilité réelle (26,7 %), le prix (20,6 %), la compatibilité avec la cuisine (14,0 %) et la fiabilité (12,1 %) sont les premiers freins exprimés.",
-   "Mettre en avant les économies d'eau et d'énergie, les dimensions d'encastrement et la durabilité de la marque."
+   "Les modèles d'entrée de gamme cliquent le mieux",
+   "Les Série 2 sont en tête (jusqu'à 1,41 fois la moyenne). Plusieurs Série 4 restent sous la moyenne (0,60 à 0,71 fois).",
+   "Mettre en avant les Série 2 avec un argument prix, et les Série 4 avec un bénéfice précis."
   ],
   [
-   "Convertir la recommandation spontanée des IA",
-   "Bosch est la 2e marque recommandée spontanément par les IA (17,8 %, +4,5 pts), juste derrière Samsung. Sa part de voix publicitaire reste faible à 4,2 % (+2,0 pts).",
-   "Renforcer la présence ads sur les topics électroménager pour capter cette préférence vers l'offre Cdiscount."
+   "Le silence est un argument fort",
+   "Le modèle pose libre à 38 dB fait partie des meilleures annonces (1,30 fois la moyenne).",
+   "Mettre le niveau sonore en avant dans les accroches, surtout pour les cuisines ouvertes."
   ],
   [
-   "Préparer le Black Friday dès maintenant",
-   "10,6 % des freins exprimés portent sur l'attente d'une promotion, par exemple le Black Friday. Le CTR passe de 0,23 % à 0,50 % malgré 44 % d'impressions en moins.",
-   "Préparer dès début novembre des messages promotionnels pour capter les acheteurs qui attendent le bon moment."
+   "Préparer le Black Friday",
+   "10,6 % des freins exprimés portent sur l'attente d'une promotion. Le CTR passe de 0,23 % à 0,50 %.",
+   "Préparer des messages promotionnels dès début novembre."
   ]
  ]
 }

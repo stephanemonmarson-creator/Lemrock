@@ -108,41 +108,42 @@
  "cats": [
   [
    "Casques et réduction de bruit",
-   55
+   36
   ],
   [
    "Enceintes Bluetooth portables",
-   35
+   33
   ],
   [
    "Enceintes pour le salon",
-   7
+   0,
+   "< 1 %"
   ],
   [
    "Enceintes de soirée",
-   3
+   31
   ]
  ],
  "insights": [
   [
-   "Cibler les moments vacances et étudiants",
-   "Le départ en vacances (25,4 %) et l'équipement d'un étudiant (20,6 %) sont les deux premiers déclencheurs de conversation.",
-   "Mettre en avant les enceintes nomades pour les vacances et les casques pour la vie étudiante."
+   "Mettre en avant les enceintes Bluetooth",
+   "Les enceintes sans fil Bluetooth atteignent 1,28 fois le CTR moyen. L'Acton III atteint 1,79 fois et l'Emberton III 1,32 fois.",
+   "Donner plus de place aux enceintes Bluetooth dans la diffusion."
   ],
   [
-   "Rassurer sur l'utilité, la compatibilité et le prix",
-   "Les trois premiers freins se valent : utilité réelle (23,3 %), compatibilité (22,1 %) et prix (21,7 %), souvent avec un budget précis (200 €, 400 €, 550 €).",
-   "Afficher le prix et la compatibilité (Bluetooth, smartphone, platine) directement dans l'accroche."
+   "Revoir les enceintes de soirée",
+   "Les enceintes sono et DJ Bromley restent à 0,63 fois la moyenne, alors qu'elles représentent 19 % de la diffusion.",
+   "Réduire leur part ou les associer à un usage précis (fête, extérieur)."
   ],
   [
-   "Une marque qui progresse dans les réponses des IA",
-   "Marshall est 5e en part de voix (8,1 %, +2,1 pts) et 4e des recommandations spontanées des IA (10,1 %, +4,5 pts). Côté ads : 14,5 % (+10,6 pts).",
-   "Poursuivre la montée en présence ads pour passer devant Bose et JBL."
+   "Le prix aide à cliquer sur les casques",
+   "Le casque Major V avec son prix (149,99 €) atteint 1,44 fois la moyenne. Sans prix, le même casque reste à 0,76 fois.",
+   "Afficher le prix dans les annonces casques."
   ],
   [
-   "Clics presque doublés",
-   "Les clics passent de 991 à 1 862 (+88 %) pour 15 % d'impressions en plus. Le CTR passe de 0,23 % à 0,37 %.",
-   "Garder le ciblage et tester des accroches « son vintage » sur les enceintes et platines."
+   "Les clics doublent presque",
+   "Les clics passent de 991 à 1 862 (+88 %). Le CTR passe de 0,23 % à 0,37 %.",
+   "Concentrer le budget sur les enceintes Bluetooth et les casques avec prix."
   ]
  ],
  "kpis": [

@@ -99,15 +99,15 @@
  "cats": [
   [
    "Boissons",
-   33
+   24
   ],
   [
    "Produits frais et végétaux",
-   29
+   17
   ],
   [
    "Épicerie et snacking",
-   15
+   18
   ],
   [
    "Cashback et coupons",
@@ -115,33 +115,33 @@
   ],
   [
    "Alimentation pour animaux",
-   9
+   4
   ],
   [
    "Hygiène, entretien et bébé",
-   1
+   24
   ]
  ],
  "insights": [
   [
-   "Profiter des achats cadeaux",
-   "Le cadeau déclenche 95,6 % des conversations du secteur, avec LEGO en tête des marques citées.",
-   "Mettre en avant les réductions et cartes de fidélité utiles pour les achats cadeaux, en vue de Noël."
+   "Les offres concrètes cliquent le mieux",
+   "L'offre « 2 € pour l'achat d'un pack STABILO » atteint 2,07 fois le CTR moyen.",
+   "Mettre le montant remboursé dans le titre de l'annonce."
   ],
   [
-   "Sortir de l'ombre des sites de bons plans",
-   "FidMe ne pèse que 0,7 % de part de voix (−1,0 pt), loin de Dealabs (53,8 %) et iGraal (15,3 %).",
-   "Positionner FidMe comme l'appli qui réunit cartes de fidélité, offres et cashback en un seul endroit."
+   "Les vins et les gourmandises surperforment",
+   "Les vins (1,28 fois), les snacks et confiseries (1,19 fois) et les boissons (1,18 fois) dépassent la moyenne.",
+   "Donner plus de place aux vins et gourmandises à l'approche des fêtes."
   ],
   [
-   "Une recommandation spontanée qui émerge",
-   "Les IA citent spontanément FidMe dans 5,1 % de leurs recommandations (+5,1 pts), au niveau d'iGraal. La part de voix ads recule à 15,4 % (−10,0 pts).",
-   "Regagner de la couverture ads sur les topics fidélité et wallet pour accompagner cette progression."
+   "Revoir le végétal, le bébé et l'animalerie",
+   "Les boissons végétales Bjorg (0,56 fois), Le Gaulois Végétal (0,60 fois), Blédichef (0,64 fois) et Whiskas (0,70 fois) restent sous la moyenne.",
+   "Tester des accroches centrées sur l'économie réalisée."
   ],
   [
    "Le CTR double",
-   "Les clics passent de 1 378 à 3 086 pour 16 % d'impressions en plus. Le CTR passe de 0,23 % à 0,44 %.",
-   "Poursuivre sur les accroches qui performent et décliner un message « cadeaux de fin d'année »."
+   "Les clics passent de 1 378 à 3 086. Le CTR passe de 0,23 % à 0,44 %. WaterWipes représente 16 % de la diffusion.",
+   "Poursuivre sur les offres qui performent et préparer les offres de Noël."
   ]
  ],
  "kpis": [

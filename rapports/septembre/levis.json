@@ -102,53 +102,54 @@
  "cats": [
   [
    "Jeans",
-   37
+   39
   ],
   [
    "Tops and shirts",
-   25
+   23
   ],
   [
    "Dresses, skirts and shorts",
-   11
-  ],
-  [
-   "Accessories",
    9
   ],
   [
+   "Accessories",
+   22
+  ],
+  [
    "Other relaxed bottoms",
-   8
+   0,
+   "< 1%"
   ],
   [
    "Jackets",
-   7
+   6
   ],
   [
    "Chinos and cargos",
-   3
+   1
   ]
  ],
  "insights": [
   [
-   "Jeans as the centre of the outfit",
-   "Queries often start from the jeans to build a look: tops to pair with them, a denim skirt, tulip jeans with stretch.",
-   "Build messages around the complete outfit: « The 501 and the top that goes with it »."
+   "Vintage and heritage pieces drive clicks",
+   "The Vintage Red Tab™ T-shirt reaches 1.84 times the average CTR, the Vintage Boxy sweatshirt 1.31 times and the Trucker jacket 1.38 times.",
+   "Put vintage and heritage pieces forward in the campaign."
   ],
   [
-   "Put the 501 forward",
-   "Levi's accounts for 41.1% of searches naming a brand, and the 501 Original Fit is the only model cited.",
-   "Make the 501 the lead product of the campaign."
+   "Jeans stay above average",
+   "Men's jeans reach 1.13 times the average and women's jeans 1.05 times. The XL Straight jean reaches 1.28 times.",
+   "Keep jeans at the centre, with a focus on relaxed and straight fits."
   ],
   [
-   "3rd brand, ahead of every denim specialist",
-   "Levi's ranks 3rd in share of voice (17.6%, +5.7 pts), behind Zara and Uniqlo. In AI spontaneous recommendations, Levi's drops to 7.9% (−4.4 pts). Ads share: 14.1% (−0.6 pt).",
-   "Keep ad presence and strengthen brand content to win back spontaneous recommendations."
+   "Accessories underperform",
+   "Belts, beanies and caps stay at 0.49 times the average.",
+   "Show accessories as a complement once the shopper has found their jeans."
   ],
   [
-   "Fewer impressions, more clicks",
-   "Impressions fall 29% but clicks rise 46%. CTR goes from 0.22% to 0.44%.",
-   "Keep the targeting and extend messages to the cold season (jackets, Trucker, outerwear)."
+   "Jackets and sweats are rising",
+   "Jackets and sweats reach 1.24 times the average and skirts and dresses 1.20 times.",
+   "Push outerwear for the cold season (Trucker, sherpa, sweats)."
   ]
  ],
  "kpis": [

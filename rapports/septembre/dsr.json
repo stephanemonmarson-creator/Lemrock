@@ -1,0 +1,188 @@
+{
+ "client": "Sécurité Routière",
+ "out": "/home/user/Lemrock/rapports/septembre/DSR_sept2026.pptx",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "374 204",
+   "—",
+   "n",
+   "YTD 374 204"
+  ],
+  [
+   "CLICS",
+   "1 591",
+   "—",
+   "n",
+   "YTD 1 591"
+  ],
+  [
+   "CTR",
+   "0,43 %",
+   "—",
+   "n",
+   "YTD 0,43 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "conduite accompagnée",
+    "O",
+    18,
+    true
+   ],
+   [
+    "   permis",
+    "K",
+    16,
+    true
+   ]
+  ],
+  [
+   [
+    "achat d'une voiture",
+    "G",
+    15,
+    true
+   ],
+   [
+    "   15 ans",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "vie en van",
+    "O",
+    13,
+    true
+   ],
+   [
+    "   vacances",
+    "G",
+    12,
+    false
+   ]
+  ],
+  [
+   [
+    "auto-école",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   3 000 km",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "raid en montagne",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   accident",
+    "G",
+    11,
+    false
+   ]
+  ],
+  [
+   [
+    "prévention",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   sécurité",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "À compléter : le rapport d'insights ne fournit pas d'exemples de requêtes pour la Sécurité Routière"
+ ],
+ "cats_title": "MOMENTS DE VIE",
+ "cats_sub": "Conversations déclenchées par un événement",
+ "cats": [
+  [
+   "Achat d'une voiture",
+   41
+  ],
+  [
+   "Vie en van",
+   17
+  ],
+  [
+   "Départ en vacances",
+   17
+  ],
+  [
+   "Raid en montagne",
+   12
+  ],
+  [
+   "Événement automobile",
+   6
+  ],
+  [
+   "Accident de voiture",
+   7
+  ]
+ ],
+ "insights": [
+  [
+   "L'achat d'une voiture, premier déclencheur",
+   "41 % des conversations du secteur sont déclenchées par l'achat d'une voiture, devant la vie en van et les départs en vacances (17 % chacun).",
+   "Relier la conduite accompagnée au futur premier véhicule : « Préparez le permis avant la première voiture »."
+  ],
+  [
+   "Une seule annonce diffusée",
+   "Toute la campagne repose sur l'annonce « Conduite accompagnée : 15 ans, c'est le bon moment », qui génère 1 591 clics pour un CTR de 0,43 %.",
+   "Ajouter des annonces variées (parents, économies, réussite au permis) pour identifier les messages qui cliquent le plus."
+  ],
+  [
+   "Parler aux parents",
+   "Les bénéfices de l'annonce (3 000 km au volant, meilleurs résultats au permis, moins d'accidents, moins cher) s'adressent surtout aux parents.",
+   "Tester une version dédiée aux parents et une version dédiée aux jeunes de 15 ans."
+  ],
+  [
+   "Premier mois de diffusion",
+   "La campagne génère 374 204 impressions et 1 591 clics en septembre.",
+   "Définir un objectif de campagne (inscriptions, visites de la page) pour piloter la suite."
+  ]
+ ],
+ "objectif": "À définir"
+}

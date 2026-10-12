@@ -4,79 +4,144 @@
  "words": [
   [
    [
-    "À compléter",
-    "G",
+    "prises connectées",
+    "O",
+    18,
+    true
+   ],
+   [
+    "   canalisations",
+    "K",
     16,
-    1
+    true
    ]
   ],
   [
    [
-    "Rapport d'insights de septembre",
+    "outils",
     "G",
-    11,
-    0
+    15,
+    true
+   ],
+   [
+    "   tuyaux PVC",
+    "K",
+    14,
+    true
    ]
   ],
   [
    [
-    "non disponible pour Mabex",
+    "gel",
+    "O",
+    13,
+    true
+   ],
+   [
+    "   humidimètre",
+    "G",
+    12,
+    false
+   ]
+  ],
+  [
+   [
+    "Legrand",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   Bosch",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   Makita",
     "G",
     11,
-    0
+    false
+   ]
+  ],
+  [
+   [
+    "chantier",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   peinture",
+    "G",
+    11,
+    false
+   ]
+  ],
+  [
+   [
+    "Leroy Merlin",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   Chausson",
+    "G",
+    11,
+    false
    ]
   ]
  ],
  "queries": [
-  "À compléter",
-  "À compléter",
-  "À compléter",
-  "À compléter",
-  "À compléter"
+  "Montre-moi des prises connectées compatibles avec ma box",
+  "Quelle puissance de prise renforcée recommandes-tu pour un usage quotidien ?",
+  "Comment protéger les canalisations et la pompe contre le gel ?",
+  "Quels risques pour les tuyaux PVC à long terme ?",
+  "Tu peux me recommander un bon humidimètre pour bois ?"
  ],
  "cats": [
   [
    "Électricité, interrupteurs et prises",
-   61
+   4
   ],
   [
    "Chauffe-eau et eau chaude",
-   20
+   11
   ],
   [
    "Chauffage et radiateurs",
-   16
-  ],
-  [
-   "EPI et vêtements de sécurité",
    3
   ],
   [
+   "EPI et vêtements de sécurité",
+   13
+  ],
+  [
    "Outillage et plomberie",
-   0,
-   "< 1 %"
+   69
   ]
  ],
  "insights": [
   [
-   "Diffusion multipliée par 3,6",
-   "Les impressions passent de 87 399 à 313 395 (+259 %) et les clics de 348 à 1 668 (+379 %). Le CTR progresse de 0,40 % à 0,53 %.",
-   "À compléter avec le rapport d'insights de septembre."
+   "La plomberie clique le plus",
+   "Le groupe plomberie atteint 1,43 fois le CTR moyen. L'annonce sur les colliers monobloc Nicoll atteint 2,35 fois.",
+   "Donner plus de place à la plomberie et au chauffe-eau dans la diffusion."
   ],
   [
-   "Mesurer les ventes pour piloter le ROAS",
-   "Aucune conversion n'est remontée en septembre : le ROAS cible (≥ 10) ne peut pas encore être mesuré.",
-   "Vérifier le tracking des ventes avec Mabex."
+   "Les packs d'outils séduisent les pros",
+   "Les packs d'outils électroportatifs (Milwaukee, Makita, Dewalt…) atteignent 1,87 fois la moyenne, avec la livraison offerte dès 120 € HT.",
+   "Mettre en avant les packs chantier et la livraison offerte."
   ],
   [
-   "À compléter",
-   "Rapport d'insights de septembre non disponible pour Mabex.",
-   "À compléter."
+   "Les interrupteurs restent un point fort",
+   "Les commandes d'éclairage Schneider Odace atteignent 1,36 fois la moyenne.",
+   "Conserver l'électricité comme univers clé de la campagne."
   ],
   [
-   "À compléter",
-   "Rapport d'insights de septembre non disponible pour Mabex.",
-   "À compléter."
+   "Revoir les fiches produit génériques",
+   "Les annonces au format « Référence + Tout l'équipement pro au meilleur prix » restent sous la moyenne (veste haute visibilité 0,52 fois, radiateur 0,58 fois).",
+   "Décrire le bénéfice pour le chantier plutôt que la seule référence."
   ]
  ],
  "kpis": [

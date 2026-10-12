@@ -97,50 +97,38 @@
  ],
  "cats": [
   [
-   "Ouverture de compte pro",
-   34
+   "Compte pro",
+   41
   ],
   [
    "Création d'entreprise",
-   22
+   30
   ],
   [
-   "Cartes et paiements",
-   18
-  ],
-  [
-   "Comparaison des banques pro",
-   14
-  ],
-  [
-   "Comptabilité et facturation",
-   8
-  ],
-  [
-   "Frais et tarifs",
-   4
+   "Facturation",
+   29
   ]
  ],
  "insights": [
   [
-   "Cibler la création d'entreprise",
-   "La création d'entreprise déclenche 15,1 % des conversations du secteur, un moment clé pour ouvrir un compte pro.",
-   "Construire les accroches autour du lancement : « Ouvrez votre compte pro en quelques minutes »."
+   "La facturation clique le plus",
+   "L'annonce « Logiciel de facturation gratuit » atteint 1,13 fois le CTR moyen.",
+   "Mettre en avant la facturation électronique, à l'approche de la réforme."
   ],
   [
-   "Être présent après une perte ou un vol de carte",
-   "Le remplacement après perte (19,2 %) et le vol de portefeuille (5,4 %) déclenchent près d'un quart des conversations.",
-   "Mettre en avant la gestion des cartes depuis l'appli (blocage, carte virtuelle)."
+   "La création d'entreprise fonctionne bien",
+   "L'annonce création d'entreprise atteint 1,06 fois la moyenne.",
+   "Cibler les moments de création (statuts, dépôt de capital, immatriculation)."
   ],
   [
-   "Une forte présence ads, peu de recommandation spontanée",
-   "Qonto pèse 47,8 % de part de voix ads (+45,6 pts) et 1,5 % de part de voix (+0,8 pt). Les IA citent spontanément Shine (18,3 %) et Revolut Business (14,4 %), mais Qonto dans moins de 0,1 % des cas.",
-   "Enrichir les contenus de marque (comparatifs, guides de création) pour être recommandé sans être nommé."
+   "Revoir l'annonce compte pro",
+   "Le compte pro représente 41 % de la diffusion mais reste à 0,86 fois la moyenne.",
+   "Tester une accroche plus concrète (ouverture en quelques minutes, cartes, virements instantanés)."
   ],
   [
    "Un premier mois solide",
-   "Lancée le 03/09, la campagne génère 1 094 021 impressions et 4 757 clics, pour un CTR de 0,43 %.",
-   "Mesurer les ouvertures de compte pour piloter la campagne au coût par acquisition."
+   "Lancée le 03/09, la campagne génère 4 757 clics pour un CTR de 0,43 %.",
+   "Mesurer les ouvertures de compte pour piloter la campagne."
   ]
  ],
  "kpis": [

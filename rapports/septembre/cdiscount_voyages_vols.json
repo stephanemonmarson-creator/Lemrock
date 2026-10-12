@@ -94,48 +94,49 @@
  "cats": [
   [
    "Recherche générique",
-   34
+   26
   ],
   [
    "Outre-mer et Caraïbes",
-   17
+   8
   ],
   [
    "Europe et city breaks",
-   20
+   8
   ],
   [
    "Afrique du Nord et Afrique",
-   14
+   25
   ],
   [
    "Long-courrier international",
-   11
+   33
   ],
   [
    "France métropolitaine",
-   4
+   0,
+   "< 1 %"
   ]
  ],
  "insights": [
   [
-   "Le départ en vacances concentre la demande",
-   "85,3 % des conversations sont déclenchées par un départ en vacances : billets d'avion, sac cabine, trousse de toilette.",
-   "Mettre en avant les vols vers les destinations des vacances de la Toussaint et de Noël."
+   "Les vols vers l'Afrique cliquent le mieux",
+   "Les vols Paris – Afrique et Maghreb atteignent 1,06 fois le CTR moyen, et Lyon – Abidjan 1,15 fois.",
+   "Renforcer les liaisons vers l'Afrique et le Maghreb."
   ],
   [
-   "Exister face aux compagnies et au train",
-   "Cdiscount Vols reste sous 0,1 % de part de voix (13e). La SNCF (31,7 %), easyJet et Transavia dominent. Côté ads : 6,1 %.",
-   "Renforcer la présence ads sur les requêtes de comparaison de vols et de prix."
+   "Mettre en avant une destination plutôt qu'un prix",
+   "Les annonces « destinations tendances » atteignent 1,08 fois la moyenne. Les vols court-courriers vers l'Europe restent à 0,94 fois.",
+   "Associer chaque annonce à une destination qui fait envie."
   ],
   [
-   "Un trafic multiplié par 5,5",
-   "Les clics passent de 1 694 à 9 406 (+455 %) et les impressions de 965 665 à 1 855 410 (+92 %). Le CTR passe de 0,18 % à 0,51 %.",
-   "Profiter de ce trafic pour pousser les offres les plus compétitives."
+   "Revoir l'Outre-mer",
+   "Les vols vers les DOM-TOM restent à 0,58 fois la moyenne.",
+   "Tester des accroches vacances de fin d'année pour la Martinique et la Guadeloupe."
   ],
   [
    "Aucune réservation attribuée",
-   "Aucune conversion n'est remontée par Awin en septembre malgré 9 406 clics, ni depuis le lancement : l'objectif de ROI de 35 ne peut pas être mesuré.",
+   "Aucune conversion n'est remontée par Awin en septembre malgré 9 406 clics.",
    "Vérifier le tracking Awin et le parcours jusqu'à la réservation."
   ]
  ],

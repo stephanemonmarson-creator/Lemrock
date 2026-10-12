@@ -106,49 +106,49 @@
  "cats": [
   [
    "Sièges auto et rehausseurs",
-   35
+   4
   ],
   [
    "Sommeil et voyage",
-   20
+   11
   ],
   [
    "Poussettes et mobilité",
-   25
+   6
   ],
   [
    "Sécurité de la maison",
-   8
+   62
   ],
   [
    "Repas, soin et toilette",
-   10
+   4
   ],
   [
    "Éveil et confort",
-   2
+   13
   ]
  ],
  "insights": [
   [
-   "Parler aux futurs parents au moment de la naissance",
-   "La naissance déclenche 75,3 % des conversations, loin devant le cadeau (11,4 %) et le départ en vacances (8,9 %).",
-   "Construire les accroches autour de l'arrivée de bébé : « Tout pour accueillir votre nouveau-né »."
+   "Les jeux d'éveil cliquent le plus",
+   "Le tapis d'éveil Gymini Tiny Love atteint 9,2 fois le CTR moyen, et le groupe jeux d'éveil 4,05 fois. Ils ne représentent pourtant que 3 % de la diffusion.",
+   "Augmenter fortement la part des jeux et tapis d'éveil dans la diffusion."
   ],
   [
-   "Mettre la poussette au premier plan",
-   "Les poussettes sont le premier produit nommé (36,4 %), devant les couches (33,2 %) et les biberons (25,3 %).",
-   "Prioriser les poussettes dans le carrousel et associer chaque modèle à un usage (voyage, ville, compacité)."
+   "Afficher le prix dans l'annonce",
+   "Les annonces avec un prix précis (tapis à 69,63 €, trotteur à 44,99 €) font partie des meilleures.",
+   "Indiquer le prix et la livraison offerte dans les accroches."
   ],
   [
-   "Une marque très recommandée par les IA",
-   "Dorel est 2e en part de voix (17,7 %, derrière Cybex) et 1re des recommandations spontanées des IA (74,4 %, +55,2 pts). Sa part de voix ads recule à 17,0 % (−7,4 pts).",
-   "Maintenir la pression ads pour transformer cette recommandation en clics vers Cdiscount."
+   "Revoir le mobilier et le sommeil",
+   "La chaise haute Lily (0,36 fois), le siège auto EvoluFix (0,46 fois) et le lit parapluie (0,50 fois) restent nettement sous la moyenne.",
+   "Associer ces produits à un moment concret (premier repas, départ en vacances)."
   ],
   [
    "Un CTR qui double",
    "Les clics sont multipliés par 3,5 (1 990) pour 60 % d'impressions en plus. Le CTR passe de 0,23 % à 0,51 %.",
-   "Garder le ciblage actuel et tester des accroches « voyage avec bébé » sur les poussettes compactes."
+   "Concentrer le budget sur l'éveil et la sécurité de la maison."
   ]
  ],
  "kpis": [

@@ -102,49 +102,49 @@
  "cats": [
   [
    "Viandes, volailles et charcuterie",
-   29
+   19
   ],
   [
    "Champagnes, vins et cadeaux",
-   22
+   31
   ],
   [
    "Poissons et produits de la mer",
-   21
+   18
   ],
   [
    "Fromages et produits laitiers",
-   21
+   16
   ],
   [
    "Épicerie sucrée et miel",
-   4
+   11
   ],
   [
    "Plats préparés et spécialités",
-   3
+   5
   ]
  ],
  "insights": [
   [
-   "Prouver la qualité des ingrédients",
-   "La composition et les ingrédients sont le premier frein (30,4 %), devant le doute sur l'utilité réelle (22,6 %) : l'audience lit les étiquettes et se méfie des mentions marketing.",
-   "Mettre en avant l'origine, la liste courte d'ingrédients et le savoir-faire artisanal de chaque produit."
+   "Mettre en avant les coffrets cadeaux",
+   "Le coffret Champagne et Safran atteint 1,96 fois le CTR moyen, le meilleur score du mois.",
+   "Préparer les coffrets cadeaux pour les fêtes de fin d'année."
   ],
   [
-   "Lever le frein du prix et de la livraison",
-   "Le prix (14,2 %) et la livraison (13,3 %) suivent : l'audience veut savoir où acheter en ligne et à quel coût.",
-   "Afficher les conditions de livraison et un panier découverte dans l'accroche."
+   "Les légumes de saison et les fromages cliquent bien",
+   "Les légumes de saison atteignent 1,42 fois la moyenne, le comté 12 mois AOP 1,24 fois.",
+   "Associer chaque produit à son producteur et à sa saison."
   ],
   [
-   "Exister face à Picard",
-   "Pour de Bon pèse 2,9 % de part de voix (+1,0 pt, 6e), Picard 66,2 %. Les IA ne citent pas encore spontanément Pour de Bon (< 0,1 %). Côté ads : 14,7 % (+1,2 pt).",
-   "Maintenir la présence ads et développer des contenus (recettes, guides produits) pour être recommandé."
+   "Revoir les poissons et fruits de mer",
+   "Les poissons et fruits de mer restent à 0,52 fois la moyenne (huîtres gratinées 0,44 fois, saumon au miel 0,46 fois), alors qu'ils représentent 14 % de la diffusion.",
+   "Réduire leur part ou les présenter comme une idée de repas de fête."
   ],
   [
    "Moins d'impressions, plus de clics",
-   "Les impressions baissent de 31 %, mais les clics progressent de 32 %. Le CTR passe de 0,25 % à 0,48 %.",
-   "Prolonger le ciblage resserré et tester des accroches recettes de saison."
+   "Les impressions baissent de 31 % mais les clics progressent de 32 %. Le CTR passe de 0,25 % à 0,48 %.",
+   "Prolonger le ciblage resserré."
   ]
  ],
  "kpis": [

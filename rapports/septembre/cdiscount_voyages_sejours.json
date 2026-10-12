@@ -100,53 +100,58 @@
  "cats": [
   [
    "Campings et camping-cars",
-   40
+   0,
+   "< 1 %"
   ],
   [
    "Hôtels et hébergements",
-   28
+   89
   ],
   [
    "Croisières, ferries et trains",
-   14
+   0,
+   "< 1 %"
   ],
   [
    "Séjours tout compris",
-   8
+   11
   ],
   [
    "Parcs et séjours en famille",
-   5
+   0,
+   "< 1 %"
   ],
   [
    "Vols et billets d'avion",
-   4
+   0,
+   "< 1 %"
   ],
   [
    "Bien-être et thalasso",
-   1
+   0,
+   "< 1 %"
   ]
  ],
  "insights": [
   [
-   "Le départ en vacances concentre la demande",
-   "82,3 % des conversations du secteur sont déclenchées par un départ en vacances, avec des recherches de billets d'avion et d'agence.",
-   "Associer chaque séjour à une date de départ proche : « Partez aux vacances de la Toussaint »."
+   "Mettre en avant une destination précise",
+   "Les annonces qui décrivent un hôtel et sa destination (Fuerteventura, Majorque, Grèce, Dubaï) atteignent jusqu'à 1,23 fois le CTR moyen.",
+   "Construire chaque annonce autour d'un lieu et de ce qu'on y vit."
   ],
   [
-   "Gagner en visibilité face à Airbnb et Booking",
-   "Cdiscount Voyages reste sous 0,1 % de part de voix (13e), face à Airbnb (31,8 %) et Booking (21,6 %). Côté ads : 4,0 %.",
-   "Élargir les topics ciblés (séjours, clubs, tout compris) pour augmenter la présence publicitaire."
+   "L'annonce générique sous-performe",
+   "L'annonce « Séjour pas cher – Paiement en 4x » reste à 0,86 fois la moyenne.",
+   "Garder le paiement en 4x comme argument secondaire, après la destination."
+  ],
+  [
+   "Les Canaries et les Baléares portent la campagne",
+   "Les Canaries et les Baléares représentent 29 % de la diffusion, avec des CTR au-dessus de la moyenne.",
+   "Préparer les séjours soleil d'hiver (Canaries, Égypte, Dubaï) pour la Toussaint et Noël."
   ],
   [
    "Des réservations en hausse",
-   "4 réservations en septembre pour 1 119 € de GMV (2 en août). Le ROAS passe de 0,82 à 1,30, encore loin de l'objectif de 12.",
-   "Accélérer sur les offres qui convertissent, avant la fin de tranche."
-  ],
-  [
-   "Moins d'impressions, plus de clics",
-   "Les impressions baissent de 52 %, mais les clics progressent de 26 %. Le CTR passe de 0,19 % à 0,50 %.",
-   "Conserver le ciblage resserré et tester des accroches prix / dernière minute."
+   "4 réservations pour 1 119 € de GMV. Le ROAS passe de 0,82 à 1,30.",
+   "Concentrer le budget sur les offres qui convertissent."
   ]
  ],
  "kpis": [

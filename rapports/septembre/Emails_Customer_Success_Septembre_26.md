@@ -303,6 +303,8 @@ Bonne journée,
 
 **Objet : Rapport de performance Cdiscount Voyages – Séjours - septembre 2026**
 
+> **À vérifier** : Les 4 conversions de septembre incluent 2 achats artificiels Lemrock (29/09 : 83 €, 30/09 : 85 €). KPI conversions / ROAS de la slide à corriger avant envoi.
+
 **À :** Alice Mondon, Florian Guerra
 
 Bonjour Alice, bonjour Florian,
@@ -354,7 +356,7 @@ Bonne journée,
 
 **Objet : Rapport de performance Cdiscount Voyages – Vols - septembre 2026**
 
-> **À vérifier** : Conversions : Awin ne distingue pas Vols et Séjours ; harmoniser la convention d'attribution avant envoi.
+> **À vérifier** : 1 achat artificiel Lemrock le 29/09 (66 €) à exclure. Conversions : Awin ne distingue pas Vols et Séjours ; harmoniser la convention d'attribution avant envoi.
 
 **À :** Alice Mondon, Florian Guerra
 
@@ -697,7 +699,7 @@ Bonne journée,
 
 **Objet : Rapport de performance Monoprix Mode - septembre 2026**
 
-> **À vérifier** : La slide indique 0 conversion en septembre alors que Kwanko en mesure 4 sur Mode : à aligner.
+> **À vérifier** : Ne pas citer les ventes Kwanko de septembre : 3 des 4 ventes Mode sont des achats artificiels Lemrock (#achats-artificiels, 24/09 et 30/09).
 
 **À :** Sarah Touaimia (Monoprix) ; cc : Julie Mazille (Kwanko)
 
@@ -705,7 +707,7 @@ Bonjour Sarah, bonjour Julie,
 
 Vous trouverez ci-joint le rapport de performance de Monoprix Mode pour le mois de septembre 2026.
 
-Suite à notre point du 30/09 : Kwanko a mesuré 4 ventes Mode en septembre (10 au total avec Courses, contre 2 en août), 100 % de nouveaux clients.
+Suite à notre point du 30/09, nous restons mobilisés pour vous accompagner sur l'installation du Conversion Tracker.
 
 Par rapport à août :
 
@@ -846,7 +848,7 @@ Bonjour Marine, bonjour Thomas,
 
 Vous trouverez ci-joint le rapport de performance de Qonto pour le mois de septembre 2026.
 
-Merci pour l'installation du tracker via GTM le 07/10 : les premiers événements remontent bien.
+Merci pour l'installation du Conversion Tracker via GTM le 07/10 : nous avons reçu un premier événement le 08/10 et suivons sa montée en charge.
 
 C'était le premier mois de diffusion de la campagne :
 

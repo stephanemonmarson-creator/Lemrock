@@ -48,13 +48,13 @@
  "words": [
   [
    [
-    "pneu hiver",
+    "toutes saisons",
     "O",
     20,
     true
    ],
    [
-    "    jante",
+    "    3PMSF",
     "K",
     18,
     true
@@ -62,13 +62,13 @@
   ],
   [
    [
-    "3PMSF",
+    "loi montagne",
     "G",
     16,
     true
    ],
    [
-    "    roue de secours",
+    "    freinage",
     "K",
     14,
     true
@@ -76,13 +76,13 @@
   ],
   [
    [
-    "voiture électrique",
+    "pas chers",
     "O",
     14,
     true
    ],
    [
-    "    freinage",
+    "    sûrs",
     "G",
     13,
     false
@@ -90,13 +90,13 @@
   ],
   [
    [
-    "Michelin Alpin",
+    "voiture électrique",
     "O",
     12,
     true
    ],
    [
-    "    loi montagne",
+    "    MG4 EV",
     "K",
     12,
     true
@@ -104,35 +104,33 @@
   ],
   [
    [
-    "Continental WinterContact",
+    "Zoé",
     "K",
-    11,
-    true
-   ]
-  ],
-  [
-   [
-    "chaînes à neige",
-    "O",
     11,
     true
    ],
    [
-    "    autonomie",
+    "    pneus hiver",
     "G",
     11,
     false
+   ],
+   [
+    "    chaînes à neige",
+    "O",
+    11,
+    true
    ]
   ],
   [
    [
-    "kit anti-crevaison",
+    "dimensions",
     "K",
     11,
     true
    ],
    [
-    "    toutes saisons",
+    "    Continental",
     "G",
     11,
     false
@@ -141,10 +139,10 @@
  ],
  "queries": [
   "Quels pneus pas chers sont quand même sûrs ?",
-  "Quels pneus VE recommandez-vous pour une Zoé 2020 ?",
-  "Peux-tu comparer Michelin Alpin 7 et Continental WinterContact TS870 ?",
-  "Chaînes, chaussettes ou pneus hiver : quoi privilégier ?",
-  "Mes pneus toutes saisons suffisent-ils pour la loi montagne ?"
+  "Comment savoir si mes pneus toutes saisons suffisent pour la loi montagne ?",
+  "Quels modèles 3PMSF recommandes-tu pour la MG4 EV Urban en 2026 ?",
+  "Quels pneus recommanderais-tu pour améliorer les distances de freinage à 130 km/h ?",
+  "Quels pneus VE recommandez-vous pour une Zoé 2020 ?"
  ],
  "cats": [
   [
@@ -176,24 +174,24 @@
  ],
  "insights": [
   [
-   "Préparer dès maintenant la saison hiver",
-   "Pneus hiver et chaînes à neige pèsent 8,5 % des produits nommés en septembre. Les questions sur la loi montagne, le marquage 3PMSF et la comparaison Michelin Alpin / Continental WinterContact se multiplient.",
-   "Lancer des messages hiver dès octobre : conformité loi montagne, comparatifs de modèles, montage avant les premiers froids."
+   "Présenter le 4 saisons comme la réponse à l'hiver",
+   "Pneus hiver et chaînes à neige pèsent 8,5 % des produits nommés, avec des questions sur la loi montagne et le 3PMSF. Or 30 des 47 références du catalogue sont des pneus 4 saisons certifiés 3PMSF (Continental, Dunlop, Falken).",
+   "Accroche type : « Pneus 4 saisons 3PMSF : conformes à la loi montagne, sans changer de pneus à chaque saison »."
   ],
   [
-   "Cibler les conducteurs de voitures électriques",
-   "De nombreuses requêtes citent un modèle électrique (Zoé 2020, MG4 EV Urban) ou s'interrogent sur l'impact des pneus ou des jantes sur l'autonomie.",
-   "Créer une campagne dédiée « pneus VE » : autonomie, silence de roulement et dimensions compatibles par modèle."
+   "Rassurer sur le rapport sécurité / prix",
+   "Les requêtes associent prix et sécurité (« pas chers mais sûrs », distances de freinage à 130 km/h). Le catalogue va de 52 € à 249 € le pneu, avec des marques premium (Continental, Bridgestone, Dunlop).",
+   "Mettre en avant les marques premium à prix accessible et les étiquettes européennes (freinage sur sol mouillé, bruit)."
   ],
   [
-   "Transformer la visibilité payante en recommandation spontanée",
-   "Allo Pneus passe à 7,0 % de part de voix (+5,7 pts, 5e enseigne) et 21,3 % côté ads (+7,0 pts), mais reste sous 0,1 % dans les recommandations spontanées des IA, loin de Michelin et Norauto.",
-   "Maintenir la pression publicitaire et enrichir les contenus de marque (guides, fiches produits) pour être cité sans être nommé."
+   "Répondre aux conducteurs de voitures électriques",
+   "Plusieurs requêtes citent un modèle électrique (MG4 EV, Zoé 2020) et cherchent des pneus adaptés ou certifiés 3PMSF.",
+   "Proposer les dimensions compatibles avec ces modèles et mettre en avant le silence de roulement et l'adhérence."
   ],
   [
-   "Répondre à des questions plus longues et plus précises",
-   "Les requêtes shopping passent à 12,5 mots en moyenne (+42,7 %). Trois conversations sur quatre sont déclenchées par l'achat d'une voiture. Le CTR passe de 0,15 % à 0,40 % sur le mois.",
-   "Décliner les accroches par véhicule et par dimension : « Quels pneus pour votre nouvelle voiture ? », puis la référence adaptée."
+   "Une visibilité en forte hausse",
+   "Allo Pneus passe à 7,0 % de part de voix (+5,7 pts) et 21,3 % côté ads (+7,0 pts). Le CTR passe de 0,15 % à 0,40 % malgré l'arrêt de diffusion du 10 au 14/09.",
+   "Maintenir la pression ads en octobre, au cœur de la saison du changement de pneus."
   ]
  ]
 }

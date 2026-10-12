@@ -6,6 +6,7 @@ from pptx.enum.text import PP_ALIGN, MSO_ANCHOR
 O=RGBColor(0xEE,0x6A,0x2C);K=RGBColor(0x11,0x11,0x11);G=RGBColor(0x55,0x5B,0x66);LG=RGBColor(0x8A,0x93,0xA6)
 GR=RGBColor(0x1E,0x7B,0x34);RD=RGBColor(0xB0,0x48,0x37);BG=RGBColor(0xF8,0xF6,0xF2);W=RGBColor(255,255,255);BOX=RGBColor(0xF1,0xEF,0xEA)
 import json,sys
+D={}
 p=Presentation();p.slide_width=Emu(12192000);p.slide_height=Emu(6858000)
 for name in ['1001_pneus', 'allo_pneus', 'archipel', 'basket4ballers', 'bayard_jeunesse', 'bosch', 'cdiscount_mobile', 'cdiscount_voyages_sejours', 'cdiscount_voyages_vols', 'dorel', 'fidme', 'iopole', 'la_redoute', 'levis', 'mabex', 'marshall', 'monoprix_courses', 'monoprix', 'pierre_et_vacances', 'pour_de_bon', 'qonto', 'ryobi', 'smartphone_id', 'sncf']:
     D=json.load(open(name+'.json'))
@@ -25,7 +26,11 @@ for name in ['1001_pneus', 'allo_pneus', 'archipel', 'basket4ballers', 'bayard_j
             for t,c,sz,b,it in line:
                 r=para.add_run();r.text=t;f=r.font;f.size=Pt(sz);f.bold=b;f.italic=it;f.color.rgb=c;f.name='Arial'
         return tb
-    R=lambda t,c=K,sz=12,b=False,it=False:(t,c,sz,b,it)
+    TR={'RAPPORT DE PERFORMANCE · 01/09/2026 → 30/09/2026':'PERFORMANCE REPORT · 01/09/2026 → 30/09/2026','COMPARAISON':'COMPARISON','DIFFUSION':'REACH','vs période préc.':'vs prev. period',
+    'INSIGHTS QUALITATIFS · ANALYSE DES RECHERCHES':'QUALITATIVE INSIGHTS · SEARCH ANALYSIS','CHAMP LEXICAL':'LEXICAL FIELD','Termes les plus fréquents':'Most frequent terms','EXEMPLES DE REQUÊTES':'SAMPLE QUERIES',
+    'Questions posées aux IA':'Questions asked to AI','CATÉGORIES DE PRODUITS':'PRODUCT CATEGORIES','Répartition des requêtes':'Campaign product mix','INSIGHTS QUALITATIFS · SEPTEMBRE 2026':'QUALITATIVE INSIGHTS · SEPTEMBER 2026',
+    'OBJECTIF   ':'OBJECTIVE   ','INSIGHTS QUALITATIFS':'QUALITATIVE INSIGHTS','À définir':'To be defined','CLICS':'CLICKS','N/C':'N/A'}
+    R=lambda t,c=K,sz=12,b=False,it=False:((TR.get(t,t) if D.get('lang')=='en' else t),c,sz,b,it)
     rect(0,0,2000,1125,BG);rect(15,20,1905,14,O)
     txt(87,80,1200,30,[R('RAPPORT DE PERFORMANCE · 01/09/2026 → 30/09/2026',O,13,True)])
     txt(87,105,1200,80,[R(D['client'],K,36,True)])
@@ -52,12 +57,12 @@ for name in ['1001_pneus', 'allo_pneus', 'archipel', 'basket4ballers', 'bayard_j
         y=700+i*60;rect(728,y,478,50,BOX);txt(748,y,30,50,[R('🔍',G,9)],anchor=MSO_ANCHOR.MIDDLE);txt(786,y,410,50,[R(q,K,9)],anchor=MSO_ANCHOR.MIDDLE)
     # categories
     txt(1329,618,480,25,[R(D.get('cats_title','CATÉGORIES DE PRODUITS'),G,13,True)]);txt(1329,655,480,20,[R(D.get('cats_sub','Répartition des requêtes'),LG,10,False,True)])
-    PAL=[RGBColor(0x1C,0x7C,0x8C),RGBColor(0x7A,0x4E,0x96),RGBColor(0xEB,0x9A,0x5E),O,RGBColor(0x3E,0x5A,0x78),RGBColor(0xA0,0x92,0x78)]
+    PAL=[RGBColor(0x1C,0x7C,0x8C),RGBColor(0x7A,0x4E,0x96),RGBColor(0xEB,0x9A,0x5E),O,RGBColor(0x3E,0x5A,0x78),RGBColor(0xA0,0x92,0x78),RGBColor(0x8C,0xB3,0x6B),RGBColor(0xC9,0x5B,0x7A)]
     cats=[(c[0],c[1],PAL[i],c[2] if len(c)>2 else f'{c[1]} %') for i,c in enumerate(D['cats'])]
     txt(1740,685,85,20,[R('100%',K,11,True)],align=PP_ALIGN.RIGHT)
     y0=730;H=220
     for i,(n,v,c,lab) in enumerate(cats):
-        yy=715+i*44;rect(1325,yy+8,20,20,c);txt(1361,yy+5,340,25,[R(n if (i==0 and v>=25) else f'{n} · {lab}',K,10)])
+        yy=715+i*(44 if len(cats)<=6 else 36);rect(1325,yy+8,20,20,c);_t=n if (i==0 and v>=25) else f'{n} · {lab}';txt(1361,yy+5,365,25,[R(_t,K,10 if len(_t)<34 else 8)])
     for n,v,c,lab in cats:
         h=H*v/100;b=rect(1733,y0,78,h,c)
         if v>=25:txt(1733,y0,78,h,[R(f'{v} %',W,10,True)],align=PP_ALIGN.CENTER,anchor=MSO_ANCHOR.MIDDLE)

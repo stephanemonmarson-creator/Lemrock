@@ -1,8 +1,6 @@
 {
  "client": "FidMe",
  "objectif": "Acquérir de nouveaux clients.",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -100,28 +98,28 @@
  ],
  "cats": [
   [
-   "Dealabs",
-   54
+   "Boissons",
+   33
   ],
   [
-   "iGraal",
+   "Produits frais et végétaux",
+   29
+  ],
+  [
+   "Épicerie et snacking",
    15
   ],
   [
-   "Google Wallet",
-   8
-  ],
-  [
-   "Joko",
-   5
-  ],
-  [
-   "Poulpeo",
-   5
-  ],
-  [
-   "Autres (dont FidMe 0,7 %)",
+   "Cashback et coupons",
    13
+  ],
+  [
+   "Alimentation pour animaux",
+   9
+  ],
+  [
+   "Hygiène, entretien et bébé",
+   1
   ]
  ],
  "insights": [

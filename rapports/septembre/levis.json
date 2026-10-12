@@ -3,58 +3,58 @@
  "words": [
   [
    [
-    "jean",
+    "jeans",
     "O",
     18,
-    1
+    true
    ],
    [
     "   501 Original Fit",
     "K",
     16,
-    1
+    true
    ]
   ],
   [
    [
-    "jean tulipe",
+    "tulip jeans",
     "G",
     15,
-    1
+    true
    ],
    [
-    "   élasthanne",
+    "   stretch",
     "K",
     14,
-    1
+    true
    ]
   ],
   [
    [
-    "hauts ajustés",
+    "fitted tops",
     "O",
     13,
-    1
+    true
    ],
    [
-    "   doudoune",
+    "   puffer jacket",
     "G",
     12,
-    0
+    false
    ]
   ],
   [
    [
-    "jupe en jean",
+    "denim skirt",
     "O",
     11,
-    1
+    true
    ],
    [
-    "   veste",
+    "   jacket",
     "K",
     11,
-    1
+    true
    ]
   ],
   [
@@ -62,89 +62,93 @@
     "Zara",
     "K",
     11,
-    1
+    true
    ],
    [
     "   Uniqlo",
     "G",
     11,
-    0
+    false
    ],
    [
     "   Wrangler",
     "O",
     11,
-    1
+    true
    ]
   ],
   [
    [
-    "collants",
+    "tights",
     "K",
     11,
-    1
+    true
    ],
    [
     "   Celio",
     "G",
     11,
-    0
+    false
    ]
   ]
  ],
  "queries": [
-  "Montre-moi des hauts ajustés pour accompagner ce jean gris",
-  "Où trouver des jeans tulipe confortables avec un peu d'élasthanne ?",
-  "Montre-moi des idées de tenues complètes avec la jupe en jean longue",
-  "C'est quoi la vraie différence entre une softshell et une doudoune ?",
-  "Peut-on porter ce short au bureau sans être trop décontractée ?"
+  "Show me fitted tops to go with these grey jeans",
+  "Where can I find comfortable tulip jeans with a little stretch?",
+  "Show me complete outfit ideas with a long denim skirt",
+  "What's the real difference between a softshell and a puffer jacket?",
+  "Can I wear these shorts to the office without looking too casual?"
  ],
  "cats": [
   [
-   "Hauts et pantalons",
-   29
+   "Jeans",
+   37
   ],
   [
-   "Vestes et plein air",
-   21
+   "Tops and shirts",
+   25
   ],
   [
-   "Sport et cyclisme",
+   "Dresses, skirts and shorts",
    11
   ],
   [
-   "Robes et jupes",
-   13
+   "Accessories",
+   9
   ],
   [
-   "Lingerie et chaussettes",
-   12
+   "Other relaxed bottoms",
+   8
   ],
   [
-   "Autres",
-   14
+   "Jackets",
+   7
+  ],
+  [
+   "Chinos and cargos",
+   3
   ]
  ],
  "insights": [
   [
-   "Le jean comme pièce centrale du look",
-   "Les requêtes partent souvent du jean pour construire une tenue : hauts à associer, jupe en jean, jean tulipe avec élasthanne.",
-   "Construire les accroches autour du look complet : « Le 501 et le haut qui va avec »."
+   "Jeans as the centre of the outfit",
+   "Queries often start from the jeans to build a look: tops to pair with them, a denim skirt, tulip jeans with stretch.",
+   "Build messages around the complete outfit: « The 501 and the top that goes with it »."
   ],
   [
-   "Mettre en avant le 501",
-   "Levi's représente 41,1 % des recherches qui nomment une marque, et le 501 Original Fit est le seul modèle cité.",
-   "Faire du 501 le produit d'appel des campagnes."
+   "Put the 501 forward",
+   "Levi's accounts for 41.1% of searches naming a brand, and the 501 Original Fit is the only model cited.",
+   "Make the 501 the lead product of the campaign."
   ],
   [
-   "3e marque, devant tous les spécialistes du jean",
-   "Levi's est 3e en part de voix (17,6 %, +5,7 pts), derrière Zara et Uniqlo. Dans les recommandations spontanées des IA, Levi's recule à 7,9 % (−4,4 pts). Côté ads : 14,1 % (−0,6 pt).",
-   "Maintenir la présence ads et renforcer les contenus pour regagner les recommandations spontanées."
+   "3rd brand, ahead of every denim specialist",
+   "Levi's ranks 3rd in share of voice (17.6%, +5.7 pts), behind Zara and Uniqlo. In AI spontaneous recommendations, Levi's drops to 7.9% (−4.4 pts). Ads share: 14.1% (−0.6 pt).",
+   "Keep ad presence and strengthen brand content to win back spontaneous recommendations."
   ],
   [
-   "Moins d'impressions, plus de clics",
-   "Les impressions baissent de 29 %, mais les clics progressent de 46 %. Le CTR passe de 0,22 % à 0,44 %.",
-   "Garder le ciblage et décliner les accroches sur la saison froide (vestes, doudounes)."
+   "Fewer impressions, more clicks",
+   "Impressions fall 29% but clicks rise 46%. CTR goes from 0.22% to 0.44%.",
+   "Keep the targeting and extend messages to the cold season (jackets, Trucker, outerwear)."
   ]
  ],
  "kpis": [
@@ -153,43 +157,46 @@
    "378 398",
    "▼ −29 %",
    "down",
-   "YTD 961 503"
+   "YTD 1 193 411"
   ],
   [
-   "CLICS",
+   "CLICKS",
    "1 677",
    "▲ +46 %",
    "up",
-   "YTD 2 927"
+   "YTD 3 370"
   ],
   [
    "CTR",
    "0,44 %",
    "▲ +0,23 pt",
    "up",
-   "YTD 0,30 %"
+   "YTD 0,28 %"
   ],
   [
    "CONVERSIONS",
-   "N/C",
+   "N/A",
    "—",
    "n",
    "YTD —"
   ],
   [
    "CVR",
-   "N/C",
+   "N/A",
    "—",
    "n",
    "YTD —"
   ],
   [
    "ROAS",
-   "N/C",
+   "N/A",
    "—",
    "n",
    "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Levis_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Levis_sept2026.pptx",
+ "cats_title": "PRODUCT CATEGORIES",
+ "lang": "en",
+ "objectif": "To be defined"
 }

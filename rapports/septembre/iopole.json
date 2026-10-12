@@ -1,7 +1,5 @@
 {
  "client": "Iopole",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -93,28 +91,24 @@
  ],
  "cats": [
   [
-   "Chorus Pro",
-   36
+   "Compréhension de la facturation électronique",
+   35
   ],
   [
-   "Pennylane",
+   "Recherche et comparaison de plateformes agréées",
+   29
+  ],
+  [
+   "Calendrier, réforme et obligations",
+   15
+  ],
+  [
+   "Application selon le profil de l'entreprise",
    12
   ],
   [
-   "Indy",
-   11
-  ],
-  [
-   "Odoo",
-   10
-  ],
-  [
-   "Tiime",
-   7
-  ],
-  [
-   "Autres (dont Iopole 0,2 %)",
-   24
+   "Intégration technique et interopérabilité",
+   9
   ]
  ],
  "insights": [

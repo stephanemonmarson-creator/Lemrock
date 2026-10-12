@@ -101,20 +101,28 @@
  ],
  "cats": [
   [
-   "Produits frais",
-   42
+   "Viandes, volailles et charcuterie",
+   29
   ],
   [
-   "Épicerie salée",
-   33
+   "Champagnes, vins et cadeaux",
+   22
   ],
   [
-   "Boulangerie et sucré",
-   16
+   "Poissons et produits de la mer",
+   21
   ],
   [
-   "Plats préparés et autres",
-   9
+   "Fromages et produits laitiers",
+   21
+  ],
+  [
+   "Épicerie sucrée et miel",
+   4
+  ],
+  [
+   "Plats préparés et spécialités",
+   3
   ]
  ],
  "insights": [

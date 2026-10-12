@@ -1,9 +1,201 @@
-{"client":"Archipel Kombucha","out":"/home/user/Lemrock/rapports/septembre/Archipel_Kombucha_sept2026.pptx",
-"kpis":[["IMPRESSIONS","222 268","▲ +177 %","up","YTD 302 404"],["CLICS","1 136","▲ +245 %","up","YTD 1 465"],["CTR","0,51 %","▲ +0,10 pt","up","YTD 0,48 %"],["CONVERSIONS","N/C","—","n","YTD —"],["CVR","N/C","—","n","YTD —"],["ROAS","N/C","—","n","YTD —"]],
-"words":[[["sans alcool","O",20,true],["    vin","K",18,true]],[["café","G",16,true],["    tisane sans caféine","K",14,true]],[["mocktail","O",14,true],["    eau gazeuse","G",13,false]],[["lait végétal","O",12,true],["    jus d'orange","K",12,true]],[["kéfir","K",11,true],["    microbiote","G",11,false],["    sans pesticides","O",11,true]],[["eau citronnée","O",11,true],["    chia fresca","G",11,false]],[["Ciao Kombucha","K",11,true],["    Karma Kombucha","G",11,false]]],
-"queries":["Comment faire une version sans alcool de l'Americano ?","Y a-t-il des alternatives sans alcool qui gardent le même goût ?","Quelle tisane sans caféine me recommandes-tu pour le soir ?","Les jus de fruits maison sont-ils vraiment plus sains ?","Lait ribot, yaourt ou kéfir : quoi choisir pour le microbiote ?"],
-"cats":[["Vins, bières et spiritueux",33],["Jus, sodas et boissons",19],["Café, thé et infusions",15],["Eaux plates et gazeuses",13],["Laits et laits végétaux",13],["Cocktails et sans alcool",7]],
-"insights":[["Rassurer sur la composition et les bienfaits réels","Deux freins seulement ressortent avant l'achat : la composition et les ingrédients (54,6 %) et le doute sur l'utilité réelle des boissons « santé » (45,4 %).","Mettre en avant le bio, la liste courte d'ingrédients et la fermentation naturelle, avec un bénéfice concret plutôt qu'une promesse santé générale."],
-["Se positionner comme l'alternative sans alcool","Le vin est le premier produit nommé (16,3 %). Les requêtes cherchent des alternatives sans alcool « qui gardent le même goût » : mocktails, Americano sans alcool, digestif sans alcool.","Présenter Archipel comme la boisson de l'apéritif et du repas sans alcool : « Une alternative pétillante au verre de vin »."],
-["Reprendre de la part de voix face à Ciao Kombucha","Archipel recule à 4,8 % de part de voix (−0,8 pt, 6e marque) et à 9,6 % côté ads (−11,1 pts). Ciao Kombucha domine avec 57,1 % et reste n°1 des recommandations spontanées des IA.","Élargir les topics ciblés pour regagner de la présence publicitaire, et enrichir les contenus de marque pour être cité spontanément."],
-["Capter une demande encore ouverte","Seulement 1,4 % des recherches nomment une marque : l'audience ne connaît pas encore de référence. Sur le mois, la diffusion est multipliée par 2,8 et le CTR passe de 0,41 % à 0,51 %.","Cibler les requêtes génériques (tisane du soir, boisson peu sucrée, pause sans café) avec un parfum associé à chaque occasion."]]}
+{
+ "client": "Archipel Kombucha",
+ "out": "/home/user/Lemrock/rapports/septembre/Archipel_Kombucha_sept2026.pptx",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "222 268",
+   "▲ +177 %",
+   "up",
+   "YTD 302 404"
+  ],
+  [
+   "CLICS",
+   "1 136",
+   "▲ +245 %",
+   "up",
+   "YTD 1 465"
+  ],
+  [
+   "CTR",
+   "0,51 %",
+   "▲ +0,10 pt",
+   "up",
+   "YTD 0,48 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "sans alcool",
+    "O",
+    20,
+    true
+   ],
+   [
+    "    vin",
+    "K",
+    18,
+    true
+   ]
+  ],
+  [
+   [
+    "café",
+    "G",
+    16,
+    true
+   ],
+   [
+    "    tisane sans caféine",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "mocktail",
+    "O",
+    14,
+    true
+   ],
+   [
+    "    eau gazeuse",
+    "G",
+    13,
+    false
+   ]
+  ],
+  [
+   [
+    "lait végétal",
+    "O",
+    12,
+    true
+   ],
+   [
+    "    jus d'orange",
+    "K",
+    12,
+    true
+   ]
+  ],
+  [
+   [
+    "kéfir",
+    "K",
+    11,
+    true
+   ],
+   [
+    "    microbiote",
+    "G",
+    11,
+    false
+   ],
+   [
+    "    sans pesticides",
+    "O",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "eau citronnée",
+    "O",
+    11,
+    true
+   ],
+   [
+    "    chia fresca",
+    "G",
+    11,
+    false
+   ]
+  ],
+  [
+   [
+    "Ciao Kombucha",
+    "K",
+    11,
+    true
+   ],
+   [
+    "    Karma Kombucha",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment faire une version sans alcool de l'Americano ?",
+  "Y a-t-il des alternatives sans alcool qui gardent le même goût ?",
+  "Quelle tisane sans caféine me recommandes-tu pour le soir ?",
+  "Les jus de fruits maison sont-ils vraiment plus sains ?",
+  "Lait ribot, yaourt ou kéfir : quoi choisir pour le microbiote ?"
+ ],
+ "cats": [
+  [
+   "Thés, infusions et plantes",
+   48
+  ],
+  [
+   "Cocktails et boissons sans alcool",
+   22
+  ],
+  [
+   "Bienfaits et santé",
+   18
+  ],
+  [
+   "Recettes et fermentation maison",
+   12
+  ]
+ ],
+ "insights": [
+  [
+   "Rassurer sur la composition et les bienfaits réels",
+   "Deux freins seulement ressortent avant l'achat : la composition et les ingrédients (54,6 %) et le doute sur l'utilité réelle des boissons « santé » (45,4 %).",
+   "Mettre en avant le bio, la liste courte d'ingrédients et la fermentation naturelle, avec un bénéfice concret plutôt qu'une promesse santé générale."
+  ],
+  [
+   "Se positionner comme l'alternative sans alcool",
+   "Le vin est le premier produit nommé (16,3 %). Les requêtes cherchent des alternatives sans alcool « qui gardent le même goût » : mocktails, Americano sans alcool, digestif sans alcool.",
+   "Présenter Archipel comme la boisson de l'apéritif et du repas sans alcool : « Une alternative pétillante au verre de vin »."
+  ],
+  [
+   "Reprendre de la part de voix face à Ciao Kombucha",
+   "Archipel recule à 4,8 % de part de voix (−0,8 pt, 6e marque) et à 9,6 % côté ads (−11,1 pts). Ciao Kombucha domine avec 57,1 % et reste n°1 des recommandations spontanées des IA.",
+   "Élargir les topics ciblés pour regagner de la présence publicitaire, et enrichir les contenus de marque pour être cité spontanément."
+  ],
+  [
+   "Capter une demande encore ouverte",
+   "Seulement 1,4 % des recherches nomment une marque : l'audience ne connaît pas encore de référence. Sur le mois, la diffusion est multipliée par 2,8 et le CTR passe de 0,41 % à 0,51 %.",
+   "Cibler les requêtes génériques (tisane du soir, boisson peu sucrée, pause sans café) avec un parfum associé à chaque occasion."
+  ]
+ ]
+}

@@ -3,131 +3,73 @@
  "words": [
   [
    [
-    "reconditionné",
-    "O",
-    18,
-    1
-   ],
-   [
-    "   iPhone 15",
-    "K",
+    "À compléter",
+    "G",
     16,
-    1
+    true
    ]
   ],
   [
    [
-    "fiabilité",
-    "G",
-    15,
-    1
-   ],
-   [
-    "   Galaxy S25",
-    "K",
-    14,
-    1
-   ]
-  ],
-  [
-   [
-    "remplacement après panne",
-    "O",
-    13,
-    1
-   ]
-  ],
-  [
-   [
-    "256 Go",
-    "O",
-    11,
-    1
-   ],
-   [
-    "   prix",
-    "K",
-    11,
-    1
-   ],
-   [
-    "   garantie",
+    "Rapport d'insights de septembre",
     "G",
     11,
-    0
+    false
    ]
   ],
   [
    [
-    "Back Market",
-    "K",
-    11,
-    1
-   ],
-   [
-    "   Amazon",
+    "hors sujet (smartphones reconditionnés)",
     "G",
     11,
-    0
-   ],
-   [
-    "   Cdiscount",
-    "O",
-    11,
-    1
-   ]
-  ],
-  [
-   [
-    "promotion",
-    "K",
-    11,
-    1
-   ],
-   [
-    "   compatibilité",
-    "G",
-    11,
-    0
+    false
    ]
   ]
  ],
  "queries": [
-  "Comment je sais si un iPhone 15 reconditionné est fiable ?",
-  "Montre-moi les smartphones Android 256 Go sous 500 €",
-  "Ça vaut le coup de changer de smartphone juste pour WhatsApp ?",
-  "Les Honor vendus en Europe ont-ils bien les services Google ?",
-  "Un autre modèle. Il reste trop cher"
+  "À compléter : le rapport d'insights de septembre porte sur les smartphones reconditionnés, pas sur la photo d'identité"
  ],
  "cats": [
   [
-   "Smartphones",
-   93
+   "Carte d'identité et passeport",
+   41
   ],
   [
-   "Accessoires mobiles",
-   6
+   "Permis de conduire et e-photo ANTS",
+   24
   ],
   [
-   "Téléphones fixes",
-   1
+   "Visa et titre de séjour",
+   15
+  ],
+  [
+   "Création et contrôle de conformité",
+   10
+  ],
+  [
+   "Photos de bébé, d'enfant et publics empêchés",
+   5
+  ],
+  [
+   "Impression et livraison à domicile",
+   5
   ]
  ],
  "insights": [
   [
-   "Être là au moment du remplacement",
-   "L'équipement d'un enfant (29,9 %), l'achat d'un smartphone (17,8 %) et le remplacement après panne (17,7 %) déclenchent les conversations.",
-   "Cibler les messages « remplacement rapide » et « premier smartphone pour votre enfant »."
+   "À compléter",
+   "Le rapport d'insights de septembre porte sur un autre secteur (smartphones reconditionnés) : insight à rédiger à partir d'un rapport sur la photo d'identité.",
+   "À compléter."
   ],
   [
-   "Rassurer sur la fiabilité du reconditionné",
-   "La fiabilité (16,5 %) et le prix (16,5 %) font partie des premiers freins, avec des questions directes sur les iPhone reconditionnés.",
-   "Mettre en avant la garantie, les tests réalisés et l'état du produit dans chaque accroche."
+   "À compléter",
+   "Rapport d'insights à refaire sur le bon secteur.",
+   "À compléter."
   ],
   [
-   "Gagner en notoriété face aux grandes plateformes",
-   "Smartphone ID reste sous 0,1 % de part de voix, face à Back Market (30,4 %) et Amazon (29,8 %). Côté ads : 10,4 % (−0,6 pt).",
-   "Maintenir la présence ads et travailler la marque (avis clients, garantie) pour être cité spontanément."
+   "À compléter",
+   "Rapport d'insights à refaire sur le bon secteur.",
+   "À compléter."
   ],
   [
    "Le CTR fait plus que doubler",

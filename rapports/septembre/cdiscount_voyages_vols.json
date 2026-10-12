@@ -1,7 +1,5 @@
 {
- "client": "Cdiscount Voyages · Vols",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
+ "client": "Cdiscount Voyages – Vols",
  "words": [
   [
    [
@@ -95,28 +93,28 @@
  ],
  "cats": [
   [
-   "SNCF",
-   32
+   "Recherche générique",
+   34
   ],
   [
-   "easyJet",
-   15
+   "Outre-mer et Caraïbes",
+   17
   ],
   [
-   "Transavia",
+   "Europe et city breaks",
+   20
+  ],
+  [
+   "Afrique du Nord et Afrique",
    14
   ],
   [
-   "Ryanair",
+   "Long-courrier international",
    11
   ],
   [
-   "Air France",
-   11
-  ],
-  [
-   "Autres (Cdiscount Vols < 0,1 %)",
-   17
+   "France métropolitaine",
+   4
   ]
  ],
  "insights": [
@@ -137,7 +135,7 @@
   ],
   [
    "Aucune réservation attribuée",
-   "Aucune conversion n'est remontée par Awin en septembre malgré 9 406 clics.",
+   "Aucune conversion n'est remontée par Awin en septembre malgré 9 406 clics, ni depuis le lancement : l'objectif de ROI de 35 ne peut pas être mesuré.",
    "Vérifier le tracking Awin et le parcours jusqu'à la réservation."
   ]
  ],
@@ -147,21 +145,21 @@
    "1 855 410",
    "▲ +92 %",
    "up",
-   "YTD 2 900 897"
+   "YTD 10 029 893"
   ],
   [
    "CLICS",
    "9 406",
    "▲ +455 %",
    "up",
-   "YTD 11 246"
+   "YTD 21 694"
   ],
   [
    "CTR",
    "0,51 %",
    "▲ +0,33 pt",
    "up",
-   "YTD 0,39 %"
+   "YTD 0,22 %"
   ],
   [
    "CONVERSIONS",
@@ -185,5 +183,6 @@
    "YTD 0,00"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Vols_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Vols_sept2026.pptx",
+ "objectif": "Atteindre un ROI de 35 pour un CA de 87 k€."
 }

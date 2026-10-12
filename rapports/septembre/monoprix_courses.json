@@ -1,7 +1,5 @@
 {
  "client": "Monoprix Courses",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -109,28 +107,24 @@
  ],
  "cats": [
   [
-   "Lidl",
-   27
+   "Boissons, bières et desserts",
+   55
   ],
   [
-   "E.Leclerc",
-   20
+   "Produits frais, fruits et salades",
+   18
   ],
   [
-   "Auchan",
-   11
+   "Entretien, hygiène et santé",
+   15
   ],
   [
-   "Carrefour",
-   11
+   "Viandes, poissons et plats préparés",
+   10
   ],
   [
-   "Intermarché",
-   8
-  ],
-  [
-   "Autres (dont Monoprix 5,5 %)",
-   23
+   "Bébé et alimentation animale",
+   2
   ]
  ],
  "insights": [

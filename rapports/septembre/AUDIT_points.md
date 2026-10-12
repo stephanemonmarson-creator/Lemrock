@@ -20,3 +20,8 @@
 18. **ROAS YTD** (Monoprix Courses, Ryobi, La Redoute) : non recalculable sans GMV/budget cumulés → « YTD — ».
 19. **Monoprix Courses** : le deck d'août affichait ROAS N/C alors que l'export donne 186 € de GMV pour 34,50 € en août (ROAS 5,4) → évolution du ROAS laissée à « — ». Le rapport d'insights Monoprix Courses est le même que Monoprix Mode côté parts de voix.
 20. **Iopole** : pas d'exemples de requêtes ni de produits dans le rapport → marques citées, requêtes « À compléter ».
+21. **Catégories de produits** : on reprend les catégories du deck d'août pour chaque compte. Les pourcentages de septembre sont **ajustés à la main** (aucune donnée de septembre dans ces catégories) — seule Allo Pneus est recalculée à partir des produits nommés du rapport d'insights. Les nouveaux comptes (P&V, Qonto, SNCF) gardent les marques citées.
+22. **Cdiscount Voyages Séjours / Vols** étaient dans le deck d'août → YTD repris du deck (Séjours 5 133 788 + sept. ; Vols 8 174 483 + sept.), objectifs d'août repris (ROI 12 / ROI 35).
+23. **Levi's** : la slide d'août était en anglais → slides de septembre en anglais ; YTD = 815 013 + septembre. Exemples de requêtes traduits du français.
+24. **Smartphone ID** : le rapport d'insights de septembre porte sur les smartphones reconditionnés (mauvais secteur, Smartphone ID = photo d'identité) → partie qualitative « À compléter ».
+25. **Comptes du deck d'août non repris** : Franklin Pet Food Notoriété (217 086 impr. en sept.) et Ventes (4 469), BIP & Go (0), La Marque en Moins (4 455), Ultra Premium Direct (4 192).

@@ -1,7 +1,5 @@
 {
- "client": "Cdiscount Voyages · Séjours",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
+ "client": "Cdiscount Voyages – Séjours",
  "words": [
   [
    [
@@ -101,28 +99,32 @@
  ],
  "cats": [
   [
-   "Airbnb",
-   32
+   "Campings et camping-cars",
+   40
   ],
   [
-   "Booking",
-   22
+   "Hôtels et hébergements",
+   28
   ],
   [
-   "Opodo",
-   7
+   "Croisières, ferries et trains",
+   14
   ],
   [
-   "Club Med",
-   7
+   "Séjours tout compris",
+   8
   ],
   [
-   "Pierre & Vacances",
-   6
+   "Parcs et séjours en famille",
+   5
   ],
   [
-   "Autres (Cdiscount Voyages < 0,1 %)",
-   26
+   "Vols et billets d'avion",
+   4
+  ],
+  [
+   "Bien-être et thalasso",
+   1
   ]
  ],
  "insights": [
@@ -138,7 +140,7 @@
   ],
   [
    "Des réservations en hausse",
-   "4 réservations en septembre pour 1 119 € de GMV (2 en août). Le ROAS passe de 0,82 à 1,30.",
+   "4 réservations en septembre pour 1 119 € de GMV (2 en août). Le ROAS passe de 0,82 à 1,30, encore loin de l'objectif de 12.",
    "Accélérer sur les offres qui convertissent, avant la fin de tranche."
   ],
   [
@@ -153,43 +155,44 @@
    "790 844",
    "▼ −52 %",
    "down",
-   "YTD 2 717 814"
+   "YTD 5 924 632"
   ],
   [
    "CLICS",
    "3 916",
    "▲ +26 %",
    "up",
-   "YTD 7 533"
+   "YTD 12 654"
   ],
   [
    "CTR",
    "0,50 %",
    "▲ +0,31 pt",
    "up",
-   "YTD 0,28 %"
+   "YTD 0,21 %"
   ],
   [
    "CONVERSIONS",
    "4",
    "+2",
    "up",
-   "YTD 6"
+   "YTD 25"
   ],
   [
    "CVR",
    "0,10 %",
    "▲ +0,04 pt",
    "up",
-   "YTD 0,08 %"
+   "YTD 0,20 %"
   ],
   [
    "ROAS",
    "1,30",
    "▲ +0,47",
    "up",
-   "YTD 0,97"
+   "YTD —"
   ]
  ],
- "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Sejours_sept2026.pptx"
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Sejours_sept2026.pptx",
+ "objectif": "Atteindre un ROI de 12 pour un CA de 30 k€."
 }

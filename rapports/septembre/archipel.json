@@ -48,13 +48,13 @@
  "words": [
   [
    [
-    "sans alcool",
+    "kombucha bio",
     "O",
     20,
     true
    ],
    [
-    "    vin",
+    "   sans alcool",
     "K",
     18,
     true
@@ -62,13 +62,13 @@
   ],
   [
    [
-    "café",
+    "boissons fermentées",
     "G",
-    16,
+    15,
     true
    ],
    [
-    "    tisane sans caféine",
+    "   33 cl",
     "K",
     14,
     true
@@ -76,27 +76,19 @@
   ],
   [
    [
-    "mocktail",
+    "cassis",
     "O",
-    14,
-    true
-   ],
-   [
-    "    eau gazeuse",
-    "G",
     13,
-    false
-   ]
-  ],
-  [
-   [
-    "lait végétal",
-    "O",
-    12,
     true
    ],
    [
-    "    jus d'orange",
+    "   figuier",
+    "G",
+    12,
+    false
+   ],
+   [
+    "   clémentine",
     "K",
     12,
     true
@@ -104,19 +96,33 @@
   ],
   [
    [
-    "kéfir",
+    "pomelo gingembre",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   framboise",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "apéritif",
     "K",
     11,
     true
    ],
    [
-    "    microbiote",
+    "   mocktail",
     "G",
     11,
     false
    ],
    [
-    "    sans pesticides",
+    "   pack",
     "O",
     11,
     true
@@ -124,27 +130,13 @@
   ],
   [
    [
-    "eau citronnée",
-    "O",
-    11,
-    true
-   ],
-   [
-    "    chia fresca",
-    "G",
-    11,
-    false
-   ]
-  ],
-  [
-   [
-    "Ciao Kombucha",
+    "direct producteur",
     "K",
     11,
     true
    ],
    [
-    "    Karma Kombucha",
+    "   fraîcheur",
     "G",
     11,
     false
@@ -154,9 +146,7 @@
  "queries": [
   "Comment faire une version sans alcool de l'Americano ?",
   "Y a-t-il des alternatives sans alcool qui gardent le même goût ?",
-  "Quelle tisane sans caféine me recommandes-tu pour le soir ?",
-  "Les jus de fruits maison sont-ils vraiment plus sains ?",
-  "Lait ribot, yaourt ou kéfir : quoi choisir pour le microbiote ?"
+  "C'est quoi le meilleur mocktail pour les femmes enceintes ?"
  ],
  "cats": [
   [
@@ -183,14 +173,14 @@
    "Mettre l'alternative sans alcool au cœur des accroches : apéritif, repas, pause."
   ],
   [
-   "Mettre en avant les packs de 33 cl",
+   "Mettre en avant les formats 33 cl",
    "Les packs de 12 kombuchas de 33 cl dépassent la moyenne (jusqu'à 1,30 fois). Le pack de 6 bouteilles de 75 cl tombe à 0,66 fois.",
-   "Faire de la canette le produit d'appel et garder les grands formats pour la page produit."
+   "Faire des formats 33 cl le produit d'appel et garder les 75 cl pour la page produit."
   ],
   [
-   "Associer le parfum à une sensation",
-   "Les descriptions qui décrivent le goût (« bouche très fraîche », « notes exotiques ») cliquent mieux que les descriptions courtes. Le kombucha framboise reste sous la moyenne (0,73 fois).",
-   "Décrire chaque parfum par la sensation qu'il procure plutôt que par sa recette."
+   "Mettre le cassis et le pomelo gingembre en avant",
+   "Les annonces pomelo gingembre (1,23 fois le CTR moyen) et cassis (1,15 fois) font mieux que la moyenne. Framboise, figuier et clémentine restent juste en dessous (0,93 fois).",
+   "Donner plus de visibilité au cassis et au pomelo gingembre."
   ],
   [
    "Une campagne qui accélère",

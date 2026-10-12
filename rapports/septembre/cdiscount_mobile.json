@@ -1,0 +1,184 @@
+{
+ "client": "Cdiscount Mobile",
+ "objectif": "Générer 550 nouvelles souscriptions.",
+ "words": [
+  [
+   [
+    "iPhone 17 Pro",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   Galaxy S26",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "forfait mobile",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   eSIM",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "reconditionné",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Pixel 10",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "Redmi Note 15 Pro",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   256 Go",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "départ en vacances",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   promotion",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   fiabilité",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Honor 600",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   compatibilité",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Montre-moi les smartphones Android 256 Go sous 500 €",
+  "Je recherche un smartphone microSD pour la photo",
+  "Comment je sais si un iPhone 15 reconditionné est fiable ?",
+  "Les Honor vendus en Europe ont-ils bien les services Google ?",
+  "Ça vaut le coup de changer de smartphone juste pour WhatsApp ?"
+ ],
+ "cats": [
+  [
+   "Smartphones",
+   93
+  ],
+  [
+   "Accessoires mobiles",
+   6
+  ],
+  [
+   "Téléphones fixes",
+   1
+  ]
+ ],
+ "insights": [
+  [
+   "Activer le moment « départ en vacances »",
+   "Le départ en vacances déclenche 24,3 % des conversations, avec des recherches de forfait mobile et d'eSIM. L'achat ou le remplacement d'un smartphone en représente plus d'un tiers.",
+   "Pousser les offres forfait + eSIM avant les départs, et l'offre smartphone + forfait sur les moments de remplacement."
+  ],
+  [
+   "Répondre aux freins avant la souscription",
+   "Doute sur l'utilité (20,6 %), attente d'une promotion (17,9 %), compatibilité (16,7 %), prix (16,5 %) et fiabilité (16,5 %) se partagent les freins exprimés.",
+   "Mettre en avant le prix mensuel, la compatibilité réseau et un argument promo daté pour déclencher la décision."
+  ],
+  [
+   "Capitaliser sur une marque déjà recommandée",
+   "Cdiscount Mobile est 3e en part de voix (11,3 %, +3,6 pts) et 3e des recommandations spontanées des IA (10,7 %), derrière Orange et Amazon. Côté ads : 9,3 % (+7,6 pts).",
+   "Renforcer la présence ads sur les requêtes forfaits pour passer devant Amazon et Orange."
+  ],
+  [
+   "Les clics triplent, les conversions restent rares",
+   "Les clics passent de 2 980 à 9 138 (CTR 0,52 %, +0,31 pt), mais seules 4 conversions sont attribuées, loin de l'objectif de 550 souscriptions.",
+   "Vérifier le tracking Awin et la page d'atterrissage, puis orienter les accroches vers la souscription (prix, sans engagement)."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "1 760 935",
+   "▲ +22 %",
+   "up",
+   "YTD 6 117 876"
+  ],
+  [
+   "CLICS",
+   "9 138",
+   "▲ +207 %",
+   "up",
+   "YTD 17 884"
+  ],
+  [
+   "CTR",
+   "0,52 %",
+   "▲ +0,31 pt",
+   "up",
+   "YTD 0,29 %"
+  ],
+  [
+   "CONVERSIONS",
+   "4",
+   "+4",
+   "up",
+   "YTD 8"
+  ],
+  [
+   "CVR",
+   "0,04 %",
+   "▲ +0,04 pt",
+   "up",
+   "YTD 0,04 %"
+  ],
+  [
+   "ROAS",
+   "0,02",
+   "▲ +0,02",
+   "up",
+   "YTD 0,02"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Mobile_sept2026.pptx"
+}

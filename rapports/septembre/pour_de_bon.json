@@ -1,0 +1,187 @@
+{
+ "client": "Pour de Bon",
+ "words": [
+  [
+   [
+    "sans additifs",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   étiquette",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "fleur de sel",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   huile d'olive",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "fromage",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   épices",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "bio",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   chocolat 70 %",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "frais de livraison",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   vinaigre",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   comté",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Picard",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   La Grande Épicerie",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment repérer une vraie tablette sans additifs sur l'étiquette ?",
+  "Le sel marin, fleur de sel : c'est juste du marketing ?",
+  "Les mentions « vierge extra » sont-elles vraiment fiables ?",
+  "Où je peux l'acheter en ligne et y a-t-il des frais de livraison ?",
+  "Comment savoir si un chocolat est vraiment bio ou équitable ?"
+ ],
+ "cats": [
+  [
+   "Produits frais",
+   42
+  ],
+  [
+   "Épicerie salée",
+   33
+  ],
+  [
+   "Boulangerie et sucré",
+   16
+  ],
+  [
+   "Plats préparés et autres",
+   9
+  ]
+ ],
+ "insights": [
+  [
+   "Prouver la qualité des ingrédients",
+   "La composition et les ingrédients sont le premier frein (30,4 %), devant le doute sur l'utilité réelle (22,6 %) : l'audience lit les étiquettes et se méfie des mentions marketing.",
+   "Mettre en avant l'origine, la liste courte d'ingrédients et le savoir-faire artisanal de chaque produit."
+  ],
+  [
+   "Lever le frein du prix et de la livraison",
+   "Le prix (14,2 %) et la livraison (13,3 %) suivent : l'audience veut savoir où acheter en ligne et à quel coût.",
+   "Afficher les conditions de livraison et un panier découverte dans l'accroche."
+  ],
+  [
+   "Exister face à Picard",
+   "Pour de Bon pèse 2,9 % de part de voix (+1,0 pt, 6e), Picard 66,2 %. Les IA ne citent pas encore spontanément Pour de Bon (< 0,1 %). Côté ads : 14,7 % (+1,2 pt).",
+   "Maintenir la présence ads et développer des contenus (recettes, guides produits) pour être recommandé."
+  ],
+  [
+   "Moins d'impressions, plus de clics",
+   "Les impressions baissent de 31 %, mais les clics progressent de 32 %. Le CTR passe de 0,25 % à 0,48 %.",
+   "Prolonger le ciblage resserré et tester des accroches recettes de saison."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "701 502",
+   "▼ −31 %",
+   "down",
+   "YTD 2 476 488"
+  ],
+  [
+   "CLICS",
+   "3 334",
+   "▲ +32 %",
+   "up",
+   "YTD 7 502"
+  ],
+  [
+   "CTR",
+   "0,48 %",
+   "▲ +0,23 pt",
+   "up",
+   "YTD 0,30 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Pour_de_Bon_sept2026.pptx"
+}

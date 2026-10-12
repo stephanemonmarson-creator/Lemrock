@@ -1,0 +1,110 @@
+{
+ "client": "Mabex",
+ "objectif": "Atteindre un ROAS d'au moins 10 (idéalement 12).",
+ "words": [
+  [
+   [
+    "À compléter",
+    "G",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "Rapport d'insights de septembre",
+    "G",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "non disponible pour Mabex",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "À compléter",
+  "À compléter",
+  "À compléter",
+  "À compléter",
+  "À compléter"
+ ],
+ "cats": [
+  [
+   "À compléter",
+   100
+  ]
+ ],
+ "insights": [
+  [
+   "Diffusion multipliée par 3,6",
+   "Les impressions passent de 87 399 à 313 395 (+259 %) et les clics de 348 à 1 668 (+379 %). Le CTR progresse de 0,40 % à 0,53 %.",
+   "À compléter avec le rapport d'insights de septembre."
+  ],
+  [
+   "Mesurer les ventes pour piloter le ROAS",
+   "Aucune conversion n'est remontée en septembre : le ROAS cible (≥ 10) ne peut pas encore être mesuré.",
+   "Vérifier le tracking des ventes avec Mabex."
+  ],
+  [
+   "À compléter",
+   "Rapport d'insights de septembre non disponible pour Mabex.",
+   "À compléter."
+  ],
+  [
+   "À compléter",
+   "Rapport d'insights de septembre non disponible pour Mabex.",
+   "À compléter."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "313 395",
+   "▲ +259 %",
+   "up",
+   "YTD 426 644"
+  ],
+  [
+   "CLICS",
+   "1 668",
+   "▲ +379 %",
+   "up",
+   "YTD 2 085"
+  ],
+  [
+   "CTR",
+   "0,53 %",
+   "▲ +0,13 pt",
+   "up",
+   "YTD 0,49 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Mabex_sept2026.pptx"
+}

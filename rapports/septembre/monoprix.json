@@ -1,0 +1,191 @@
+{
+ "client": "Monoprix Mode",
+ "words": [
+  [
+   [
+    "chaussures",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   jean",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "robe",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   veste",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "mariage",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   doudoune",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "montre connectée",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   rentrée",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "collants",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   jupe midi",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   livraison",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "ensemble vichy",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   ceinture",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Montre-moi des hauts ajustés pour accompagner ce jean gris",
+  "Quelle coupe de robe convient le mieux aux petites poitrines ?",
+  "Que choisir pour un look mariage avec un ensemble vichy ?",
+  "Quels collants opaques tu recommandes pour l'hiver ?",
+  "Où trouver ces Skechers et la livraison la plus rapide ?"
+ ],
+ "cats": [
+  [
+   "Vêtements",
+   38
+  ],
+  [
+   "Sport et plein air",
+   27
+  ],
+  [
+   "Chaussures",
+   19
+  ],
+  [
+   "Montres et bijoux",
+   11
+  ],
+  [
+   "Accessoires",
+   5
+  ]
+ ],
+ "insights": [
+  [
+   "Le mariage, premier déclencheur",
+   "Le mariage déclenche 29,1 % des conversations, devant le départ en vacances (16,6 %) et la rentrée (12,0 %).",
+   "Créer des accroches « tenue d'invitée » et « look de cérémonie » avec les robes et ensembles Monoprix."
+  ],
+  [
+   "Préparer la saison froide",
+   "Doudounes, vestes, collants thermiques et gants apparaissent déjà dans les requêtes de septembre.",
+   "Basculer les messages vers les manteaux, mailles et collants dès octobre."
+  ],
+  [
+   "Clarifier la mesure de part de voix",
+   "Le rapport d'insights mesure Monoprix face aux enseignes alimentaires (Lidl, Leclerc…) : 5,5 % de part de voix (+2,5 pts), 24,2 % côté ads (+6,1 pts).",
+   "À vérifier : refaire la mesure face aux enseignes de mode pour un comparatif pertinent."
+  ],
+  [
+   "Moins d'impressions, plus de clics",
+   "Les impressions baissent de 52 %, mais les clics progressent de 24 %. Le CTR passe de 0,19 % à 0,48 %. Aucune conversion n'est encore attribuée.",
+   "Vérifier le tracking Kwanko et miser sur les catégories qui cliquent le plus."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "752 119",
+   "▼ −52 %",
+   "down",
+   "YTD 9 956 850"
+  ],
+  [
+   "CLICS",
+   "3 608",
+   "▲ +24 %",
+   "up",
+   "YTD 19 420"
+  ],
+  [
+   "CTR",
+   "0,48 %",
+   "▲ +0,29 pt",
+   "up",
+   "YTD 0,20 %"
+  ],
+  [
+   "CONVERSIONS",
+   "0",
+   "—",
+   "n",
+   "YTD 0"
+  ],
+  [
+   "CVR",
+   "0,00 %",
+   "—",
+   "n",
+   "YTD 0,00 %"
+  ],
+  [
+   "ROAS",
+   "0,00",
+   "—",
+   "n",
+   "YTD 0,00"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Monoprix_sept2026.pptx"
+}

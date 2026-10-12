@@ -1,0 +1,201 @@
+{
+ "client": "Marshall",
+ "words": [
+  [
+   [
+    "enceinte",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   casque",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "platine vinyle",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   ampli",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "budget 200 €",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   sans fil",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "home cinéma",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   DAB+",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "étudiant",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   vacances",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   French Days",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Sony",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   JBL",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Bose",
+    "K",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Une enceinte pour la radio et Deezer avec un bon son, budget max 550 €",
+  "Quel casque le plus approprié si je ne veux pas dépasser 200 € ?",
+  "Si je reste à 400 €, quelle platine sans enceintes ?",
+  "Ça vaut le coup d'acheter des écouteurs filaires aujourd'hui ?",
+  "Quelles sont les meilleures offres sur les enceintes pour les French Days ?"
+ ],
+ "cats": [
+  [
+   "Hi-fi (amplis, lecteurs, composants)",
+   31
+  ],
+  [
+   "Casques et écouteurs",
+   20
+  ],
+  [
+   "Enceintes",
+   18
+  ],
+  [
+   "Home cinéma et récepteurs",
+   12
+  ],
+  [
+   "Platines vinyle",
+   11
+  ],
+  [
+   "Micros et radios",
+   8
+  ]
+ ],
+ "insights": [
+  [
+   "Cibler les moments vacances et étudiants",
+   "Le départ en vacances (25,4 %) et l'équipement d'un étudiant (20,6 %) sont les deux premiers déclencheurs de conversation.",
+   "Mettre en avant les enceintes nomades pour les vacances et les casques pour la vie étudiante."
+  ],
+  [
+   "Rassurer sur l'utilité, la compatibilité et le prix",
+   "Les trois premiers freins se valent : utilité réelle (23,3 %), compatibilité (22,1 %) et prix (21,7 %), souvent avec un budget précis (200 €, 400 €, 550 €).",
+   "Afficher le prix et la compatibilité (Bluetooth, smartphone, platine) directement dans l'accroche."
+  ],
+  [
+   "Une marque qui progresse dans les réponses des IA",
+   "Marshall est 5e en part de voix (8,1 %, +2,1 pts) et 4e des recommandations spontanées des IA (10,1 %, +4,5 pts). Côté ads : 14,5 % (+10,6 pts).",
+   "Poursuivre la montée en présence ads pour passer devant Bose et JBL."
+  ],
+  [
+   "Clics presque doublés",
+   "Les clics passent de 991 à 1 862 (+88 %) pour 15 % d'impressions en plus. Le CTR passe de 0,23 % à 0,37 %.",
+   "Garder le ciblage et tester des accroches « son vintage » sur les enceintes et platines."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "498 934",
+   "▲ +15 %",
+   "up",
+   "YTD 1 490 670"
+  ],
+  [
+   "CLICS",
+   "1 862",
+   "▲ +88 %",
+   "up",
+   "YTD 3 995"
+  ],
+  [
+   "CTR",
+   "0,37 %",
+   "▲ +0,14 pt",
+   "up",
+   "YTD 0,27 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Marshall_sept2026.pptx"
+}

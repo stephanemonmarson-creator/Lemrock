@@ -1,0 +1,76 @@
+import json,subprocess
+K=json.load(open('kpis.json'))
+K['cdiscount-mobile-awin-2026'][5][2]='▲ +0,02'
+for c in ['monoprix-mode-kwanko-2026']:
+    K[c][3][2]='—';K[c][4][2]='—'
+W=lambda *lines:[[ [t,c,sz,b] for t,c,sz,b in l] for l in lines]
+A={}
+A['Cdiscount_Mobile']=dict(client='Cdiscount Mobile',k='cdiscount-mobile-awin-2026',objectif='Générer 550 nouvelles souscriptions.',
+ words=W([('iPhone 17 Pro','O',18,1),('   Galaxy S26','K',16,1)],[('forfait mobile','G',15,1),('   eSIM','K',14,1)],[('reconditionné','O',13,1),('   Pixel 10','G',12,0)],[('Redmi Note 15 Pro','O',11,1),('   256 Go','K',11,1)],[('départ en vacances','K',11,1),('   promotion','G',11,0),('   fiabilité','O',11,1)],[('Honor 600','K',11,1),('   compatibilité','G',11,0)]),
+ queries=["Montre-moi les smartphones Android 256 Go sous 500 €","Je recherche un smartphone microSD pour la photo","Comment je sais si un iPhone 15 reconditionné est fiable ?","Les Honor vendus en Europe ont-ils bien les services Google ?","Ça vaut le coup de changer de smartphone juste pour WhatsApp ?"],
+ cats=[["Smartphones",93],["Accessoires mobiles",6],["Téléphones fixes",1]],
+ insights=[["Activer le moment « départ en vacances »","Le départ en vacances déclenche 24,3 % des conversations, avec des recherches de forfait mobile et d'eSIM. L'achat ou le remplacement d'un smartphone en représente plus d'un tiers.","Pousser les offres forfait + eSIM avant les départs, et l'offre smartphone + forfait sur les moments de remplacement."],
+ ["Répondre aux freins avant la souscription","Doute sur l'utilité (20,6 %), attente d'une promotion (17,9 %), compatibilité (16,7 %), prix (16,5 %) et fiabilité (16,5 %) se partagent les freins exprimés.","Mettre en avant le prix mensuel, la compatibilité réseau et un argument promo daté pour déclencher la décision."],
+ ["Capitaliser sur une marque déjà recommandée","Cdiscount Mobile est 3e en part de voix (11,3 %, +3,6 pts) et 3e des recommandations spontanées des IA (10,7 %), derrière Orange et Amazon. Côté ads : 9,3 % (+7,6 pts).","Renforcer la présence ads sur les requêtes forfaits pour passer devant Amazon et Orange."],
+ ["Les clics triplent, les conversions restent rares","Les clics passent de 2 980 à 9 138 (CTR 0,52 %, +0,31 pt), mais seules 4 conversions sont attribuées, loin de l'objectif de 550 souscriptions.","Vérifier le tracking Awin et la page d'atterrissage, puis orienter les accroches vers la souscription (prix, sans engagement)."]])
+A['Dorel']=dict(client='Dorel',k='dorel-awin-2026',
+ words=W([('poussette','O',18,1),('   siège auto','K',16,1)],[('naissance','G',15,1),('   couches','K',14,1)],[('biberons','O',13,1),('   porte d\'embarquement','G',12,0)],[('nouveau-né','O',11,1),('   indispensable','K',11,1)],[('tétine','K',11,1),('   cadeau','G',11,0),('   vacances','O',11,1)],[('Cybex','K',11,1),('   Joie','G',11,0),('   Stokke','K',11,0)]),
+ queries=["Tu peux garder la poussette jusqu'à la porte d'embarquement ?","C'est quoi le matériel puériculture vraiment indispensable pour un nouveau-né ?","Ça affecte les dents si bébé garde la tétine trop longtemps ?","Quelle poussette pour voyager avec un nouveau-né ?","Quel siège auto choisir pour une naissance ?"],
+ cats=[["Poussettes",37],["Couches",33],["Biberons",25],["Autres puériculture",5]],
+ insights=[["Parler aux futurs parents au moment de la naissance","La naissance déclenche 75,3 % des conversations, loin devant le cadeau (11,4 %) et le départ en vacances (8,9 %).","Construire les accroches autour de l'arrivée de bébé : « Tout pour accueillir votre nouveau-né »."],
+ ["Mettre la poussette au premier plan","Les poussettes sont le premier produit nommé (36,4 %), devant les couches (33,2 %) et les biberons (25,3 %).","Prioriser les poussettes dans le carrousel et associer chaque modèle à un usage (voyage, ville, compacité)."],
+ ["Une marque très recommandée par les IA","Dorel est 2e en part de voix (17,7 %, derrière Cybex) et 1re des recommandations spontanées des IA (74,4 %, +55,2 pts). Sa part de voix ads recule à 17,0 % (−7,4 pts).","Maintenir la pression ads pour transformer cette recommandation en clics vers Cdiscount."],
+ ["Un CTR qui double","Les clics sont multipliés par 3,5 (1 990) pour 60 % d'impressions en plus. Le CTR passe de 0,23 % à 0,51 %.","Garder le ciblage actuel et tester des accroches « voyage avec bébé » sur les poussettes compactes."]])
+A['FidMe']=dict(client='FidMe',k='fidme-2026',objectif='Acquérir de nouveaux clients.',cats_title='MARQUES CITÉES',cats_sub='Part de voix dans les messages utilisateurs',
+ words=W([('bons plans','O',18,1),('   cartes de fidélité','K',16,1)],[('cashback','G',15,1),('   cadeau','K',14,1)],[('Dealabs','O',13,1),('   iGraal','G',12,0)],[('Google Wallet','O',11,1),('   Apple Wallet','K',11,1)],[('coupons','K',11,1),('   réductions','G',11,0),('   LEGO','O',11,1)],[('Shopmium','K',11,1),('   Coupon Network','G',11,0)]),
+ queries=["Quelle appli pour regrouper mes cartes de fidélité ?","Où trouver des bons plans pour un cadeau ?","Quelle appli de cashback rapporte le plus ?","Comment ajouter une carte de fidélité dans Google Wallet ?","Quels sites pour trouver des codes promo fiables ?"],
+ cats=[["Dealabs",54],["iGraal",15],["Google Wallet",8],["Joko",5],["Poulpeo",5],["Autres (dont FidMe 0,7 %)",13]],
+ insights=[["Profiter des achats cadeaux","Le cadeau déclenche 95,6 % des conversations du secteur, avec LEGO en tête des marques citées.","Mettre en avant les réductions et cartes de fidélité utiles pour les achats cadeaux, en vue de Noël."],
+ ["Sortir de l'ombre des sites de bons plans","FidMe ne pèse que 0,7 % de part de voix (−1,0 pt), loin de Dealabs (53,8 %) et iGraal (15,3 %).","Positionner FidMe comme l'appli qui réunit cartes de fidélité, offres et cashback en un seul endroit."],
+ ["Une recommandation spontanée qui émerge","Les IA citent spontanément FidMe dans 5,1 % de leurs recommandations (+5,1 pts), au niveau d'iGraal. La part de voix ads recule à 15,4 % (−10,0 pts).","Regagner de la couverture ads sur les topics fidélité et wallet pour accompagner cette progression."],
+ ["Le CTR double","Les clics passent de 1 378 à 3 086 pour 16 % d'impressions en plus. Le CTR passe de 0,23 % à 0,44 %.","Poursuivre sur les accroches qui performent et décliner un message « cadeaux de fin d'année »."]])
+A['Marshall']=dict(client='Marshall',k='marshall-2026',
+ words=W([('enceinte','O',18,1),('   casque','K',16,1)],[('platine vinyle','G',15,1),('   ampli','K',14,1)],[('budget 200 €','O',13,1),('   sans fil','G',12,0)],[('home cinéma','O',11,1),('   DAB+','K',11,1)],[('étudiant','K',11,1),('   vacances','G',11,0),('   French Days','O',11,1)],[('Sony','K',11,1),('   JBL','G',11,0),('   Bose','K',11,0)]),
+ queries=["Une enceinte pour la radio et Deezer avec un bon son, budget max 550 €","Quel casque le plus approprié si je ne veux pas dépasser 200 € ?","Si je reste à 400 €, quelle platine sans enceintes ?","Ça vaut le coup d'acheter des écouteurs filaires aujourd'hui ?","Quelles sont les meilleures offres sur les enceintes pour les French Days ?"],
+ cats=[["Hi-fi (amplis, lecteurs, composants)",31],["Casques et écouteurs",20],["Enceintes",18],["Home cinéma et récepteurs",12],["Platines vinyle",11],["Micros et radios",8]],
+ insights=[["Cibler les moments vacances et étudiants","Le départ en vacances (25,4 %) et l'équipement d'un étudiant (20,6 %) sont les deux premiers déclencheurs de conversation.","Mettre en avant les enceintes nomades pour les vacances et les casques pour la vie étudiante."],
+ ["Rassurer sur l'utilité, la compatibilité et le prix","Les trois premiers freins se valent : utilité réelle (23,3 %), compatibilité (22,1 %) et prix (21,7 %), souvent avec un budget précis (200 €, 400 €, 550 €).","Afficher le prix et la compatibilité (Bluetooth, smartphone, platine) directement dans l'accroche."],
+ ["Une marque qui progresse dans les réponses des IA","Marshall est 5e en part de voix (8,1 %, +2,1 pts) et 4e des recommandations spontanées des IA (10,1 %, +4,5 pts). Côté ads : 14,5 % (+10,6 pts).","Poursuivre la montée en présence ads pour passer devant Bose et JBL."],
+ ["Clics presque doublés","Les clics passent de 991 à 1 862 (+88 %) pour 15 % d'impressions en plus. Le CTR passe de 0,23 % à 0,37 %.","Garder le ciblage et tester des accroches « son vintage » sur les enceintes et platines."]])
+A['Monoprix']=dict(client='Monoprix Mode',k='monoprix-mode-kwanko-2026',
+ words=W([('chaussures','O',18,1),('   jean','K',16,1)],[('robe','G',15,1),('   veste','K',14,1)],[('mariage','O',13,1),('   doudoune','G',12,0)],[('montre connectée','O',11,1),('   rentrée','K',11,1)],[('collants','K',11,1),('   jupe midi','G',11,0),('   livraison','O',11,1)],[('ensemble vichy','K',11,1),('   ceinture','G',11,0)]),
+ queries=["Montre-moi des hauts ajustés pour accompagner ce jean gris","Quelle coupe de robe convient le mieux aux petites poitrines ?","Que choisir pour un look mariage avec un ensemble vichy ?","Quels collants opaques tu recommandes pour l'hiver ?","Où trouver ces Skechers et la livraison la plus rapide ?"],
+ cats=[["Vêtements",38],["Sport et plein air",27],["Chaussures",19],["Montres et bijoux",11],["Accessoires",5]],
+ insights=[["Le mariage, premier déclencheur","Le mariage déclenche 29,1 % des conversations, devant le départ en vacances (16,6 %) et la rentrée (12,0 %).","Créer des accroches « tenue d'invitée » et « look de cérémonie » avec les robes et ensembles Monoprix."],
+ ["Préparer la saison froide","Doudounes, vestes, collants thermiques et gants apparaissent déjà dans les requêtes de septembre.","Basculer les messages vers les manteaux, mailles et collants dès octobre."],
+ ["Clarifier la mesure de part de voix","Le rapport d'insights mesure Monoprix face aux enseignes alimentaires (Lidl, Leclerc…) : 5,5 % de part de voix (+2,5 pts), 24,2 % côté ads (+6,1 pts).","À vérifier : refaire la mesure face aux enseignes de mode pour un comparatif pertinent."],
+ ["Moins d'impressions, plus de clics","Les impressions baissent de 52 %, mais les clics progressent de 24 %. Le CTR passe de 0,19 % à 0,48 %. Aucune conversion n'est encore attribuée.","Vérifier le tracking Kwanko et miser sur les catégories qui cliquent le plus."]])
+A['Pour_de_Bon']=dict(client='Pour de Bon',k='pour-de-bon-2026',
+ words=W([('sans additifs','O',18,1),('   étiquette','K',16,1)],[('fleur de sel','G',15,1),('   huile d\'olive','K',14,1)],[('fromage','O',13,1),('   épices','G',12,0)],[('bio','O',11,1),('   chocolat 70 %','K',11,1)],[('frais de livraison','K',11,1),('   vinaigre','G',11,0),('   comté','O',11,1)],[('Picard','K',11,1),('   La Grande Épicerie','G',11,0)]),
+ queries=["Comment repérer une vraie tablette sans additifs sur l'étiquette ?","Le sel marin, fleur de sel : c'est juste du marketing ?","Les mentions « vierge extra » sont-elles vraiment fiables ?","Où je peux l'acheter en ligne et y a-t-il des frais de livraison ?","Comment savoir si un chocolat est vraiment bio ou équitable ?"],
+ cats=[["Produits frais",42],["Épicerie salée",33],["Boulangerie et sucré",16],["Plats préparés et autres",9]],
+ insights=[["Prouver la qualité des ingrédients","La composition et les ingrédients sont le premier frein (30,4 %), devant le doute sur l'utilité réelle (22,6 %) : l'audience lit les étiquettes et se méfie des mentions marketing.","Mettre en avant l'origine, la liste courte d'ingrédients et le savoir-faire artisanal de chaque produit."],
+ ["Lever le frein du prix et de la livraison","Le prix (14,2 %) et la livraison (13,3 %) suivent : l'audience veut savoir où acheter en ligne et à quel coût.","Afficher les conditions de livraison et un panier découverte dans l'accroche."],
+ ["Exister face à Picard","Pour de Bon pèse 2,9 % de part de voix (+1,0 pt, 6e), Picard 66,2 %. Les IA ne citent pas encore spontanément Pour de Bon (< 0,1 %). Côté ads : 14,7 % (+1,2 pt).","Maintenir la présence ads et développer des contenus (recettes, guides produits) pour être recommandé."],
+ ["Moins d'impressions, plus de clics","Les impressions baissent de 31 %, mais les clics progressent de 32 %. Le CTR passe de 0,25 % à 0,48 %.","Prolonger le ciblage resserré et tester des accroches recettes de saison."]])
+A['Smartphone_ID']=dict(client='Smartphone ID',k='smartphone-id-2026',
+ words=W([('reconditionné','O',18,1),('   iPhone 15','K',16,1)],[('fiabilité','G',15,1),('   Galaxy S25','K',14,1)],[('remplacement après panne','O',13,1)],[('256 Go','O',11,1),('   prix','K',11,1),('   garantie','G',11,0)],[('Back Market','K',11,1),('   Amazon','G',11,0),('   Cdiscount','O',11,1)],[('promotion','K',11,1),('   compatibilité','G',11,0)]),
+ queries=["Comment je sais si un iPhone 15 reconditionné est fiable ?","Montre-moi les smartphones Android 256 Go sous 500 €","Ça vaut le coup de changer de smartphone juste pour WhatsApp ?","Les Honor vendus en Europe ont-ils bien les services Google ?","Un autre modèle. Il reste trop cher"],
+ cats=[["Smartphones",93],["Accessoires mobiles",6],["Téléphones fixes",1]],
+ insights=[["Être là au moment du remplacement","L'équipement d'un enfant (29,9 %), l'achat d'un smartphone (17,8 %) et le remplacement après panne (17,7 %) déclenchent les conversations.","Cibler les messages « remplacement rapide » et « premier smartphone pour votre enfant »."],
+ ["Rassurer sur la fiabilité du reconditionné","La fiabilité (16,5 %) et le prix (16,5 %) font partie des premiers freins, avec des questions directes sur les iPhone reconditionnés.","Mettre en avant la garantie, les tests réalisés et l'état du produit dans chaque accroche."],
+ ["Gagner en notoriété face aux grandes plateformes","Smartphone ID reste sous 0,1 % de part de voix, face à Back Market (30,4 %) et Amazon (29,8 %). Côté ads : 10,4 % (−0,6 pt).","Maintenir la présence ads et travailler la marque (avis clients, garantie) pour être cité spontanément."],
+ ["Le CTR fait plus que doubler","Les clics passent de 653 à 1 240 (+90 %) malgré 24 % d'impressions en moins. Le CTR passe de 0,21 % à 0,52 %.","Poursuivre sur les modèles les plus recherchés : iPhone, Galaxy S, Redmi."]])
+A['Mabex']=dict(client='Mabex',k='mabex-2026',objectif="Atteindre un ROAS d'au moins 10 (idéalement 12).",
+ words=W([('À compléter','G',16,1)],[('Rapport d\'insights de septembre','G',11,0)],[('non disponible pour Mabex','G',11,0)]),
+ queries=["À compléter","À compléter","À compléter","À compléter","À compléter"],
+ cats=[["À compléter",100]],
+ insights=[["Diffusion multipliée par 3,6","Les impressions passent de 87 399 à 313 395 (+259 %) et les clics de 348 à 1 668 (+379 %). Le CTR progresse de 0,40 % à 0,53 %.","À compléter avec le rapport d'insights de septembre."],
+ ["Mesurer les ventes pour piloter le ROAS","Aucune conversion n'est remontée en septembre : le ROAS cible (≥ 10) ne peut pas encore être mesuré.","Vérifier le tracking des ventes avec Mabex."],
+ ["À compléter","Rapport d'insights de septembre non disponible pour Mabex.","À compléter."],
+ ["À compléter","Rapport d'insights de septembre non disponible pour Mabex.","À compléter."]])
+for f,d in A.items():
+    d['kpis']=K[d.pop('k')];d['out']=f'/home/user/Lemrock/rapports/septembre/{f}_sept2026.pptx'
+    json.dump(d,open(f.lower()+'.json','w'),ensure_ascii=False,indent=1)
+    subprocess.run(['python3','gen.py',f.lower()+'.json'],check=True)
+print('ok')

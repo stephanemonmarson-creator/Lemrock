@@ -1,0 +1,191 @@
+{
+ "client": "Dorel",
+ "words": [
+  [
+   [
+    "poussette",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   siège auto",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "naissance",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   couches",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "biberons",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   porte d'embarquement",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "nouveau-né",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   indispensable",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "tétine",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   cadeau",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   vacances",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Cybex",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Joie",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Stokke",
+    "K",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Tu peux garder la poussette jusqu'à la porte d'embarquement ?",
+  "C'est quoi le matériel puériculture vraiment indispensable pour un nouveau-né ?",
+  "Ça affecte les dents si bébé garde la tétine trop longtemps ?"
+ ],
+ "cats": [
+  [
+   "Poussettes",
+   37
+  ],
+  [
+   "Couches",
+   33
+  ],
+  [
+   "Biberons",
+   25
+  ],
+  [
+   "Autres puériculture",
+   5
+  ]
+ ],
+ "insights": [
+  [
+   "Parler aux futurs parents au moment de la naissance",
+   "La naissance déclenche 75,3 % des conversations, loin devant le cadeau (11,4 %) et le départ en vacances (8,9 %).",
+   "Construire les accroches autour de l'arrivée de bébé : « Tout pour accueillir votre nouveau-né »."
+  ],
+  [
+   "Mettre la poussette au premier plan",
+   "Les poussettes sont le premier produit nommé (36,4 %), devant les couches (33,2 %) et les biberons (25,3 %).",
+   "Prioriser les poussettes dans le carrousel et associer chaque modèle à un usage (voyage, ville, compacité)."
+  ],
+  [
+   "Une marque très recommandée par les IA",
+   "Dorel est 2e en part de voix (17,7 %, derrière Cybex) et 1re des recommandations spontanées des IA (74,4 %, +55,2 pts). Sa part de voix ads recule à 17,0 % (−7,4 pts).",
+   "Maintenir la pression ads pour transformer cette recommandation en clics vers Cdiscount."
+  ],
+  [
+   "Un CTR qui double",
+   "Les clics sont multipliés par 3,5 (1 990) pour 60 % d'impressions en plus. Le CTR passe de 0,23 % à 0,51 %.",
+   "Garder le ciblage actuel et tester des accroches « voyage avec bébé » sur les poussettes compactes."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "392 251",
+   "▲ +60 %",
+   "up",
+   "YTD 954 461"
+  ],
+  [
+   "CLICS",
+   "1 990",
+   "▲ +247 %",
+   "up",
+   "YTD 3 100"
+  ],
+  [
+   "CTR",
+   "0,51 %",
+   "▲ +0,27 pt",
+   "up",
+   "YTD 0,32 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Dorel_sept2026.pptx"
+}

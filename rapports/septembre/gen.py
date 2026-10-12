@@ -34,7 +34,7 @@ for x,t in((87,'DIFFUSION'),(392,'ENGAGEMENT'),(1002,'CONVERSION')):txt(x,210,40
 kp=[tuple(k[:3])+(GR if k[3]=='up' else RD if k[3]=='down' else G,k[4]) for k in D['kpis']]
 for i,(l,v,d,dc,y) in enumerate(kp):
     x=87+i*305;rect(x,252,228,185,W,RGBColor(0xE4,0xE2,0xDC));rect(x,252,8,185,O)
-    txt(x+22,265,200,20,[R(l,G,10,True)]);txt(x+22,310,200,45,[R(v,K,22,True)])
+    txt(x+22,265,200,20,[R(l,G,10,True)]);txt(x+22,310,200,45,[R(v,K,22 if len(v)<9 else 18,True)])
     txt(x+22,368,200,18,[R(d,dc,10,True)]);txt(x+22,390,200,15,[R('vs période préc.',G,7)]);txt(x+22,410,200,15,[R(y,G,8,False,True)])
 txt(87,545,1200,30,[R('INSIGHTS QUALITATIFS · ANALYSE DES RECHERCHES',O,14,True)])
 for x in(87,688,1289):rect(x,588,558,420,W,RGBColor(0xE4,0xE2,0xDC))
@@ -50,7 +50,7 @@ qs=D['queries']
 for i,q in enumerate(qs):
     y=700+i*60;rect(728,y,478,50,BOX);txt(748,y,30,50,[R('🔍',G,9)],anchor=MSO_ANCHOR.MIDDLE);txt(786,y,410,50,[R(q,K,9)],anchor=MSO_ANCHOR.MIDDLE)
 # categories
-txt(1329,618,480,25,[R('CATÉGORIES DE PRODUITS',G,13,True)]);txt(1329,655,480,20,[R('Répartition des requêtes',LG,10,False,True)])
+txt(1329,618,480,25,[R(D.get('cats_title','CATÉGORIES DE PRODUITS'),G,13,True)]);txt(1329,655,480,20,[R(D.get('cats_sub','Répartition des requêtes'),LG,10,False,True)])
 PAL=[RGBColor(0x1C,0x7C,0x8C),RGBColor(0x7A,0x4E,0x96),RGBColor(0xEB,0x9A,0x5E),O,RGBColor(0x3E,0x5A,0x78),RGBColor(0xA0,0x92,0x78)]
 cats=[(c[0],c[1],PAL[i],c[2] if len(c)>2 else f'{c[1]} %') for i,c in enumerate(D['cats'])]
 txt(1740,685,85,20,[R('100%',K,11,True)],align=PP_ALIGN.RIGHT)
@@ -66,7 +66,7 @@ rect(0,0,2000,1125,BG);rect(15,20,1905,14,O)
 txt(95,70,1200,30,[R('INSIGHTS QUALITATIFS · SEPTEMBRE 2026',O,13,True)])
 txt(95,100,1200,80,[R(D['client'],K,36,True)])
 txt(1500,82,310,30,[R('Lemrock',K,15,True)],align=PP_ALIGN.RIGHT)
-txt(95,200,1500,30,[R('OBJECTIF   ',O,13,True),R('À définir',K,13)])
+txt(95,200,1500,30,[R('OBJECTIF   ',O,13,True),R(D.get('objectif','À définir'),K,13)])
 txt(95,250,800,30,[R('INSIGHTS QUALITATIFS',G,14,True)])
 ins=D['insights']
 for i,(t,b,r) in enumerate(ins):

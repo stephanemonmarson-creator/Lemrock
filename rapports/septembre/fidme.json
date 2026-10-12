@@ -1,0 +1,194 @@
+{
+ "client": "FidMe",
+ "objectif": "Acquérir de nouveaux clients.",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "cadeau",
+    "O",
+    18,
+    true
+   ],
+   [
+    "   LEGO",
+    "K",
+    16,
+    true
+   ]
+  ],
+  [
+   [
+    "Dealabs",
+    "G",
+    15,
+    true
+   ],
+   [
+    "   iGraal",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "Google Wallet",
+    "O",
+    13,
+    true
+   ],
+   [
+    "   Apple Wallet",
+    "G",
+    12,
+    false
+   ]
+  ],
+  [
+   [
+    "Shopmium",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   Coupon Network",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "Joko",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   Poulpeo",
+    "G",
+    11,
+    false
+   ],
+   [
+    "   eBuyClub",
+    "O",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "naissance",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   Widilo",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "À compléter : le rapport d'insights ne fournit pas d'exemples de requêtes pour FidMe"
+ ],
+ "cats": [
+  [
+   "Dealabs",
+   54
+  ],
+  [
+   "iGraal",
+   15
+  ],
+  [
+   "Google Wallet",
+   8
+  ],
+  [
+   "Joko",
+   5
+  ],
+  [
+   "Poulpeo",
+   5
+  ],
+  [
+   "Autres (dont FidMe 0,7 %)",
+   13
+  ]
+ ],
+ "insights": [
+  [
+   "Profiter des achats cadeaux",
+   "Le cadeau déclenche 95,6 % des conversations du secteur, avec LEGO en tête des marques citées.",
+   "Mettre en avant les réductions et cartes de fidélité utiles pour les achats cadeaux, en vue de Noël."
+  ],
+  [
+   "Sortir de l'ombre des sites de bons plans",
+   "FidMe ne pèse que 0,7 % de part de voix (−1,0 pt), loin de Dealabs (53,8 %) et iGraal (15,3 %).",
+   "Positionner FidMe comme l'appli qui réunit cartes de fidélité, offres et cashback en un seul endroit."
+  ],
+  [
+   "Une recommandation spontanée qui émerge",
+   "Les IA citent spontanément FidMe dans 5,1 % de leurs recommandations (+5,1 pts), au niveau d'iGraal. La part de voix ads recule à 15,4 % (−10,0 pts).",
+   "Regagner de la couverture ads sur les topics fidélité et wallet pour accompagner cette progression."
+  ],
+  [
+   "Le CTR double",
+   "Les clics passent de 1 378 à 3 086 pour 16 % d'impressions en plus. Le CTR passe de 0,23 % à 0,44 %.",
+   "Poursuivre sur les accroches qui performent et décliner un message « cadeaux de fin d'année »."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "705 558",
+   "▲ +16 %",
+   "up",
+   "YTD 3 385 630"
+  ],
+  [
+   "CLICS",
+   "3 086",
+   "▲ +124 %",
+   "up",
+   "YTD 8 342"
+  ],
+  [
+   "CTR",
+   "0,44 %",
+   "▲ +0,21 pt",
+   "up",
+   "YTD 0,25 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/FidMe_sept2026.pptx"
+}

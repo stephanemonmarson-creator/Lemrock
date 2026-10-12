@@ -1,0 +1,183 @@
+{
+ "client": "Smartphone ID",
+ "words": [
+  [
+   [
+    "reconditionné",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   iPhone 15",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "fiabilité",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   Galaxy S25",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "remplacement après panne",
+    "O",
+    13,
+    1
+   ]
+  ],
+  [
+   [
+    "256 Go",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   prix",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   garantie",
+    "G",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "Back Market",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Amazon",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Cdiscount",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "promotion",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   compatibilité",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment je sais si un iPhone 15 reconditionné est fiable ?",
+  "Montre-moi les smartphones Android 256 Go sous 500 €",
+  "Ça vaut le coup de changer de smartphone juste pour WhatsApp ?",
+  "Les Honor vendus en Europe ont-ils bien les services Google ?",
+  "Un autre modèle. Il reste trop cher"
+ ],
+ "cats": [
+  [
+   "Smartphones",
+   93
+  ],
+  [
+   "Accessoires mobiles",
+   6
+  ],
+  [
+   "Téléphones fixes",
+   1
+  ]
+ ],
+ "insights": [
+  [
+   "Être là au moment du remplacement",
+   "L'équipement d'un enfant (29,9 %), l'achat d'un smartphone (17,8 %) et le remplacement après panne (17,7 %) déclenchent les conversations.",
+   "Cibler les messages « remplacement rapide » et « premier smartphone pour votre enfant »."
+  ],
+  [
+   "Rassurer sur la fiabilité du reconditionné",
+   "La fiabilité (16,5 %) et le prix (16,5 %) font partie des premiers freins, avec des questions directes sur les iPhone reconditionnés.",
+   "Mettre en avant la garantie, les tests réalisés et l'état du produit dans chaque accroche."
+  ],
+  [
+   "Gagner en notoriété face aux grandes plateformes",
+   "Smartphone ID reste sous 0,1 % de part de voix, face à Back Market (30,4 %) et Amazon (29,8 %). Côté ads : 10,4 % (−0,6 pt).",
+   "Maintenir la présence ads et travailler la marque (avis clients, garantie) pour être cité spontanément."
+  ],
+  [
+   "Le CTR fait plus que doubler",
+   "Les clics passent de 653 à 1 240 (+90 %) malgré 24 % d'impressions en moins. Le CTR passe de 0,21 % à 0,52 %.",
+   "Poursuivre sur les modèles les plus recherchés : iPhone, Galaxy S, Redmi."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "240 223",
+   "▼ −24 %",
+   "down",
+   "YTD 558 183"
+  ],
+  [
+   "CLICS",
+   "1 240",
+   "▲ +90 %",
+   "up",
+   "YTD 1 893"
+  ],
+  [
+   "CTR",
+   "0,52 %",
+   "▲ +0,31 pt",
+   "up",
+   "YTD 0,34 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Smartphone_ID_sept2026.pptx"
+}

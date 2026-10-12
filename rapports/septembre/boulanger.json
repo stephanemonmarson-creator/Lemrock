@@ -1,0 +1,199 @@
+{
+ "client": "Boulanger",
+ "out": "Boulanger_sept2026.pptx",
+ "objectif": "Amener sur boulanger.com des visiteurs en intention d'achat (budget 10 000 € / mois).",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "3 133 801",
+   "—",
+   "n",
+   "YTD 3 164 233"
+  ],
+  [
+   "CLICS",
+   "19 975",
+   "—",
+   "n",
+   "YTD 20 178"
+  ],
+  [
+   "CTR",
+   "0,64 %",
+   "—",
+   "n",
+   "YTD 0,64 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "smartphone",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   écouteurs",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "enceinte portable",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   téléviseur",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "rapport qualité-prix",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   aspirateur",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "ordinateur portable",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   tablette",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "airfryer",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   lave-linge",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   batterie externe",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Samsung",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   JBL",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Dyson",
+    "K",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Quel smartphone choisir pour prendre de bonnes photos sans dépasser mon budget ?",
+  "Quels écouteurs choisir pour faire du sport ?",
+  "Quelle enceinte portable offrir à une personne qui écoute beaucoup de musique ?",
+  "Quel aspirateur est efficace contre les poils d'animaux ?",
+  "Quel téléviseur choisir pour regarder des films et jouer ?"
+ ],
+ "cats": [
+  [
+   "Informatique et gaming",
+   29
+  ],
+  [
+   "Téléphonie",
+   19
+  ],
+  [
+   "Image et son",
+   18
+  ],
+  [
+   "Gros électroménager",
+   17
+  ],
+  [
+   "Petit électroménager",
+   17
+  ]
+ ],
+ "insights": [
+  [
+   "Les consoles de jeux cliquent le plus",
+   "Les annonces consoles de jeux atteignent 3,04 fois le CTR moyen, le meilleur score de la campagne. Elles ne représentent que 3 % de la diffusion.",
+   "Donner plus de place aux consoles et aux jeux à l'approche de Noël."
+  ],
+  [
+   "L'informatique et le gaming surperforment",
+   "Les PC et fauteuils gamer atteignent 1,23 fois le CTR moyen et les ordinateurs portables et fixes 1,19 fois.",
+   "Renforcer l'informatique, notamment pour les étudiants et les joueurs."
+  ],
+  [
+   "Revoir les enceintes et les GPS",
+   "Les enceintes et barres de son restent à 0,56 fois le CTR moyen et les GPS à 0,58 fois.",
+   "Associer ces produits à un usage précis : soirée, salon, road trip."
+  ],
+  [
+   "Smartphone : miser sur l'iPhone",
+   "Les smartphones restent sous la moyenne (0,82 fois), sauf l'iPhone 17 (1,16 fois) et les iPhone reconditionnés (1,10 fois).",
+   "Concentrer la diffusion smartphone sur les références qui cliquent, en vue du plan de visibilité smartphone 2027."
+  ]
+ ],
+ "conv_msg": "Le Conversion Tracker est en cours de validation : le pixel est posé depuis la mi-septembre. Les conversions apparaîtront dans ce rapport dès que la réconciliation avec vos données sera validée."
+}

@@ -3,93 +3,119 @@
  "words": [
   [
    [
-    "départ en vacances",
+    "billet d'avion",
     "O",
-    18,
-    1
+    20,
+    true
    ],
    [
-    "   billets d'avion",
+    "   vol direct",
     "K",
-    16,
-    1
+    18,
+    true
    ]
   ],
   [
    [
-    "SNCF",
+    "Afrique",
     "G",
     15,
-    1
+    true
    ],
    [
-    "   easyJet",
+    "   Maghreb",
     "K",
     14,
-    1
+    true
    ]
   ],
   [
    [
-    "Transavia",
+    "Abidjan",
     "O",
     13,
-    1
+    true
    ],
    [
-    "   Ryanair",
+    "   Thaïlande",
     "G",
     12,
-    0
+    false
+   ],
+   [
+    "   Bali",
+    "K",
+    12,
+    true
    ]
   ],
   [
    [
-    "sac cabine",
+    "Martinique",
     "O",
     11,
-    1
+    true
    ],
    [
-    "   Air France",
+    "   Guadeloupe",
     "K",
     11,
-    1
+    true
+   ],
+   [
+    "   Lanzarote",
+    "G",
+    11,
+    false
    ]
   ],
   [
    [
-    "trousse de toilette",
+    "paiement en 4 fois",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   Volotea",
+    "   prix bas",
     "G",
     11,
-    0
+    false
+   ],
+   [
+    "   Lyon",
+    "O",
+    11,
+    true
    ]
   ],
   [
    [
-    "Skyscanner",
+    "Nice",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   Kayak",
+    "   Marseille",
     "G",
     11,
-    0
+    false
+   ],
+   [
+    "   Islande",
+    "O",
+    11,
+    true
    ]
   ]
  ],
  "queries": [
-  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
-  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?",
-  "Montre-moi des sacoches Faraday disponibles."
+  "Quels vols au départ de Marseille vers Abidjan ?",
+  "Existe-t-il un vol direct entre Paris et Fort-de-France ?",
+  "Quel vol direct choisir entre Paris et Lisbonne ?",
+  "Où trouver un aller-retour Paris – Nice à un bon prix ?",
+  "Quelle destination pour un week-end en Europe ?"
  ],
  "cats": [
   [

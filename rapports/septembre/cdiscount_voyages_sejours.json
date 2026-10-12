@@ -3,99 +3,112 @@
  "words": [
   [
    [
-    "départ en vacances",
+    "hôtel",
     "O",
-    18,
-    1
+    20,
+    true
    ],
    [
     "   séjour",
     "K",
-    16,
-    1
+    18,
+    true
    ]
   ],
   [
    [
-    "Airbnb",
+    "Canaries",
     "G",
     15,
-    1
+    true
    ],
    [
-    "   Booking",
+    "   Baléares",
     "K",
     14,
-    1
+    true
    ]
   ],
   [
    [
-    "Club Med",
+    "tout compris",
     "O",
     13,
-    1
+    true
    ],
    [
-    "   Pierre & Vacances",
+    "   club",
     "G",
     12,
-    0
+    false
+   ],
+   [
+    "   soleil",
+    "K",
+    12,
+    true
    ]
   ],
   [
    [
-    "billets d'avion",
+    "Fuerteventura",
     "O",
     11,
-    1
+    true
    ],
    [
-    "   Transavia",
+    "   Majorque",
     "K",
     11,
-    1
+    true
+   ],
+   [
+    "   Grèce",
+    "G",
+    11,
+    false
    ]
   ],
   [
    [
-    "valise cabine",
+    "paiement en 4 fois",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   trousse de toilette",
+    "   plage",
     "G",
     11,
-    0
-   ]
-  ],
-  [
-   [
-    "Center Parcs",
-    "K",
-    11,
-    1
+    false
    ],
    [
-    "   TUI",
-    "G",
-    11,
-    0
-   ],
-   [
-    "   Lastminute",
+    "   Dubaï",
     "O",
     11,
-    0
+    true
+   ]
+  ],
+  [
+   [
+    "Tunisie",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   petit prix",
+    "G",
+    11,
+    false
    ]
   ]
  ],
  "queries": [
-  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
-  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?",
-  "Quelles offres ou prix pour une pochette Faraday ?"
+  "Où partir au soleil en octobre ?",
+  "Quel séjour tout compris pour une famille ?",
+  "Peut-on payer un voyage en quatre fois ?",
+  "Quel hôtel choisir aux Canaries pour la Toussaint ?"
  ],
  "cats": [
   [

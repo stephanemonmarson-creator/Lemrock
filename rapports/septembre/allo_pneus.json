@@ -147,51 +147,50 @@
  "cats": [
   [
    "Pneus auto et dimensions",
-   81
-  ],
-  [
-   "Pneus toutes saisons",
-   2
-  ],
-  [
-   "Accessoires et entretien",
-   8
-  ],
-  [
-   "Pneus moto et scooter",
-   0,
-   "< 1 %"
+   41
   ],
   [
    "Pneus SUV et utilitaires",
-   0,
-   "< 1 %"
+   39
+  ],
+  [
+   "Pneus moto et scooter",
+   18
+  ],
+  [
+   "Pneus toutes saisons",
+   1
   ],
   [
    "Pneus hiver et neige",
-   9
+   1
+  ],
+  [
+   "Accessoires et entretien",
+   0,
+   "< 1 %"
   ]
  ],
  "insights": [
   [
-   "Présenter le 4 saisons comme la réponse à l'hiver",
-   "Pneus hiver et chaînes à neige pèsent 8,5 % des produits nommés, avec des questions sur la loi montagne et le 3PMSF. Or 30 des 47 références du catalogue sont des pneus 4 saisons certifiés 3PMSF (Continental, Dunlop, Falken).",
-   "Accroche type : « Pneus 4 saisons 3PMSF : conformes à la loi montagne, sans changer de pneus à chaque saison »."
+   "Les pneus hiver cliquent le plus",
+   "Les annonces de pneus hiver (Michelin Alpin 7, Hankook Winter i*cept, Ilink Winter) atteignent 1,15 fois le CTR moyen, devant les 4 saisons (1,02 fois). Elles ne représentent pourtant que 8 % des impressions.",
+   "Augmenter la part des pneus hiver et 4 saisons 3PMSF dans la diffusion d'octobre, au moment des changements de pneus."
   ],
   [
-   "Rassurer sur le rapport sécurité / prix",
-   "Les requêtes associent prix et sécurité (« pas chers mais sûrs », distances de freinage à 130 km/h). Le catalogue va de 52 € à 249 € le pneu, avec des marques premium (Continental, Bridgestone, Dunlop).",
-   "Mettre en avant les marques premium à prix accessible et les étiquettes européennes (freinage sur sol mouillé, bruit)."
+   "Renforcer les SUV, revoir les utilitaires",
+   "Les pneus SUV et 4x4 atteignent 1,09 fois la moyenne (Kleber Quadraxer SUV : 1,43 fois). Les utilitaires tombent à 0,87 fois (VanContact 4Season : 0,40 fois).",
+   "Pousser les références SUV et retravailler les messages utilitaires autour d'un usage concret (charge, chantier, camping-car)."
   ],
   [
-   "Répondre aux conducteurs de voitures électriques",
-   "Plusieurs requêtes citent un modèle électrique (MG4 EV, Zoé 2020) et cherchent des pneus adaptés ou certifiés 3PMSF.",
-   "Proposer les dimensions compatibles avec ces modèles et mettre en avant le silence de roulement et l'adhérence."
+   "Miser sur les marques au bon rapport qualité-prix",
+   "Hankook (1,22 fois la moyenne) et Ilink (1,12 fois) surperforment, alors que Goodyear (0,69 fois) et Bridgestone (0,82 fois) restent sous la moyenne.",
+   "Mettre en avant les marques à prix accessible dans les accroches « pas cher mais sûr »."
   ],
   [
-   "Une visibilité en forte hausse",
-   "Allo Pneus passe à 7,0 % de part de voix (+5,7 pts) et 21,3 % côté ads (+7,0 pts). Le CTR passe de 0,15 % à 0,40 % malgré l'arrêt de diffusion du 10 au 14/09.",
-   "Maintenir la pression ads en octobre, au cœur de la saison du changement de pneus."
+   "Diversifier les descriptions",
+   "70 des 84 annonces utilisent la même description (« Leader de la vente de pneus pas chers en ligne… ») et restent à 0,99 fois la moyenne. La même accroche moto varie de 0,53 à 1,32 fois selon l'emplacement.",
+   "Tester des descriptions centrées sur un bénéfice précis (adhérence sous la pluie, loi montagne, montage à domicile)."
   ]
  ]
 }

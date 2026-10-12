@@ -264,17 +264,15 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 
 **Les principaux enseignements de septembre**
 
-- **Les forfaits 40 Go et 150 Go font jeu égal** : le forfait 40 Go (deux tiers de la diffusion) et le forfait 150 Go obtiennent le même CTR (0,99 à 1,02 fois la moyenne).
-- **Les trois annonces performent de la même façon** : les 3 annonces diffusées sont entre 0,99 et 1,02 fois la moyenne, et ne permettent pas de tester d'autres messages.
-- **Activer le départ en vacances** : le départ en vacances déclenche 24 % des conversations du secteur, avec des recherches de forfait et d'eSIM.
-- **Les clics triplent, les conversions restent rares** : 9 138 clics (+207 %) mais 4 conversions seulement, loin de l'objectif de 550 souscriptions.
+- **Afficher le prix dans les annonces** : les 3 annonces de septembre ne citent pas de prix et cliquent toutes au même niveau (0,99 à 1,02 fois la moyenne). En août, les messages prix + data + sans engagement atteignaient jusqu'à 4,3 fois.
+- **Créer une annonce eSIM** : aucune annonce ne parle de l'eSIM en septembre, alors que cet angle atteignait 2,1 fois le CTR moyen en août.
+- **Piloter aux souscriptions, pas au ROAS** : le ROAS ne reflète pas la valeur d'un forfait : la souscription est facturée 1 €, puis 1 € par mois.
 
 **Nos recommandations**
 
-- Garder le 40 Go comme offre d'appel, au prix le plus bas.
-- Ajouter des annonces par profil (vacances et eSIM, étudiants, famille) pour trouver de nouveaux leviers.
-- Créer une annonce dédiée à l'eSIM et aux forfaits pour voyager.
-- Vérifier le tracking Awin et le parcours de souscription.
+- Mettre le prix mensuel dans le titre : « Forfait 40 Go à x €/mois, sans engagement ».
+- Ajouter une annonce dédiée à l'eSIM et à l'activation immédiate.
+- Fixer un objectif en nombre de souscriptions ou en coût par souscription.
 
 **Aller plus loin avec Lemrock**
 
@@ -947,17 +945,15 @@ C'était le premier mois de diffusion de la campagne :
 
 **Les principaux enseignements de septembre**
 
-- **Les trajets vers Paris cliquent le mieux** : les trajets Lille – Paris, Marseille – Paris et Lyon – Paris atteignent plus de 1,3 fois le CTR moyen.
-- **Revoir Paris – Rennes** : paris – Rennes représente 23 % de la diffusion mais reste à 0,54 fois la moyenne.
-- **Les liaisons internationales intéressent** : paris – Barcelone (1,17 fois) et Paris – Amsterdam (1,10 fois) dépassent la moyenne.
-- **Premier jour de diffusion** : lancée le 30/09, la campagne génère 788 clics sur la journée, pour un CTR de 0,57 %.
+- **Plafonner Paris – Rennes** : l'annonce Paris – Rennes capte 18 % de la diffusion mais reste à 0,37 fois le CTR moyen, le plus bas de la campagne.
+- **Ajouter les trajets retour vers Paris** : les trajets retour vers Paris (Lille, Lyon, Marseille, Toulouse…) atteignent 1,27 fois le CTR moyen, contre 0,86 fois pour les trajets au départ de Paris.
+- **Concentrer le budget sur 9 liaisons** : 9 annonces atteignent 1,30 fois le CTR moyen : les retours vers Paris, Paris – Lyon et Paris – Londres.
 
 **Nos recommandations**
 
-- Mettre en avant les trajets retour vers Paris.
-- Rééquilibrer la diffusion vers les liaisons qui cliquent le plus (Lyon, Toulouse, Lille).
-- Tester davantage de liaisons internationales.
-- Premier bilan complet sur le mois d'octobre.
+- Plafonner sa diffusion et réallouer le budget aux liaisons qui cliquent.
+- Décliner chaque liaison du top 20 dans les deux sens.
+- Leur donner la priorité de budget pour les départs de la Toussaint.
 
 **Aller plus loin avec Lemrock**
 

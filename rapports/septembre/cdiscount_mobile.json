@@ -142,24 +142,19 @@
  ],
  "insights": [
   [
-   "Les forfaits 40 Go et 150 Go font jeu égal",
-   "Le forfait 40 Go (deux tiers de la diffusion) et le forfait 150 Go obtiennent le même CTR (0,99 à 1,02 fois la moyenne).",
-   "Garder le 40 Go comme offre d'appel, au prix le plus bas."
+   "Afficher le prix dans les annonces",
+   "Les 3 annonces de septembre ne citent pas de prix et cliquent toutes au même niveau (0,99 à 1,02 fois la moyenne). En août, les messages prix + data + sans engagement atteignaient jusqu'à 4,3 fois.",
+   "Mettre le prix mensuel dans le titre : « Forfait 40 Go à x €/mois, sans engagement »."
   ],
   [
-   "Les trois annonces performent de la même façon",
-   "Les 3 annonces diffusées sont entre 0,99 et 1,02 fois la moyenne, et ne permettent pas de tester d'autres messages.",
-   "Ajouter des annonces par profil (vacances et eSIM, étudiants, famille) pour trouver de nouveaux leviers."
+   "Créer une annonce eSIM",
+   "Aucune annonce ne parle de l'eSIM en septembre, alors que cet angle atteignait 2,1 fois le CTR moyen en août.",
+   "Ajouter une annonce dédiée à l'eSIM et à l'activation immédiate."
   ],
   [
-   "Activer le départ en vacances",
-   "Le départ en vacances déclenche 24 % des conversations du secteur, avec des recherches de forfait et d'eSIM.",
-   "Créer une annonce dédiée à l'eSIM et aux forfaits pour voyager."
-  ],
-  [
-   "Les clics triplent, les conversions restent rares",
-   "9 138 clics (+207 %) mais 4 conversions seulement, loin de l'objectif de 550 souscriptions.",
-   "Vérifier le tracking Awin et le parcours de souscription."
+   "Piloter aux souscriptions, pas au ROAS",
+   "Le ROAS ne reflète pas la valeur d'un forfait : la souscription est facturée 1 €, puis 1 € par mois.",
+   "Fixer un objectif en nombre de souscriptions ou en coût par souscription."
   ]
  ],
  "kpis": [

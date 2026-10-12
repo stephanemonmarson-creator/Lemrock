@@ -28,14 +28,14 @@ Par rapport à août :
 - **Mettre davantage en avant les pneus hiver** : les annonces de pneus hiver atteignent 1,15 fois le CTR moyen, le meilleur score du mois. Elles ne représentent pourtant que 8 % de la diffusion.
 - **Renforcer les pneus SUV** : les pneus SUV et 4x4 atteignent 1,09 fois le CTR moyen, et jusqu'à 1,43 fois pour le Kleber Quadraxer SUV. Les pneus utilitaires restent sous la moyenne (0,87 fois).
 - **Privilégier les marques au bon rapport qualité-prix** : les marques à prix accessible cliquent mieux, Hankook atteint 1,22 fois le CTR moyen. Les marques premium comme Goodyear restent en dessous (0,69 fois).
-- **Varier les descriptions des annonces** : la plupart des annonces utilisent la même description (« Leader de la vente de pneus pas chers en ligne ») et restent dans la moyenne.
+- **Enrichir le flux produit avec des descriptions** : le flux produit transmis ne contient pas de champ description : 70 annonces sur 84 reprennent donc le même texte générique (« Leader de la vente de pneus pas chers en ligne… ») et restent dans la moyenne.
 
 **Nos recommandations**
 
 - Augmenter la part des pneus hiver et 4 saisons en octobre, au moment où les conducteurs changent leurs pneus.
 - Donner plus de visibilité aux références SUV et retravailler les messages utilitaires autour d'un usage concret (chantier, camping-car).
 - Mettre en avant les marques accessibles avec le message « pas cher mais sûr ».
-- Tester des descriptions avec un bénéfice précis : adhérence sous la pluie, conformité loi montagne, montage à domicile.
+- Ajouter au flux une description par produit avec un bénéfice précis : adhérence sous la pluie, conformité loi montagne, montage à domicile.
 
 **Aller plus loin avec Lemrock**
 

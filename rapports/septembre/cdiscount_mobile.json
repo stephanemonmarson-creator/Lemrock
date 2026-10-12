@@ -154,7 +154,7 @@
   [
    "Piloter aux souscriptions, pas au ROAS",
    "Le ROAS ne reflète pas la valeur d'un forfait : la souscription est facturée 1 €, puis 1 € par mois.",
-   "Fixer un objectif en nombre de souscriptions ou en coût par souscription."
+   "Suivre le nombre et le coût par souscription face à l'objectif de 550 souscriptions."
   ]
  ],
  "kpis": [

@@ -272,7 +272,7 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 
 - Mettre le prix mensuel dans le titre : « Forfait 40 Go à x €/mois, sans engagement ».
 - Ajouter une annonce dédiée à l'eSIM et à l'activation immédiate.
-- Fixer un objectif en nombre de souscriptions ou en coût par souscription.
+- Suivre le nombre et le coût par souscription face à l'objectif de 550 souscriptions.
 
 **Aller plus loin avec Lemrock**
 

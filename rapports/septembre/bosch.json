@@ -1,0 +1,195 @@
+{
+ "client": "Bosch",
+ "out": "/home/user/Lemrock/rapports/septembre/Bosch_sept2026.pptx",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "351 012",
+   "▼ −44 %",
+   "down",
+   "YTD 1 531 995"
+  ],
+  [
+   "CLICS",
+   "1 740",
+   "▲ +20 %",
+   "up",
+   "YTD 4 227"
+  ],
+  [
+   "CTR",
+   "0,50 %",
+   "▲ +0,27 pt",
+   "up",
+   "YTD 0,28 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "lave-vaisselle 60 cm",
+    "O",
+    18,
+    true
+   ],
+   [
+    "   silencieux",
+    "K",
+    16,
+    true
+   ]
+  ],
+  [
+   [
+    "rapport qualité-prix",
+    "G",
+    15,
+    true
+   ],
+   [
+    "   encastrable",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "bandeau apparent",
+    "O",
+    13,
+    true
+   ],
+   [
+    "   fiabilité",
+    "G",
+    12,
+    false
+   ]
+  ],
+  [
+   [
+    "moins de 600 €",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   Black Friday",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "four à pyrolyse",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   induction",
+    "G",
+    11,
+    false
+   ],
+   [
+    "   airfryer",
+    "O",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "pompe à chaleur",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   compatibilité",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "Je veux un lave-vaisselle 60 cm à bandeau apparent à ~500 €",
+  "Un lave-vaisselle bon rapport qualité-prix pour moins de 600 € ?",
+  "L'entretien et la fiabilité sont-ils simples sur le long terme ?",
+  "Est-ce qu'il vaut mieux attendre le Black Friday ?",
+  "Quel four à pyrolyse pour une famille de 4 personnes ?"
+ ],
+ "cats": [
+  [
+   "Petit électro culinaire",
+   37
+  ],
+  [
+   "Cuisson",
+   17
+  ],
+  [
+   "Entretien sols et linge",
+   13
+  ],
+  [
+   "Confort de la maison",
+   13
+  ],
+  [
+   "Lavage (dont lave-vaisselle)",
+   11
+  ],
+  [
+   "Froid",
+   9
+  ]
+ ],
+ "insights": [
+  [
+   "Parler prix et dimensions sur le lave-vaisselle",
+   "Le lave-vaisselle pèse 4,6 % des produits nommés, mais les requêtes sont très précises : largeur 60 cm, bandeau apparent, budget autour de 500 à 600 €.",
+   "Construire les accroches autour du format et du prix : « Lave-vaisselle Bosch 60 cm à moins de 600 € »."
+  ],
+  [
+   "Lever les freins avant l'achat",
+   "Le doute sur l'utilité réelle (26,7 %), le prix (20,6 %), la compatibilité avec la cuisine (14,0 %) et la fiabilité (12,1 %) sont les premiers freins exprimés.",
+   "Mettre en avant les économies d'eau et d'énergie, les dimensions d'encastrement et la durabilité de la marque."
+  ],
+  [
+   "Convertir la recommandation spontanée des IA",
+   "Bosch est la 2e marque recommandée spontanément par les IA (17,8 %, +4,5 pts), juste derrière Samsung. Sa part de voix publicitaire reste faible à 4,2 % (+2,0 pts).",
+   "Renforcer la présence ads sur les topics électroménager pour capter cette préférence vers l'offre Cdiscount."
+  ],
+  [
+   "Préparer le Black Friday dès maintenant",
+   "10,6 % des freins exprimés portent sur l'attente d'une promotion, par exemple le Black Friday. Le CTR passe de 0,23 % à 0,50 % malgré 44 % d'impressions en moins.",
+   "Préparer dès début novembre des messages promotionnels pour capter les acheteurs qui attendent le bon moment."
+  ]
+ ]
+}

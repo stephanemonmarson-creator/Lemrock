@@ -167,7 +167,7 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Aider les plus grands à comprendre le monde** : les titres d'actualité et de découverte pour les plus grands cliquent le plus : Images Doc (8-12 ans) atteint 2,28 fois le CTR moyen et Phosphore (14-19 ans) 2,23 fois.
+- **Aider les plus grands à comprendre le monde** : les titres d'actualité et de découverte pour les plus grands cliquent le plus : Images Doc (8-12 ans) atteint 2,28 fois le CTR moyen et Phosphore 2,23 fois.
 - **Les ados, un relais de croissance** : les titres pour adolescents (Phosphore, Okapi, Je bouquine, So Foot Club, J'aime lire Max) atteignent 1,36 fois le CTR moyen, pour seulement 16 % de la diffusion.
 - **L'anglais perd son angle ludique** : les annonces I Love English restent à 0,88 fois le CTR moyen. Elles décrivent le magazine, alors qu'en août l'accroche « apprendre l'anglais en s'amusant » atteignait 2,77 fois.
 - **Partir du moment, pas de l'abonnement** : les annonces petite enfance (41 % de la diffusion) et génériques restent sous la moyenne, à 0,92 et 0,89 fois. Les Belles Histoires et Babar sont à 0,89 fois.

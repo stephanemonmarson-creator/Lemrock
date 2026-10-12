@@ -1,0 +1,344 @@
+{
+ "note_cdiscount_mobile": "Pas de dossier flux Cdiscount Mobile sur SharePoint (3 ads, ~1,76 M impressions, liens awin awclick sans URL finale decodable).",
+ "Levi's": {
+  "source": "9926_Produits_Levis.docx (liste de 31 deeplinks, 30 ID produits distincts; comparaison sur ID produit /p/xxx)",
+  "flux_partiel": false,
+  "nb_urls_flux": 30,
+  "nb_ads": 97,
+  "nb_ads_dans_flux": 75,
+  "pct_impr_dans_flux": 77.6,
+  "domaines_ads": [
+   "www.levi.com"
+  ],
+  "exemples_hors_flux": [
+   "https://www.levi.com/FR/fr_FR/unidays-it/jupe-taille-haute-fente-arriere/p/001VH0006",
+   "https://www.levi.com/FR/fr_FR/vetements/femme/robes-salopettes/mini-zip-dress/p/0088V0003",
+   "https://www.levi.com/FR/fr_FR/unidays-it/robe-chemise-mi-longue-denim/p/0002Q0000",
+   "https://www.levi.com/FR/fr_FR/vetements/vetements-homme-levis/chemise-col-boutonne-authentic/p/A72100060",
+   "https://www.levi.com/FR/fr_FR/tops-t-shirts/levis-vintage-clothing-chemise-shorthorn-sawtooth/p/001L70002",
+   "https://www.levi.com/FR/fr_FR/vetements/unisexe/vetements-dexterieur/blousons-en-denim-et-camionneurs/veste-trucker-original/p/299450036"
+  ],
+  "nb_url_distinctes_hors_flux": 8,
+  "insights_check": {
+   "red tab": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "boxy": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "trucker": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "xl straight": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "ceinture": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "bonnet": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "casquette": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "jupe": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "robe": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   }
+  },
+  "incoherences": [
+   "22 ads (22,4% impr.) hors liste, dont des URL directes levi.com sans tracking linksynergy et des chemins 'unidays-it/unidays-nl'.",
+   "Trucker, jupes/robes cites dans les insights: presents dans les titres d'ads mais pas dans la liste de 30 produits."
+  ]
+ },
+ "Marshall": {
+  "source": "9926_Produits_Marshall.csv (7 produits)",
+  "flux_partiel": false,
+  "nb_urls_flux": 7,
+  "nb_ads": 26,
+  "nb_ads_dans_flux": 23,
+  "pct_impr_dans_flux": 94.4,
+  "domaines_ads": [
+   "www.cdiscount.com"
+  ],
+  "exemples_hors_flux": [
+   "https://www.cdiscount.com/high-tech/enceintes-sans-fil-bluetooth/l-10684.html?cid=lemwork&cm_mmc=gen_marshall",
+   "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/casque-audio/v-1065420-1065420.html?cid=lemwork&cm_mmc=gen_marshall",
+   "https://www.cdiscount.com/high-tech/sono-dj/enceintes-dj/l-1063908.html?cid=lemwork&cm_mmc=gen_marshall"
+  ],
+  "nb_url_distinctes_hors_flux": 3,
+  "insights_check": {
+   "acton": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "emberton": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "bromley": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "major v": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "149,99": {
+    "dans_titres_ads": false,
+    "dans_flux_lu": null
+   }
+  },
+  "incoherences": [
+   "Toutes les URL sont sur cdiscount.com (flux Marshall = fiches Cdiscount), pas marshall.com.",
+   "3 ads hors flux = pages categorie Cdiscount (cm_mmc=gen_marshall). Prix Major V 149,99 EUR conforme au flux."
+  ]
+ },
+ "Comptoir des Pros": {
+  "source": "9926_Produits_Mabex.csv (14,5 Mo) - seule la page 1 lue (~410 lignes)",
+  "flux_partiel": true,
+  "nb_urls_flux": 411,
+  "nb_ads": 76,
+  "nb_ads_dans_flux": 14,
+  "pct_impr_dans_flux": 19.3,
+  "domaines_ads": [
+   "www.comptoirdespros.com"
+  ],
+  "exemples_hors_flux": [
+   "https://www.comptoirdespros.com/commande-d-eclairage-odace-noir-onyx-scn-s940214.html?UTM_source=lemrock",
+   "https://www.comptoirdespros.com/chaussures-de-securite-basses-pegase-pointure-38.html",
+   "https://www.comptoirdespros.com/veste-r-de-pluie-fluo-monoray-taille-xl.html?UTM_source=lemrock",
+   "https://www.comptoirdespros.com/collier-monobloc-sous-sachet-40-mm-5cm40.html?UTM_source=lemrock",
+   "https://www.comptoirdespros.com/chaussures-basses-pauline-paulsb0bl-blanc-pointure-37.html",
+   "https://www.comptoirdespros.com/chauffe-eau-electrique-blinde-petite-capacite-chauffeo-sous-evier-326216.html"
+  ],
+  "nb_url_distinctes_hors_flux": 27,
+  "insights_check": {
+   "nicoll": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "monobloc": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "milwaukee": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "makita": {
+    "dans_titres_ads": false,
+    "dans_flux_lu": false
+   },
+   "dewalt": {
+    "dans_titres_ads": false,
+    "dans_flux_lu": false
+   },
+   "odace": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "haute visibilit": {
+    "dans_titres_ads": false,
+    "dans_flux_lu": false
+   },
+   "radiateur": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   }
+  },
+  "incoherences": [
+   "Flux partiellement lu: taux de match non concluant.",
+   "Makita et Dewalt cites dans les insights mais absents des titres d'ads et de la portion lue du flux."
+  ]
+ },
+ "Pour de Bon": {
+  "source": "9926_Produits_Pour de Bon.csv (34,9 Mo) - seule la page 1 lue (~240 lignes)",
+  "flux_partiel": true,
+  "nb_urls_flux": 243,
+  "nb_ads": 187,
+  "nb_ads_dans_flux": 9,
+  "pct_impr_dans_flux": 9.5,
+  "domaines_ads": [
+   "www.pourdebon.com"
+  ],
+  "exemples_hors_flux": [
+   "https://www.pourdebon.com/colis-raviolis-boeuf-carotte-4x250g-p16671?utm_source=partenaire&utm_medium=Lemrock&utm_content=Lemrock&utm_campaign=Lemrock",
+   "https://www.pourdebon.com/huitres-gratinees-au-champagne-et-a-l-orange-4-pieces-p11038?utm_source=partenaire&utm_medium=Lemrock&utm_content=Lemrock&utm_campaign=Lemrock",
+   "https://www.pourdebon.com/pain-d-epices-au-miel-p4631",
+   "https://www.pourdebon.com/farz-gwiniszh-du-ou-pain-breton-au-sarrasin-p5128",
+   "https://www.pourdebon.com/roti-de-veau-bio-dans-l-epaule-race-limousine-500g-p2454",
+   "https://www.pourdebon.com/confit-de-2-magrets-de-canard-p4484?utm_source=partenaire&utm_medium=Lemrock&utm_content=Lemrock&utm_campaign=Lemrock"
+  ],
+  "nb_url_distinctes_hors_flux": 142,
+  "insights_check": {
+   "champagne et safran": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "safran": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "comt": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "huitres gratin": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "saumon au miel": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "légumes": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   }
+  }
+ },
+ "Monoprix": {
+  "source": "9926_Produits_monoprixmode.xlsx (22 601 lignes) - seules ~360 premieres lignes lues",
+  "flux_partiel": true,
+  "nb_urls_flux": 363,
+  "nb_ads": 37,
+  "nb_ads_dans_flux": 3,
+  "pct_impr_dans_flux": 7.8,
+  "domaines_ads": [
+   "action.metaffiliation.com"
+  ],
+  "exemples_hors_flux": [
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UE412f3c01304638V4",
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UE412f3c01242523V4",
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UD412f3c0678764V4",
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UE412f3c01263251V4",
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UE412f3c01258070V4",
+   "https://action.metaffiliation.com/trk.php?mclic=P5104675874B11CS1UD412f3c0776593V4"
+  ],
+  "nb_url_distinctes_hors_flux": 15,
+  "insights_check": {
+   "sublim": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "dim": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "canson": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   },
+   "drap housse": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": false
+   },
+   "collant": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": true
+   }
+  }
+ },
+ "PV": {
+  "source": "140926_Catégories_PV.docx (2 liens jdoqocy)",
+  "flux_partiel": false,
+  "nb_urls_flux": 2,
+  "nb_ads": 2,
+  "nb_ads_dans_flux": 2,
+  "pct_impr_dans_flux": 100.0,
+  "domaines_ads": [
+   "www.jdoqocy.com"
+  ],
+  "exemples_hors_flux": [],
+  "nb_url_distinctes_hors_flux": 0,
+  "incoherences": [
+   "Pas de flux produit: seulement 2 liens CJ dans un docx; URL finales non decodables."
+  ]
+ },
+ "Qonto": {
+  "source": "9926_Catégories_Qonto.docx (3 landing pages)",
+  "flux_partiel": false,
+  "nb_urls_flux": 3,
+  "nb_ads": 3,
+  "nb_ads_dans_flux": 3,
+  "pct_impr_dans_flux": 100.0,
+  "domaines_ads": [
+   "qonto.com"
+  ],
+  "exemples_hors_flux": [],
+  "nb_url_distinctes_hors_flux": 0
+ },
+ "Smartphone ID": {
+  "source": "9926_Catégorie_SmartphoneID.docx (1 lien)",
+  "flux_partiel": false,
+  "nb_urls_flux": 1,
+  "nb_ads": 2,
+  "nb_ads_dans_flux": 2,
+  "pct_impr_dans_flux": 100.0,
+  "domaines_ads": [
+   "smartphone-id.go.link"
+  ],
+  "exemples_hors_flux": [],
+  "nb_url_distinctes_hors_flux": 0,
+  "incoherences": [
+   "Lien go.link (deeplink) non decodable; insight indique que le rapport de septembre porte sur un autre secteur (smartphones reconditionnes)."
+  ]
+ },
+ "SNCF": {
+  "source": "FR - SEA - TOP OD Requetes & URL 22092026 (3).xlsx (20 OD, periode 01/01-31/08/2026)",
+  "flux_partiel": false,
+  "nb_urls_flux": 19,
+  "nb_ads": 20,
+  "nb_ads_dans_flux": 19,
+  "pct_impr_dans_flux": 95.7,
+  "domaines_ads": [
+   "www.sncf-connect.com"
+  ],
+  "exemples_hors_flux": [
+   "https://www.sncf-connect.com/app/redirect?redirection_type=SEARCH&origin_transporter_code=FRTNE&destination_transporter_code=FRPAR&nb_pax=1&egn-publisher=lemrock&egn-name=lemrock_fr_conv_exposed_lemrock_autre_autre-multiproduit_fr_mk_autre_20261130&egn-location=1x1&egn-creative=1x1&egn-creativetype=1x1"
+  ],
+  "nb_url_distinctes_hors_flux": 1,
+  "insights_check": {
+   "lille": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "marseille": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "lyon": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "rennes": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "barcelone": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   },
+   "amsterdam": {
+    "dans_titres_ads": true,
+    "dans_flux_lu": null
+   }
+  },
+  "incoherences": [
+   "Dans le fichier OD, la ligne 'Nantes - Paris' pointe vers FRPAR->FRTNE (doublon de Paris-Nantes) ; l'ad Nantes->Paris (FRTNE->FRPAR) n'a donc pas d'equivalent dans le fichier. Ligne Paris-Nantes sans nb_pax.",
+   "Fichier = top OD 01/01-31/08, date 22/09 ; campagne lancee le 30/09."
+  ]
+ }
+}

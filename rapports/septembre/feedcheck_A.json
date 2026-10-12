@@ -1,0 +1,448 @@
+{
+ "Allo Pneus": {
+  "n_ads": 84,
+  "impressions": 577199,
+  "n_ads_in_feed": 82,
+  "pct_impr_in_feed": 98.2,
+  "n_out": 2,
+  "out_kinds": {
+   "produit": 2
+  },
+  "final_domains": {
+   "www.allopneus.com": 84
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Pneu Goodtrip SAFEGUARD 175/65R14 90T - ALLOPNEUS.COM",
+    "final_url": "https://www.allopneus.com/produit/pneu-auto/goodtrip/camionnette-ete/safeguard/175-65r14-90t/0002044545?utm_source=affilae&utm_medium=affiliation&utm_campaign=lemrock",
+    "impr": 9032
+   },
+   {
+    "title": "Pneu Goodtrip SAFEGUARD 175/65R14 90T - ALLOPNEUS.COM",
+    "final_url": "https://www.allopneus.com/produit/pneu-auto/goodtrip/camionnette-ete/safeguard/175-65r14-90t/0002044545?utm_source=affilae&utm_medium=affiliation&utm_campaign=lemrock",
+    "impr": 1462
+   }
+  ],
+  "insight_terms": {
+   "hiver": {
+    "in_ad_titles": false,
+    "in_feed": true
+   },
+   "suv": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "4x4": {
+    "in_ad_titles": false,
+    "in_feed": true
+   },
+   "utilitaire": {
+    "in_ad_titles": false,
+    "in_feed": false
+   },
+   "camionnette": {
+    "in_ad_titles": false,
+    "in_feed": true
+   },
+   "quadraxer": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "hankook": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "goodyear": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "kleber": {
+    "in_ad_titles": true,
+    "in_feed": true
+   }
+  },
+  "feed_source": "9926_Produits_AlloPneus.csv (445 lignes, lu en entier)",
+  "findings": [
+   "98,2% impr dans le flux; seul hors flux: Goodtrip SAFEGUARD 175/65R14 (id 0002044545)",
+   "Plusieurs ads au titre générique (\"Pneus moto et scooter pas chers\", \"Pneus auto et moto...\") pointent vers une fiche produit précise",
+   "Insights: Kleber Quadraxer SUV, Hankook, Goodyear, hiver, 4x4 présents dans le flux; \"utilitaire\" = segment camionnette dans le flux"
+  ]
+ },
+ "Archipel Kombucha": {
+  "n_ads": 24,
+  "impressions": 222269,
+  "n_ads_in_feed": 24,
+  "pct_impr_in_feed": 100.0,
+  "n_out": 0,
+  "out_kinds": {},
+  "final_domains": {
+   "archipelkombucha.com": 24
+  },
+  "out_of_feed_examples": [],
+  "feed_source": "9926_Produis_Archipel.csv (8 produits, 1 sans URL)",
+  "findings": [
+   "100% des ads dans le flux",
+   "Flux mal formé: ligne d en-tête/template parasite (Valise cabine brand.com), CSV avec quotes cassées, Kombucha Cassis 75cl sans URL, image_link = dossier Google Drive",
+   "Insight \"packs de 12 canettes de 33 cl\": le flux ne contient que des canettes x24 et des bouteilles 33cl x12 -> formulation à corriger"
+  ]
+ },
+ "Basket4ballers": {
+  "n_ads": 261,
+  "impressions": 705889,
+  "n_ads_in_feed": 138,
+  "pct_impr_in_feed": 65.8,
+  "n_out": 123,
+  "out_kinds": {
+   "categorie/listing": 108,
+   "produit": 15
+  },
+  "final_domains": {
+   "www.basket4ballers.com": 261
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Survêtements de basket pas chers | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/259-survetements",
+    "impr": 22381
+   },
+   {
+    "title": "Vêtements de basket B4B Brand pas chers | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/43_b4b",
+    "impr": 17170
+   },
+   {
+    "title": "Maillots Équipe de France basket prix bas | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/139-equipe-de-france-de-basket-ball",
+    "impr": 13520
+   },
+   {
+    "title": "Casquettes NBA New Era et bonnets prix bas | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/210-casquettes-et-bonnets",
+    "impr": 9233
+   },
+   {
+    "title": "Maillots Paris Basketball au meilleur prix | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/494-paris-basketball",
+    "impr": 8276
+   },
+   {
+    "title": "Vêtements de basket en promo prix bas | Basket4Ballers",
+    "final_url": "https://www.basket4ballers.com/fr/452-promotions-vetements-de-basket",
+    "impr": 6224
+   }
+  ],
+  "insight_terms": {
+   "nike skills": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "yung-1": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "creeper": {
+    "in_ad_titles": false,
+    "in_feed": false
+   },
+   "ballon": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "casquette": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "survêtement": {
+    "in_ad_titles": true,
+    "in_feed": true
+   },
+   "maillot": {
+    "in_ad_titles": true,
+    "in_feed": true
+   }
+  },
+  "feed_source": "9926_Produits_Basket4ballers.csv (2961 lignes, lu en entier)",
+  "findings": [
+   "65,8% impr dans le flux; 108/123 ads hors flux sont des pages catégorie (survêtements, B4B, Équipe de France, casquettes, Paris Basketball)",
+   "Puma Creeper citée dans insights: absente du flux ET des titres d ads (les ads Puma = Platform Elements, MB.05) -> à vérifier/corriger",
+   "Nike Skills, adidas Yung-1 présents"
+  ]
+ },
+ "Bayard Jeunesse": {
+  "n_ads": 28,
+  "impressions": 408443,
+  "n_ads_in_feed": 26,
+  "pct_impr_in_feed": 90.4,
+  "n_out": 2,
+  "out_kinds": {
+   "produit": 2
+  },
+  "final_domains": {
+   "action.metaffiliation.com": 28
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Tous les abonnements magazines jeunesse - Bayard Jeunesse",
+    "final_url": "https://action.metaffiliation.com/trk.php?mclic=P51323D5874B11515",
+    "impr": 23223
+   },
+   {
+    "title": "Tous les abonnements magazines jeunesse - Bayard Jeunesse",
+    "final_url": "https://action.metaffiliation.com/trk.php?mclic=P51323D5874B11515",
+    "impr": 16147
+   }
+  ],
+  "feed_source": "9926_Produits_BayardJeunesse.csv (19 produits)",
+  "findings": [
+   "90,4% impr dans le flux (match par code mclic metaffiliation; URL finale non décodable, redirection serveur)",
+   "Hors flux: ad générique \"Tous les abonnements\" (mclic P51323D5874B11515)",
+   "Incohérence: insight dit Phosphore 14-19 ans, flux dit 13-18 ans; Images Doc 8-12 ans OK; Les Belles Histoires, Babar, Astrapi, Mon P tit Prions en Église présents"
+  ]
+ },
+ "Bosch": {
+  "n_ads": 53,
+  "impressions": 351019,
+  "n_ads_in_feed": 52,
+  "pct_impr_in_feed": 99.1,
+  "n_out": 1,
+  "out_kinds": {
+   "categorie/listing": 1
+  },
+  "final_domains": {
+   "www.cdiscount.com": 53
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Lave-vaisselle tout encastrable prix bas | Bosch",
+    "final_url": "https://www.cdiscount.com/electromenager/lave-vaisselle/l-11025.html?cid=lemwork&cm_mmc=gen_bsh",
+    "impr": 3161
+   }
+  ],
+  "feed_source": "Produits_Bosch_Cdiscount_clean.xlsx (20 produits)",
+  "findings": [
+   "99,1% impr dans le flux; hors flux = 1 page catégorie lave-vaisselle",
+   "Flux = 20 lave-vaisselle Bosch sur Cdiscount (domaine cdiscount.com cohérent avec ads)",
+   "Modèle 38 dB (SMS6ZCW12F) présent; Série 2/4 présents. Note: ref titre ad SSMS6ZCW12F (double S) identique au flux"
+  ]
+ },
+ "Cdiscount Voyages": {
+  "n_ads": 215,
+  "impressions": 2646273,
+  "n_ads_in_feed": 39,
+  "pct_impr_in_feed": 9.9,
+  "n_out": 176,
+  "out_kinds": {
+   "categorie/listing": 6,
+   "produit": 170
+  },
+  "final_domains": {
+   "vol.cdiscount.com": 6,
+   "www.awin1.com": 8,
+   "sejour.cdiscount.com": 54,
+   "www.cdiscount.com": 147
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Cdiscount Voyages - destinations tendances à prix bas",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22878",
+    "impr": 139280
+   },
+   {
+    "title": "Cdiscount Voyages - vols courts-courriers Europe",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22561",
+    "impr": 135342
+   },
+   {
+    "title": "Cdiscount Voyages - vols vers le Moyen-Orient et l’Islande",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22559",
+    "impr": 134684
+   },
+   {
+    "title": "Cdiscount Voyages - vols vers l’Afrique à prix bas",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22875",
+    "impr": 134272
+   },
+   {
+    "title": "Cdiscount Voyages - vols vers Thaïlande, Vietnam, Bali",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22877",
+    "impr": 134173
+   },
+   {
+    "title": "Cdiscount Voyages - vols vers la Martinique et la Guadeloupe",
+    "final_url": "https://vol.cdiscount.com/Page/companyoperations/?id=22563",
+    "impr": 133477
+   }
+  ],
+  "feed_source": "Vols: 9926_Produits_CdiscountVols.xlsx (lu partiellement ~356/3601 lignes, troncature connecteur); Séjour: 9926_Produits_CdiscountSéjour.xlsx illisible (Graph 406, label Purview probable)",
+  "findings": [
+   "Non vérifiable proprement: flux séjour illisible, flux vols tronqué à ~10% des lignes",
+   "9,9% impr retrouvées (vols seulement); 6 ads vol.cdiscount.com companyoperations (pages opérations, ~810k impr, hors flux par nature); 8 ads awin awclick non décodées",
+   "Flux vols: dates de départ majoritairement mars-juin 2026, seulement 41/~712 dates en sept. -> flux probablement obsolète pour septembre",
+   "Insights (Fuerteventura, Majorque, Dubaï, Lyon-Abidjan) non vérifiés dans le flux séjour"
+  ]
+ },
+ "Dorel": {
+  "n_ads": 108,
+  "impressions": 392255,
+  "n_ads_in_feed": 92,
+  "pct_impr_in_feed": 87.6,
+  "n_out": 16,
+  "out_kinds": {
+   "categorie/listing": 14,
+   "produit": 2
+  },
+  "final_domains": {
+   "www.cdiscount.com": 108
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Lit parapluie Sweet Dreams prix bas - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/voyages-bebe/lit-parapluie-lit-de-voyage/l-113177103.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 9935
+   },
+   {
+    "title": "Table à langer et baignoire 2 en 1 prix bas - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/bain-soin-toilette/tables-a-langer-plans-a-langer/l-113173401.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 7731
+   },
+   {
+    "title": "Chaise haute bébé Lily au meilleur prix - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/equipement-repas-alimentation/chaises-hautes-accessoires/l-113173307.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 4438
+   },
+   {
+    "title": "Tapis d’éveil Gymini Tiny Love au meilleur prix - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/eveil-jouets-1er-age/tapis-d-eveil-portiques-d-eveil/l-113172503.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 4166
+   },
+   {
+    "title": "Trotteur bébé à tablette musicale pas cher - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/eveil-jouets-1er-age/trotteurs/l-113172518.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 3923
+   },
+   {
+    "title": "Berceau cododo pliable Zina pas cher - Dorel",
+    "final_url": "https://www.cdiscount.com/pret-a-porter/bebe-puericulture/chambres-literie-bebe/mobilier-chambre-bebe/lits-bebes/l-11317381402.html?cid=lemwork&cm_mmc=gen_dorel",
+    "impr": 3321
+   }
+  ],
+  "feed_source": "9926_Produits_Dorel.xlsx (101 produits)",
+  "findings": [
+   "87,6% impr dans le flux (match par cm_mmc=dorelN <-> id flux 1-101); 14/16 hors flux = pages catégorie gen_dorel",
+   "Insights vérifiés dans le flux: Gymini Tiny Love 69,63 EUR, trotteur Explorer 44,99 EUR, chaise Lily, EvoluFix 360, lit parapluie Sweet Dreams",
+   "Flux avec encodage cassé (mojibake UTF-8/Latin-1: BÃ©bÃ© Confort)"
+  ]
+ },
+ "DSR": {
+  "n_ads": 1,
+  "impressions": 374206,
+  "n_ads_in_feed": 0,
+  "pct_impr_in_feed": 0.0,
+  "n_out": 1,
+  "out_kinds": {
+   "produit": 1
+  },
+  "final_domains": {
+   "server.adform.net": 1
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Conduite accompagnée : 15 ans, c'est le bon moment",
+    "final_url": "https://server.adform.net/C/?bn=89997184;gdpr=${GDPR};gdpr_consent=${GDPR_CONSENT_50}",
+    "impr": 374206
+   }
+  ],
+  "feed_source": "aucun flux: seul 140926_Catégorie_DSR.docx (contient juste un lien adform)",
+  "findings": [
+   "Aucun flux produit: dossier ne contient qu un .docx avec le lien adform (= URL de l unique ad)",
+   "URL adform avec macros GDPR non remplacées (${GDPR}), URL finale non décodable",
+   "Insight cohérent avec le titre de l ad (Conduite accompagnée 15 ans)"
+  ]
+ },
+ "FidMe": {
+  "n_ads": 169,
+  "impressions": 705574,
+  "n_ads_in_feed": 83,
+  "pct_impr_in_feed": 32.4,
+  "n_out": 86,
+  "out_kinds": {
+   "produit": 86
+  },
+  "final_domains": {
+   "courses.fidme.com": 169
+  },
+  "out_of_feed_examples": [
+   {
+    "title": "Lingettes bébé WaterWipes",
+    "final_url": "https://courses.fidme.com/offre/7c3ba44a-0e7d-41a8-ad40-68cb34a92960?mtm_campaign=testGEA_lemrock_2026-09_WaterWipes&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=camp_WaterWipes",
+    "impr": 112484
+   },
+   {
+    "title": "Café en grains L'OR | Fidme Courses",
+    "final_url": "https://courses.fidme.com/offre/2e515714-a108-4420-92cf-aa76c816b5f1?mtm_campaign=testGEA_lemrock_2026-08&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=lor",
+    "impr": 23607
+   },
+   {
+    "title": "Pains, brioches et gâteaux prix bas | Fidme",
+    "final_url": "https://courses.fidme.com/offre/be20fa17-069a-4ab4-a8f2-9d1d67fb961c?mtm_campaign=testGEA_lemrock_2026-08&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=pasquier",
+    "impr": 17772
+   },
+   {
+    "title": "SAUCE CRUDITÉS | Fidme Courses",
+    "final_url": "https://courses.fidme.com/offre/30041975-90fd-4c89-98c4-3593e1fbc9bb?mtm_campaign=testGEA_lemrock_2026-08&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=barilla",
+    "impr": 16386
+   },
+   {
+    "title": "Pochons pour chat Whiskas pas chers | Fidme",
+    "final_url": "https://courses.fidme.com/offre/a028a9bb-2236-4a3c-99e9-fa49c266c418?mtm_campaign=testGEA_lemrock_2026-08&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=whiskas",
+    "impr": 14340
+   },
+   {
+    "title": "Découvrez Kiri au Skyr ! | Fidme Courses",
+    "final_url": "https://courses.fidme.com/offre/7ceb411a-b2c2-49f2-875d-cc17603cfdda?mtm_campaign=testGEA_lemrock_2026-08&mtm_kwd=GEA&mtm_medium=paid_GEA_lemrock&mtm_content=kiri",
+    "impr": 13998
+   }
+  ],
+  "insight_terms": {
+   "stabilo": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "waterwipes": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "bjorg": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "gaulois végétal": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "blédichef": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "whiskas": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "l'or": {
+    "in_ad_titles": true,
+    "in_feed": null
+   },
+   "vin": {
+    "in_ad_titles": true,
+    "in_feed": null
+   }
+  },
+  "feed_source": "9926_Produits_Fidme.csv (61 offres)",
+  "findings": [
+   "32,4% impr dans le flux (83/169 ads); offre WaterWipes (112k impr, 16% diffusion), L OR, Pasquier, Whiskas, STABILO hors flux",
+   "Flux obsolète: 49/61 offres ont ends_at avant le 01/09/2026 (dates Excel 46160-46264)",
+   "Insights: Bjorg, Le Gaulois Végétal, Blédichef présents dans flux; STABILO et Whiskas présents en ads mais pas dans le flux"
+  ]
+ },
+ "_method": "URL finale décodée (lp/ued/murl), normalisée domaine+path minuscule sans query/slash; matching par id produit (Allo: id 10 chiffres, B4B: id numérique, Cdiscount: code /f-xxx-CODE, Dorel: cm_mmc dorelN, Bayard: mclic, FidMe: uuid offre). SharePoint lu uniquement."
+}

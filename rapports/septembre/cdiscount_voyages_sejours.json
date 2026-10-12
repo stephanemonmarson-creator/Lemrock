@@ -1,0 +1,195 @@
+{
+ "client": "Cdiscount Voyages · Séjours",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "départ en vacances",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   séjour",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "Airbnb",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   Booking",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Club Med",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Pierre & Vacances",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "billets d'avion",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   Transavia",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "valise cabine",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   trousse de toilette",
+    "G",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "Center Parcs",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   TUI",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Lastminute",
+    "O",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
+  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?",
+  "Quelles offres ou prix pour une pochette Faraday ?"
+ ],
+ "cats": [
+  [
+   "Airbnb",
+   32
+  ],
+  [
+   "Booking",
+   22
+  ],
+  [
+   "Opodo",
+   7
+  ],
+  [
+   "Club Med",
+   7
+  ],
+  [
+   "Pierre & Vacances",
+   6
+  ],
+  [
+   "Autres (Cdiscount Voyages < 0,1 %)",
+   26
+  ]
+ ],
+ "insights": [
+  [
+   "Le départ en vacances concentre la demande",
+   "82,3 % des conversations du secteur sont déclenchées par un départ en vacances, avec des recherches de billets d'avion et d'agence.",
+   "Associer chaque séjour à une date de départ proche : « Partez aux vacances de la Toussaint »."
+  ],
+  [
+   "Gagner en visibilité face à Airbnb et Booking",
+   "Cdiscount Voyages reste sous 0,1 % de part de voix (13e), face à Airbnb (31,8 %) et Booking (21,6 %). Côté ads : 4,0 %.",
+   "Élargir les topics ciblés (séjours, clubs, tout compris) pour augmenter la présence publicitaire."
+  ],
+  [
+   "Des réservations en hausse",
+   "4 réservations en septembre pour 1 119 € de GMV (2 en août). Le ROAS passe de 0,82 à 1,30.",
+   "Accélérer sur les offres qui convertissent, avant la fin de tranche."
+  ],
+  [
+   "Moins d'impressions, plus de clics",
+   "Les impressions baissent de 52 %, mais les clics progressent de 26 %. Le CTR passe de 0,19 % à 0,50 %.",
+   "Conserver le ciblage resserré et tester des accroches prix / dernière minute."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "790 844",
+   "▼ −52 %",
+   "down",
+   "YTD 2 717 814"
+  ],
+  [
+   "CLICS",
+   "3 916",
+   "▲ +26 %",
+   "up",
+   "YTD 7 533"
+  ],
+  [
+   "CTR",
+   "0,50 %",
+   "▲ +0,31 pt",
+   "up",
+   "YTD 0,28 %"
+  ],
+  [
+   "CONVERSIONS",
+   "4",
+   "+2",
+   "up",
+   "YTD 6"
+  ],
+  [
+   "CVR",
+   "0,10 %",
+   "▲ +0,04 pt",
+   "up",
+   "YTD 0,08 %"
+  ],
+  [
+   "ROAS",
+   "1,30",
+   "▲ +0,47",
+   "up",
+   "YTD 0,97"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Sejours_sept2026.pptx"
+}

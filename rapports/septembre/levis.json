@@ -1,0 +1,195 @@
+{
+ "client": "Levi's",
+ "words": [
+  [
+   [
+    "jean",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   501 Original Fit",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "jean tulipe",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   élasthanne",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "hauts ajustés",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   doudoune",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "jupe en jean",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   veste",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Zara",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Uniqlo",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Wrangler",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "collants",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Celio",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Montre-moi des hauts ajustés pour accompagner ce jean gris",
+  "Où trouver des jeans tulipe confortables avec un peu d'élasthanne ?",
+  "Montre-moi des idées de tenues complètes avec la jupe en jean longue",
+  "C'est quoi la vraie différence entre une softshell et une doudoune ?",
+  "Peut-on porter ce short au bureau sans être trop décontractée ?"
+ ],
+ "cats": [
+  [
+   "Hauts et pantalons",
+   29
+  ],
+  [
+   "Vestes et plein air",
+   21
+  ],
+  [
+   "Sport et cyclisme",
+   11
+  ],
+  [
+   "Robes et jupes",
+   13
+  ],
+  [
+   "Lingerie et chaussettes",
+   12
+  ],
+  [
+   "Autres",
+   14
+  ]
+ ],
+ "insights": [
+  [
+   "Le jean comme pièce centrale du look",
+   "Les requêtes partent souvent du jean pour construire une tenue : hauts à associer, jupe en jean, jean tulipe avec élasthanne.",
+   "Construire les accroches autour du look complet : « Le 501 et le haut qui va avec »."
+  ],
+  [
+   "Mettre en avant le 501",
+   "Levi's représente 41,1 % des recherches qui nomment une marque, et le 501 Original Fit est le seul modèle cité.",
+   "Faire du 501 le produit d'appel des campagnes."
+  ],
+  [
+   "3e marque, devant tous les spécialistes du jean",
+   "Levi's est 3e en part de voix (17,6 %, +5,7 pts), derrière Zara et Uniqlo. Dans les recommandations spontanées des IA, Levi's recule à 7,9 % (−4,4 pts). Côté ads : 14,1 % (−0,6 pt).",
+   "Maintenir la présence ads et renforcer les contenus pour regagner les recommandations spontanées."
+  ],
+  [
+   "Moins d'impressions, plus de clics",
+   "Les impressions baissent de 29 %, mais les clics progressent de 46 %. Le CTR passe de 0,22 % à 0,44 %.",
+   "Garder le ciblage et décliner les accroches sur la saison froide (vestes, doudounes)."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "378 398",
+   "▼ −29 %",
+   "down",
+   "YTD 961 503"
+  ],
+  [
+   "CLICS",
+   "1 677",
+   "▲ +46 %",
+   "up",
+   "YTD 2 927"
+  ],
+  [
+   "CTR",
+   "0,44 %",
+   "▲ +0,23 pt",
+   "up",
+   "YTD 0,30 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Levis_sept2026.pptx"
+}

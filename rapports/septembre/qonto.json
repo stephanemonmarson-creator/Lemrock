@@ -1,0 +1,193 @@
+{
+ "client": "Qonto",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "création d'entreprise",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   compte pro",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "Boursorama",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   BNP Paribas",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Revolut Business",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Shine",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "retraite",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   vol de portefeuille",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "carte perdue",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   LCL",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Crédit Agricole",
+    "O",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "banque en ligne",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   professionnels",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "À compléter : le rapport d'insights ne fournit pas d'exemples de requêtes pour Qonto"
+ ],
+ "cats": [
+  [
+   "Boursorama",
+   23
+  ],
+  [
+   "BNP Paribas",
+   14
+  ],
+  [
+   "Revolut Business",
+   10
+  ],
+  [
+   "Crédit Agricole",
+   10
+  ],
+  [
+   "Banque Populaire",
+   9
+  ],
+  [
+   "Autres (dont Qonto 1,5 %)",
+   34
+  ]
+ ],
+ "insights": [
+  [
+   "Cibler la création d'entreprise",
+   "La création d'entreprise déclenche 15,1 % des conversations du secteur, un moment clé pour ouvrir un compte pro.",
+   "Construire les accroches autour du lancement : « Ouvrez votre compte pro en quelques minutes »."
+  ],
+  [
+   "Être présent après une perte ou un vol de carte",
+   "Le remplacement après perte (19,2 %) et le vol de portefeuille (5,4 %) déclenchent près d'un quart des conversations.",
+   "Mettre en avant la gestion des cartes depuis l'appli (blocage, carte virtuelle)."
+  ],
+  [
+   "Une forte présence ads, peu de recommandation spontanée",
+   "Qonto pèse 47,8 % de part de voix ads (+45,6 pts) et 1,5 % de part de voix (+0,8 pt). Les IA citent spontanément Shine (18,3 %) et Revolut Business (14,4 %), mais Qonto dans moins de 0,1 % des cas.",
+   "Enrichir les contenus de marque (comparatifs, guides de création) pour être recommandé sans être nommé."
+  ],
+  [
+   "Un premier mois solide",
+   "Lancée le 03/09, la campagne génère 1 094 021 impressions et 4 757 clics, pour un CTR de 0,43 %.",
+   "Mesurer les ouvertures de compte pour piloter la campagne au coût par acquisition."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "1 094 021",
+   "—",
+   "n",
+   "YTD 1 094 021"
+  ],
+  [
+   "CLICS",
+   "4 757",
+   "—",
+   "n",
+   "YTD 4 757"
+  ],
+  [
+   "CTR",
+   "0,43 %",
+   "—",
+   "n",
+   "YTD 0,43 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Qonto_sept2026.pptx"
+}

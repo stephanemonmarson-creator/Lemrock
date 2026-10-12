@@ -1,0 +1,189 @@
+{
+ "client": "Cdiscount Voyages · Vols",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "départ en vacances",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   billets d'avion",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "SNCF",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   easyJet",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Transavia",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Ryanair",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "sac cabine",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   Air France",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "trousse de toilette",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Volotea",
+    "G",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "Skyscanner",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Kayak",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
+  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?",
+  "Montre-moi des sacoches Faraday disponibles."
+ ],
+ "cats": [
+  [
+   "SNCF",
+   32
+  ],
+  [
+   "easyJet",
+   15
+  ],
+  [
+   "Transavia",
+   14
+  ],
+  [
+   "Ryanair",
+   11
+  ],
+  [
+   "Air France",
+   11
+  ],
+  [
+   "Autres (Cdiscount Vols < 0,1 %)",
+   17
+  ]
+ ],
+ "insights": [
+  [
+   "Le départ en vacances concentre la demande",
+   "85,3 % des conversations sont déclenchées par un départ en vacances : billets d'avion, sac cabine, trousse de toilette.",
+   "Mettre en avant les vols vers les destinations des vacances de la Toussaint et de Noël."
+  ],
+  [
+   "Exister face aux compagnies et au train",
+   "Cdiscount Vols reste sous 0,1 % de part de voix (13e). La SNCF (31,7 %), easyJet et Transavia dominent. Côté ads : 6,1 %.",
+   "Renforcer la présence ads sur les requêtes de comparaison de vols et de prix."
+  ],
+  [
+   "Un trafic multiplié par 5,5",
+   "Les clics passent de 1 694 à 9 406 (+455 %) et les impressions de 965 665 à 1 855 410 (+92 %). Le CTR passe de 0,18 % à 0,51 %.",
+   "Profiter de ce trafic pour pousser les offres les plus compétitives."
+  ],
+  [
+   "Aucune réservation attribuée",
+   "Aucune conversion n'est remontée par Awin en septembre malgré 9 406 clics.",
+   "Vérifier le tracking Awin et le parcours jusqu'à la réservation."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "1 855 410",
+   "▲ +92 %",
+   "up",
+   "YTD 2 900 897"
+  ],
+  [
+   "CLICS",
+   "9 406",
+   "▲ +455 %",
+   "up",
+   "YTD 11 246"
+  ],
+  [
+   "CTR",
+   "0,51 %",
+   "▲ +0,33 pt",
+   "up",
+   "YTD 0,39 %"
+  ],
+  [
+   "CONVERSIONS",
+   "0",
+   "—",
+   "n",
+   "YTD 0"
+  ],
+  [
+   "CVR",
+   "0,00 %",
+   "—",
+   "n",
+   "YTD 0,00 %"
+  ],
+  [
+   "ROAS",
+   "0,00",
+   "—",
+   "n",
+   "YTD 0,00"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Cdiscount_Voyages_Vols_sept2026.pptx"
+}

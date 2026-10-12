@@ -1,0 +1,195 @@
+{
+ "client": "SNCF",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "départ en vacances",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   train",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "easyJet",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   Ryanair",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Air France",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   FlixBus",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "Trainline",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   Eurostar",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "BlaBlaCar",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Trenitalia",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Kombo",
+    "O",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "valise",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   sac cabine",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
+  "Quel sac choisir pour combo randonnée et ski de rando ?",
+  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?"
+ ],
+ "cats": [
+  [
+   "SNCF",
+   56
+  ],
+  [
+   "easyJet",
+   7
+  ],
+  [
+   "Ryanair",
+   7
+  ],
+  [
+   "Air France",
+   6
+  ],
+  [
+   "FlixBus",
+   6
+  ],
+  [
+   "Autres",
+   18
+  ]
+ ],
+ "insights": [
+  [
+   "Une marque leader dans les conversations",
+   "La SNCF domine avec 56,4 % de part de voix et 61,8 % des recommandations spontanées des IA, loin devant easyJet et Air France.",
+   "Capitaliser sur cette position pour orienter les voyageurs vers SNCF Connect."
+  ],
+  [
+   "Une part de voix qui recule",
+   "La part de voix baisse de 27,7 pts et la recommandation spontanée de 4,4 pts sur le mois. La part de voix ads reste sous 0,1 %, la campagne ayant démarré le 30/09.",
+   "Suivre l'effet de la campagne sur la part de voix dès octobre."
+  ],
+  [
+   "Les vacances, unique déclencheur",
+   "100 % des conversations du secteur sont déclenchées par un départ en vacances.",
+   "Associer les trajets aux périodes de vacances : Toussaint, Noël, vacances d'hiver."
+  ],
+  [
+   "Premier jour de diffusion",
+   "La campagne a démarré le 30/09 : 139 036 impressions et 788 clics sur la journée, pour un CTR de 0,57 %.",
+   "Premier bilan complet à faire sur le mois d'octobre."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "139 036",
+   "—",
+   "n",
+   "YTD 139 036"
+  ],
+  [
+   "CLICS",
+   "788",
+   "—",
+   "n",
+   "YTD 788"
+  ],
+  [
+   "CTR",
+   "0,57 %",
+   "—",
+   "n",
+   "YTD 0,57 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/SNCF_sept2026.pptx"
+}

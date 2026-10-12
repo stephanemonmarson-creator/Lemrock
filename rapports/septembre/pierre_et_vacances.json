@@ -1,0 +1,195 @@
+{
+ "client": "Pierre & Vacances",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "départ en vacances",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   résidence",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "Airbnb",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   Booking",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Gîtes de France",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Abritel",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "vie en van",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   Odalys",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Club Med",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Center Parcs",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Lagrange",
+    "O",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "Maeva",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   VVF",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment choisir un sac cabine conforme aux dimensions des compagnies ?",
+  "Quel sac choisir pour combo randonnée et ski de rando ?",
+  "Comment organiser une trousse de toilette conforme aux règles de sécurité ?"
+ ],
+ "cats": [
+  [
+   "Airbnb",
+   25
+  ],
+  [
+   "Booking",
+   17
+  ],
+  [
+   "Gîtes de France",
+   11
+  ],
+  [
+   "Abritel",
+   7
+  ],
+  [
+   "Pierre & Vacances",
+   5
+  ],
+  [
+   "Autres",
+   35
+  ]
+ ],
+ "insights": [
+  [
+   "Les vacances déclenchent presque toutes les conversations",
+   "91,2 % des conversations du secteur sont déclenchées par un départ en vacances.",
+   "Associer chaque résidence à une période de départ : vacances scolaires, week-ends prolongés."
+  ],
+  [
+   "7e marque citée, en progression",
+   "Pierre & Vacances pèse 4,7 % de part de voix (+2,1 pts), derrière Airbnb (24,8 %), Booking (16,6 %) et Gîtes de France (11,3 %).",
+   "Mettre en avant ce qui distingue les résidences : services, piscine, emplacements."
+  ],
+  [
+   "Être recommandé spontanément par les IA",
+   "Les IA recommandent spontanément Maeva (19,4 %) et Lagrange (19,0 %), mais citent Pierre & Vacances dans moins de 0,1 % des cas. Côté ads : 2,8 % (+2,8 pts).",
+   "Développer la présence ads et les contenus de marque pour entrer dans les recommandations."
+  ],
+  [
+   "Un premier mois encourageant",
+   "Lancée le 15/09, la campagne génère 638 950 impressions et 3 144 clics en 16 jours, pour un CTR de 0,49 %.",
+   "Poursuivre la diffusion et préparer les messages des vacances de Noël et d'hiver."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "638 950",
+   "—",
+   "n",
+   "YTD 638 950"
+  ],
+  [
+   "CLICS",
+   "3 144",
+   "—",
+   "n",
+   "YTD 3 144"
+  ],
+  [
+   "CTR",
+   "0,49 %",
+   "—",
+   "n",
+   "YTD 0,49 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Pierre_et_Vacances_sept2026.pptx"
+}

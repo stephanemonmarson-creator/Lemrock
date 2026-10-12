@@ -215,17 +215,15 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Les modèles Série 2 cliquent le mieux** : les lave-vaisselle Série 2 atteignent 1,06 fois le CTR moyen, contre 0,95 fois pour les Série 4. Le Série 2 tout encastrable SMV2HTX02E atteint 1,41 fois.
-- **Des écarts forts d'un modèle à l'autre** : avec la même description, les modèles vont de 0,60 fois (Série 4 SBV4HCX07E) à 1,41 fois la moyenne.
-- **Varier les descriptions** : 52 des 53 annonces utilisent la même description (« Cdiscount Electroménager - Découvrez notre offre… »), qui reprend la fiche technique.
-- **Préparer le Black Friday** : 10,6 % des freins exprimés portent sur l'attente d'une promotion. Le CTR passe de 0,23 % à 0,50 %.
+- **Revenir aux messages d'usage qui marchaient en août** : en septembre, les annonces présentent une fiche technique : silence, encastrement, taille et nombre de couverts restent tous entre 0,95 et 1,06 fois le CTR moyen. En août, les messages d'usage atteignaient 1,58 fois (situation concrète) et 1,51 fois (silence).
+- **Couper les 10 annonces les moins performantes** : 10 annonces, soit 24 % de la diffusion, restent à 0,74 fois le CTR moyen (jusqu'à 0,60 fois pour le SBV4HCX07E).
+- **Renforcer les 6 annonces qui cliquent le plus** : 6 annonces, soit 15 % de la diffusion, atteignent 1,27 fois le CTR moyen, surtout des Série 2 (SMV2HTX02E à 1,41 fois).
 
 **Nos recommandations**
 
-- Mettre en avant les Série 2 avec un argument prix.
-- Concentrer la diffusion sur les modèles qui cliquent le plus et retirer les moins performants.
-- Tester des descriptions centrées sur un bénéfice (silence en cuisine ouverte, gain de place, économie d'eau).
-- Préparer des messages promotionnels dès début novembre.
+- Réintroduire des annonces d'usage : « Votre vaisselle s'accumule après le dîner ? », « Lancez-le le soir sans bruit ».
+- Les retirer et réallouer leur budget aux modèles qui cliquent.
+- Leur donner plus de budget, en priorité pour le Black Friday.
 
 **Aller plus loin avec Lemrock**
 

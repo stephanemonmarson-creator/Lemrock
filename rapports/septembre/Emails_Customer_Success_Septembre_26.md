@@ -10,7 +10,7 @@ Un email par compte du deck `121026_Customer Success_Septembre 26.pptx`, aligné
 
 Bonjour [Prénom],
 
-Vous trouverez ci-joint le rapport de performance de Allo Pneus pour le mois de septembre 2026.
+Vous trouverez ci-joint le rapport de performance d'Allo Pneus pour le mois de septembre 2026.
 
 Par rapport à août :
 
@@ -33,15 +33,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Allo Pneus y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Allo Pneus y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la saison hiver** : d'octobre à décembre, les conducteurs passent aux pneus hiver et 4 saisons. Un budget de **xx € par mois** permettrait de capter ce pic sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Allo Pneus, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -56,7 +54,7 @@ Bonne journée,
 
 Bonjour [Prénom],
 
-Vous trouverez ci-joint le rapport de performance de Archipel Kombucha pour le mois de septembre 2026.
+Vous trouverez ci-joint le rapport de performance d'Archipel Kombucha pour le mois de septembre 2026.
 
 Par rapport à août :
 
@@ -79,15 +77,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Archipel Kombucha y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Archipel Kombucha y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Archipel Kombucha, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -125,15 +121,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Basket4Ballers y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Basket4Ballers y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Basket4Ballers, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -171,15 +165,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Bayard Jeunesse y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Bayard Jeunesse y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Bayard Jeunesse, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -217,15 +209,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Bosch y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Bosch y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Bosch, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -266,15 +256,13 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Cdiscount Mobile y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Mobile y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Le tracker est en place : nous allons nous appuyer sur vos conversions pour concentrer la diffusion sur les produits et les messages qui génèrent du chiffre d'affaires.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Cdiscount Mobile, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -315,15 +303,13 @@ Pour rappel, l'objectif de la campagne : atteindre un ROI de 12 pour un CA de 30
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Cdiscount Voyages – Séjours y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Voyages – Séjours y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur les vacances d'hiver** : Toussaint, Noël et février concentrent les réservations. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Le tracker est en place : nous allons nous appuyer sur vos conversions pour concentrer la diffusion sur les produits et les messages qui génèrent du chiffre d'affaires.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Cdiscount Voyages – Séjours, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -364,15 +350,13 @@ Pour rappel, l'objectif de la campagne : atteindre un ROI de 35 pour un CA de 87
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Cdiscount Voyages – Vols y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Voyages – Vols y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur les vacances d'hiver** : Toussaint, Noël et février concentrent les réservations. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Le tracker est en place : nous allons nous appuyer sur vos conversions pour concentrer la diffusion sur les produits et les messages qui génèrent du chiffre d'affaires.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Cdiscount Voyages – Vols, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -410,15 +394,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Dorel y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Dorel y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Dorel, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -456,15 +438,13 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Ce premier mois confirme une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Sécurité Routière y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Sécurité Routière y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Poursuivre la diffusion** avec un budget de **xx € par mois**, pour installer le message dans la durée.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Sécurité Routière, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -504,15 +484,13 @@ Pour rappel, l'objectif de la campagne : acquérir de nouveaux clients.
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et FidMe y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et FidMe y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne FidMe, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -548,15 +526,13 @@ Please find attached the Levi's performance report for September 2026.
 
 **Going further with Lemrock**
 
-These results confirm one thing: conversations with AI assistants have become a real moment of purchase decision, and Levi's is already there, at the right time, in front of an expressed intent. Lemrock is one of the only ad platforms able to activate these moments today, and every month of activity enriches what we learn about your brand: the intents, contexts and messages that perform.
+AI assistants have become a key moment in purchase decisions, and Levi's is present there in front of precise intents. To amplify these results:
 
-To turn this head start into growth, we suggest three next steps:
+1. **Accelerate for the holiday season**: Black Friday and Christmas concentrate the strongest purchase intents. A budget of **xx € per month** would capture these peaks without interruption.
+2. **Install the Lemrock Conversion Tracker**: already used by our other clients, it measures the sales generated and optimises delivery on conversions, not just clicks.
+3. **Get ahead on ChatGPT Ads in France**: what we have learnt from your campaign will let us launch an optimised setup as soon as it opens.
 
-1. **Accelerate for the holiday season.** Black Friday, Christmas and the January sales concentrate the strongest purchase intents of the year. A budget of **xx € per month** would capture these peaks without interruption.
-2. **Steer on sales with the Lemrock Conversion Tracker.** Already installed with our other clients, it measures sales and leads, identifies the intents and products that convert, and optimises delivery on conversions rather than clicks alone. Installation takes only a few minutes.
-3. **Be among the first advertisers on ChatGPT Ads in France.** Building on everything learnt from the Levi's campaign, we can prepare an optimised launch as soon as this new inventory opens, ahead of your competitors.
-
-And this is only the beginning: our teams keep innovating every month, with new formats, new inventories and ever more precise steering tools. Our ambition is to make Lemrock your brand's reference partner in the era of conversational search.
+We will keep innovating with new formats and inventories, to make Lemrock your reference partner for conversational search.
 
 Would you be available in the coming days to discuss it?
 
@@ -596,15 +572,13 @@ Pour rappel, l'objectif de la campagne : atteindre un ROAS d'au moins 10 (idéal
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Mabex y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Mabex y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Mabex, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -642,15 +616,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Marshall y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Marshall y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Marshall, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -689,15 +661,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Monoprix Mode y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Monoprix Mode y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Fiabiliser le Lemrock Conversion Tracker** : il est en place mais ne remonte aucune conversion en septembre. Vérifions-le ensemble pour piloter la campagne sur vos ventes.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Le tracker est en place : nous allons nous appuyer sur vos conversions pour concentrer la diffusion sur les produits et les messages qui génèrent du chiffre d'affaires.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Monoprix Mode, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -735,15 +705,13 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Ce premier mois confirme une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Pierre & Vacances y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Pierre & Vacances y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la saison d'hiver** : Noël et les vacances de février concentrent les réservations montagne. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Pierre & Vacances, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -781,15 +749,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Pour de Bon y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Pour de Bon y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Pour de Bon, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -827,15 +793,13 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Ce premier mois confirme une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Qonto y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Qonto y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer avant la réforme de la facturation électronique** : un budget de **xx € par mois** permettrait de capter ces intentions sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Qonto, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -871,15 +835,13 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Ces résultats confirment une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et Smartphone ID y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et Smartphone ID y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne Smartphone ID, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 
@@ -917,15 +879,13 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Ce premier mois confirme une chose : les conversations avec les assistants IA sont devenues un vrai moment de décision d'achat, et SNCF y est déjà présent, au bon moment, face à une intention exprimée. Lemrock est l'une des seules régies à pouvoir activer ces moments aujourd'hui, et chaque mois de diffusion enrichit nos apprentissages sur votre marque : intentions, contextes et messages qui performent.
+Les assistants IA sont devenus un moment clé de la décision d'achat, et SNCF y est présent face à des intentions précises. Pour amplifier ces résultats :
 
-Pour transformer cette avance en croissance, nous vous proposons trois chantiers :
+1. **Accélérer sur les départs de fin d'année** : Toussaint et Noël concentrent les recherches de trajets. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
+3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
 
-1. **Accélérer sur la fin d'année.** Black Friday, Noël et les soldes de janvier concentrent les intentions d'achat les plus fortes de l'année. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption de diffusion.
-2. **Piloter sur vos ventes avec le Lemrock Conversion Tracker.** Déjà installé chez nos autres clients, il permet de mesurer les ventes et leads générés, d'identifier les intentions et produits qui convertissent, et d'optimiser la diffusion sur les conversions plutôt que sur les seuls clics. Son installation ne prend que quelques minutes.
-3. **Être parmi les premiers annonceurs sur ChatGPT Ads en France.** Grâce aux apprentissages accumulés sur la campagne SNCF, nous pouvons préparer un lancement optimisé dès l'ouverture de ce nouvel inventaire, et prendre une longueur d'avance sur vos concurrents.
-
-Et ce n'est qu'un début : nos équipes continuent d'innover chaque mois, avec de nouveaux formats, de nouveaux inventaires et des outils de pilotage toujours plus précis. Notre ambition est de faire de Lemrock le partenaire de référence de votre marque dans l'ère de la recherche conversationnelle.
+Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
 Quelles seraient vos disponibilités dans les prochains jours pour en discuter ?
 

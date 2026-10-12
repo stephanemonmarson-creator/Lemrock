@@ -1,0 +1,192 @@
+{
+ "client": "Basket4Ballers",
+ "out": "/home/user/Lemrock/rapports/septembre/Basket4Ballers_sept2026.pptx",
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "705 874",
+   "▲ +33 %",
+   "up",
+   "YTD 1 702 639"
+  ],
+  [
+   "CLICS",
+   "3 198",
+   "▲ +195 %",
+   "up",
+   "YTD 5 040"
+  ],
+  [
+   "CTR",
+   "0,45 %",
+   "▲ +0,25 pt",
+   "up",
+   "YTD 0,30 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "words": [
+  [
+   [
+    "sneakers blanches",
+    "O",
+    18,
+    true
+   ],
+   [
+    "   jean",
+    "K",
+    16,
+    true
+   ]
+  ],
+  [
+   [
+    "Air Force 1",
+    "G",
+    15,
+    true
+   ],
+   [
+    "   Air Max 90",
+    "K",
+    14,
+    true
+   ]
+  ],
+  [
+   [
+    "New Balance 574",
+    "O",
+    13,
+    true
+   ],
+   [
+    "   Cortez",
+    "G",
+    12,
+    false
+   ]
+  ],
+  [
+   [
+    "marcher toute la journée",
+    "O",
+    11,
+    true
+   ],
+   [
+    "   confort",
+    "K",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "Nike P-6000",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   running",
+    "G",
+    11,
+    false
+   ],
+   [
+    "   pas chères",
+    "O",
+    11,
+    true
+   ]
+  ],
+  [
+   [
+    "Wilson Authentic",
+    "K",
+    11,
+    true
+   ],
+   [
+    "   ballon de basket",
+    "G",
+    11,
+    false
+   ]
+  ]
+ ],
+ "queries": [
+  "Des idées de sneakers blanches qui vont bien avec ce jean",
+  "Montre-moi des baskets solides et pas chères pour marcher beaucoup",
+  "Je peux porter la P-6000 pour courir régulièrement ?",
+  "Quels types de lacets aident les sneakers à mieux s'ajuster ?",
+  "Je peux utiliser le Wilson Authentic en salle sans l'abîmer ?"
+ ],
+ "cats": [
+  [
+   "Chaussures de ville et mode",
+   71
+  ],
+  [
+   "Running et chaussures de sport",
+   12
+  ],
+  [
+   "Baskets et sneakers",
+   8
+  ],
+  [
+   "Outdoor et montagne",
+   8
+  ],
+  [
+   "Équipement de basket-ball",
+   1,
+   "< 1 %"
+  ]
+ ],
+ "insights": [
+  [
+   "Recentrer la diffusion sur l'univers basket et sneakers",
+   "Les conversations captées portent à 71 % sur des chaussures de ville et de mode (mocassins, ballerines, bottines). Le basket-ball pèse moins de 1 % des produits nommés.",
+   "Resserrer les topics ciblés autour des sneakers, du basket et du streetwear pour toucher une audience plus proche du catalogue."
+  ],
+  [
+   "Mettre en avant les modèles iconiques",
+   "Une recherche sur cinq (19,5 %) nomme déjà une marque ou un modèle : Air Force 1, Air Max 90, Cortez, New Balance 237 et 574 reviennent le plus.",
+   "Construire les accroches autour des modèles cités : « Trouvez votre paire d'Air Force 1 », puis la page produit."
+  ],
+  [
+   "Exister face aux marques et aux grandes enseignes",
+   "Basket4Ballers pèse 0,3 % de part de voix (12e) et reste sous 0,1 % des recommandations spontanées des IA, où Courir atteint 10,7 %. Côté ads, la part de voix monte à 12,3 % (+2,6 pts).",
+   "Maintenir la présence publicitaire et développer des contenus experts (guides de tailles, comparatifs de modèles) pour être recommandé spontanément."
+  ],
+  [
+   "Parler confort et usage quotidien",
+   "Les clics sont multipliés par 3 avec seulement 33 % d'impressions en plus : le CTR passe de 0,20 % à 0,45 %. Les requêtes cherchent des baskets « solides », « pas chères » et pour « marcher toute la journée ».",
+   "Associer chaque modèle à un usage concret : confort toute la journée, look avec un jean, polyvalence ville et sport."
+  ]
+ ]
+}

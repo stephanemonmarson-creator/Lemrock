@@ -52,12 +52,12 @@ for i,q in enumerate(qs):
 # categories
 txt(1329,618,480,25,[R('CATÉGORIES DE PRODUITS',G,13,True)]);txt(1329,655,480,20,[R('Répartition des requêtes',LG,10,False,True)])
 PAL=[RGBColor(0x1C,0x7C,0x8C),RGBColor(0x7A,0x4E,0x96),RGBColor(0xEB,0x9A,0x5E),O,RGBColor(0x3E,0x5A,0x78),RGBColor(0xA0,0x92,0x78)]
-cats=[(n,v,PAL[i]) for i,(n,v) in enumerate(D['cats'])]
+cats=[(c[0],c[1],PAL[i],c[2] if len(c)>2 else f'{c[1]} %') for i,c in enumerate(D['cats'])]
 txt(1740,685,85,20,[R('100%',K,11,True)],align=PP_ALIGN.RIGHT)
 y0=730;H=220
-for i,(n,v,c) in enumerate(cats):
-    yy=715+i*44;rect(1325,yy+8,20,20,c);txt(1361,yy+5,340,25,[R(n if (i==0 and v>=25) else f'{n} · {v} %',K,10)])
-for n,v,c in cats:
+for i,(n,v,c,lab) in enumerate(cats):
+    yy=715+i*44;rect(1325,yy+8,20,20,c);txt(1361,yy+5,340,25,[R(n if (i==0 and v>=25) else f'{n} · {lab}',K,10)])
+for n,v,c,lab in cats:
     h=H*v/100;b=rect(1733,y0,78,h,c)
     if v>=25:txt(1733,y0,78,h,[R(f'{v} %',W,10,True)],align=PP_ALIGN.CENTER,anchor=MSO_ANCHOR.MIDDLE)
     y0+=h

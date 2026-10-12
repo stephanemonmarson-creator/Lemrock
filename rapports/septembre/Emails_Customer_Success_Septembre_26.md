@@ -215,7 +215,7 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Revenir aux messages d'usage qui marchaient en août** : en septembre, les annonces présentent une fiche technique : silence, encastrement, taille et nombre de couverts restent tous entre 0,95 et 1,06 fois le CTR moyen. En août, les messages d'usage atteignaient 1,58 fois (situation concrète) et 1,51 fois (silence).
+- **Revenir aux messages d'usage qui marchaient en août** : en septembre, les annonces sont des fiches techniques : aucune caractéristique ne se démarque (entre 0,95 et 1,06 fois le CTR moyen). En août, les messages d'usage atteignaient jusqu'à 1,58 fois.
 - **Couper les 10 annonces les moins performantes** : 10 annonces, soit 24 % de la diffusion, restent à 0,74 fois le CTR moyen (jusqu'à 0,60 fois pour le SBV4HCX07E).
 - **Renforcer les 6 annonces qui cliquent le plus** : 6 annonces, soit 15 % de la diffusion, atteignent 1,27 fois le CTR moyen, surtout des Série 2 (SMV2HTX02E à 1,41 fois).
 

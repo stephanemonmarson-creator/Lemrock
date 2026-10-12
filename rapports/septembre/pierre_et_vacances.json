@@ -1,7 +1,5 @@
 {
  "client": "Pierre & Vacances",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -101,28 +99,28 @@
  ],
  "cats": [
   [
-   "Airbnb",
-   25
+   "Résidences et appartements de vacances",
+   38
   ],
   [
-   "Booking",
-   17
+   "Villages et clubs",
+   20
   ],
   [
-   "Gîtes de France",
-   11
+   "Séjours montagne et ski",
+   16
   ],
   [
-   "Abritel",
-   7
+   "Séjours mer et littoral",
+   14
   ],
   [
-   "Pierre & Vacances",
-   5
+   "Week-ends et courts séjours",
+   8
   ],
   [
-   "Autres",
-   35
+   "Bien-être et activités",
+   4
   ]
  ],
  "insights": [

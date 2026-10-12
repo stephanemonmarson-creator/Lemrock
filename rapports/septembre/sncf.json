@@ -1,7 +1,5 @@
 {
  "client": "SNCF",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -101,28 +99,28 @@
  ],
  "cats": [
   [
-   "SNCF",
-   56
+   "Réservation de billets de train",
+   40
   ],
   [
-   "easyJet",
-   7
+   "Prix et petits prix",
+   20
   ],
   [
-   "Ryanair",
-   7
+   "Destinations et itinéraires",
+   16
   ],
   [
-   "Air France",
-   6
+   "Cartes et abonnements",
+   12
   ],
   [
-   "FlixBus",
-   6
+   "Trains de nuit et international",
+   8
   ],
   [
-   "Autres",
-   18
+   "Bagages et services à bord",
+   4
   ]
  ],
  "insights": [

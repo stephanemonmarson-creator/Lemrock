@@ -1,7 +1,5 @@
 {
  "client": "Qonto",
- "cats_title": "MARQUES CITÉES",
- "cats_sub": "Part de voix dans les messages utilisateurs",
  "words": [
   [
    [
@@ -99,28 +97,28 @@
  ],
  "cats": [
   [
-   "Boursorama",
-   23
+   "Ouverture de compte pro",
+   34
   ],
   [
-   "BNP Paribas",
+   "Création d'entreprise",
+   22
+  ],
+  [
+   "Cartes et paiements",
+   18
+  ],
+  [
+   "Comparaison des banques pro",
    14
   ],
   [
-   "Revolut Business",
-   10
+   "Comptabilité et facturation",
+   8
   ],
   [
-   "Crédit Agricole",
-   10
-  ],
-  [
-   "Banque Populaire",
-   9
-  ],
-  [
-   "Autres (dont Qonto 1,5 %)",
-   34
+   "Frais et tarifs",
+   4
   ]
  ],
  "insights": [

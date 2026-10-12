@@ -186,11 +186,6 @@
    "Privilégier les marques au bon rapport qualité-prix",
    "Les marques à prix accessible cliquent mieux, Hankook atteint 1,22 fois le CTR moyen. Les marques premium comme Goodyear restent en dessous (0,69 fois).",
    "Mettre en avant les marques accessibles avec le message « pas cher mais sûr »."
-  ],
-  [
-   "Enrichir le flux produit avec des descriptions",
-   "Le flux produit transmis ne contient pas de champ description : 70 annonces sur 84 reprennent donc le même texte générique (« Leader de la vente de pneus pas chers en ligne… ») et restent dans la moyenne.",
-   "Ajouter au flux une description par produit avec un bénéfice précis : adhérence sous la pluie, conformité loi montagne, montage à domicile."
   ]
  ],
  "conv_msg": "Le Conversion Tracker n'est pas encore installé. Les conversions apparaîtront dans ce rapport dès son intégration."

@@ -117,17 +117,17 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Mettre en avant les accessoires et les protections** : les accessoires (1,12 fois le CTR moyen), les ballons (1,20 fois) et les protections (1,05 fois) font mieux que la moyenne. Le ballon Nike Skills enfant atteint 1,36 fois.
-- **Renvoyer vers des fiches produit plutôt que des pages catégorie** : les annonces qui renvoient vers une fiche produit atteignent 1,06 fois le CTR moyen, contre 0,86 fois pour celles qui renvoient vers une page catégorie (survêtements, casquettes, maillots Paris Basketball).
-- **Les sneakers lifestyle tiennent leur rang** : les chaussures et sneakers dépassent la moyenne (jusqu'à 1,11 fois), avec des modèles comme l'adidas Yung-1 ou la Puma Platform Elements.
-- **Les clics triplent** : les clics passent de 1 083 à 3 198 pour 33 % d'impressions en plus. Le CTR passe de 0,20 % à 0,45 %.
+- **Parler du jeu, pas seulement du produit** : les accroches qui évoquent la pratique (jouer, match, entraînement, terrain) atteignent 1,28 fois le CTR moyen. Elles ne représentent pourtant que 2 % de la diffusion.
+- **Les ballons et accessoires restent porteurs** : les ballons atteignent 1,27 fois le CTR moyen et les accessoires et petits équipements 1,12 fois, devant les chaussures et les maillots.
+- **La promotion ne suffit toujours pas** : les accroches centrées sur le prix (« pas cher », « prix bas », « promo ») restent à 0,85 fois le CTR moyen, alors qu'elles représentent 21 % de la diffusion.
+- **Revoir les maillots et les tenues** : les maillots restent à 0,90 fois le CTR moyen, les tenues de basket à 0,58 fois et les casquettes à 0,41 fois.
 
 **Nos recommandations**
 
-- Donner plus de place aux accessoires et petits équipements dans la diffusion.
-- Remplacer les annonces catégorie par des produits précis du flux.
-- Pousser les modèles iconiques et les nouveautés lifestyle.
-- Garder le ciblage et concentrer le budget sur les catégories qui cliquent le plus.
+- Présenter chaque produit dans son usage : match, entraînement, playground.
+- Renforcer la visibilité des ballons, chaussettes techniques, manchons et sacs de sport.
+- Commencer par le produit, le joueur ou l'usage, puis présenter le prix comme un argument secondaire.
+- Associer les maillots à un joueur, une équipe ou un match, avec la reprise de la saison NBA en octobre.
 
 **Aller plus loin avec Lemrock**
 

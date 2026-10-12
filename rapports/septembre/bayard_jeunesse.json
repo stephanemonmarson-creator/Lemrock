@@ -3,140 +3,138 @@
  "words": [
   [
    [
-    "livres papier",
+    "abonnement magazine",
     "O",
     18,
-    1
+    true
    ],
    [
-    "   abonnement",
+    "   J'aime lire",
     "K",
     16,
-    1
+    true
    ]
   ],
   [
    [
-    "magazine",
+    "Pomme d'Api",
     "G",
     15,
-    1
+    true
    ],
    [
-    "   audiobook",
+    "   Phosphore",
     "K",
     14,
-    1
+    true
    ]
   ],
   [
    [
-    "numéros numériques",
+    "Images Doc",
     "O",
     13,
-    1
+    true
    ],
    [
-    "   BD",
+    "   Popi",
     "G",
     12,
-    0
+    false
    ]
   ],
   [
    [
-    "Nathan",
+    "I Love English",
     "O",
     11,
-    1
+    true
    ],
    [
-    "   Mon Quotidien",
+    "   So Foot Club",
     "K",
     11,
-    1
+    true
    ]
   ],
   [
    [
-    "Glénat",
+    "Okapi",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   Fleurus",
+    "   Astrapi",
     "G",
     11,
-    0
+    false
    ],
    [
-    "   Milan Presse",
+    "   Youpi Doc",
     "O",
     11,
-    0
+    true
    ]
   ],
   [
    [
-    "livres audio",
+    "livré à la maison",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   Spotify",
+    "   numérique",
     "G",
     11,
-    0
+    false
    ]
   ]
  ],
  "queries": [
-  "Ça vaut le coup en audiobook ou mieux en lecture papier ?",
-  "Où je peux acheter le livre et à quel prix ?",
   "Comment je m'abonne pour accéder aux numéros numériques ?",
   "Comment je reçois le magazine papier chez moi ?",
-  "Montre-moi les livres audio disponibles sur Spotify"
+  "Ça vaut le coup en audiobook ou mieux en lecture papier ?"
  ],
  "cats": [
   [
    "Lecture et découverte 6-10 ans",
-   70
+   33
   ],
   [
    "Apprentissage de l'anglais",
-   3
+   8
   ],
   [
    "Magazines pour adolescents",
-   16
+   19
   ],
   [
    "Éveil et petite enfance",
-   11
+   40
   ]
  ],
  "insights": [
   [
-   "Mettre en avant les magazines découverte et actualité",
-   "Images Doc (8-12 ans) et Phosphore (lycéens) atteignent plus de 2,2 fois le CTR moyen, les meilleurs scores de la campagne.",
-   "Donner plus de visibilité aux titres qui aident à comprendre le monde et l'actualité."
+   "Mettre en avant les magazines ados",
+   "Les magazines pour adolescents (Phosphore, Okapi, So Foot Club, Je bouquine) atteignent 1,39 fois le CTR moyen. Phosphore atteint même 2,23 fois.",
+   "Donner plus de place aux titres ados dans la diffusion."
   ],
   [
-   "Parler d'un âge et d'un bénéfice précis",
-   "Les annonces qui indiquent la tranche d'âge et ce que l'enfant y gagne (orientation, culture, lecture) dépassent la moyenne. L'abonnement générique reste à 1,02 fois.",
-   "Construire chaque accroche autour d'un âge et d'un bénéfice concret."
+   "Les magazines documentaires surperforment",
+   "Images Doc (magazine découvertes 8-12 ans) atteint 2,28 fois le CTR moyen, le meilleur score de la campagne.",
+   "Mettre en avant les titres qui aident à comprendre le monde."
   ],
   [
-   "Revoir les titres petite enfance et éveil à la foi",
-   "Les Belles Histoires, Babar, Astrapi et Mon p'tit Prions en Église restent entre 0,62 et 0,67 fois la moyenne.",
-   "Tester des messages plus orientés parents (rituel du soir, temps partagé)."
+   "Revoir les annonces petite enfance et génériques",
+   "L'éveil et la petite enfance représentent 40 % de la diffusion mais restent à 0,92 fois la moyenne (Les Belles Histoires 0,62 fois, Babar 0,67 fois). Les annonces génériques sont à 0,89 fois.",
+   "Parler aux parents d'un moment précis (histoire du soir, premiers apprentissages) plutôt que de l'abonnement en général."
   ],
   [
    "Les clics triplent",
    "Les clics passent de 722 à 2 277 pour 7 % d'impressions en plus. Le CTR passe de 0,19 % à 0,56 %.",
-   "Prolonger la campagne au-delà du 11/10 pour la période des cadeaux de fin d'année."
+   "Prolonger la campagne au-delà du 11/10, pour la période des cadeaux de fin d'année."
   ]
  ],
  "kpis": [

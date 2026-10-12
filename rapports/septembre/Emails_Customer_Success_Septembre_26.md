@@ -167,17 +167,17 @@ Par rapport à août :
 
 **Les principaux enseignements de septembre**
 
-- **Mettre en avant les magazines ados** : les magazines pour adolescents (Phosphore, Okapi, So Foot Club, Je bouquine) atteignent 1,39 fois le CTR moyen. Phosphore atteint même 2,23 fois.
-- **Les magazines documentaires surperforment** : images Doc (magazine découvertes 8-12 ans) atteint 2,28 fois le CTR moyen, le meilleur score de la campagne.
-- **Revoir les annonces petite enfance et génériques** : l'éveil et la petite enfance représentent 40 % de la diffusion mais restent à 0,92 fois la moyenne (Les Belles Histoires 0,62 fois, Babar 0,67 fois). Les annonces génériques sont à 0,89 fois.
-- **Les clics triplent** : les clics passent de 722 à 2 277 pour 7 % d'impressions en plus. Le CTR passe de 0,19 % à 0,56 %.
+- **Aider les plus grands à comprendre le monde** : les titres d'actualité et de découverte pour les plus grands cliquent le plus : Images Doc (8-12 ans) atteint 2,28 fois le CTR moyen et Phosphore (14-19 ans) 2,23 fois.
+- **Les ados, un relais de croissance** : les titres pour adolescents (Phosphore, Okapi, Je bouquine, So Foot Club, J'aime lire Max) atteignent 1,36 fois le CTR moyen, pour seulement 16 % de la diffusion.
+- **L'anglais perd son angle ludique** : les annonces I Love English restent à 0,88 fois le CTR moyen. Elles décrivent le magazine, alors qu'en août l'accroche « apprendre l'anglais en s'amusant » atteignait 2,77 fois.
+- **Partir du moment, pas de l'abonnement** : les annonces petite enfance (41 % de la diffusion) et génériques restent sous la moyenne, à 0,92 et 0,89 fois. Les Belles Histoires et Babar sont à 0,89 fois.
 
 **Nos recommandations**
 
+- Mettre en avant la promesse « comprendre l'actualité et le monde » pour les collégiens et lycéens.
 - Donner plus de place aux titres ados dans la diffusion.
-- Mettre en avant les titres qui aident à comprendre le monde.
-- Parler aux parents d'un moment précis (histoire du soir, premiers apprentissages) plutôt que de l'abonnement en général.
-- Prolonger la campagne au-delà du 11/10, pour la période des cadeaux de fin d'année.
+- Revenir à la promesse d'août : apprendre l'anglais en s'amusant, par âge.
+- Reprendre les moments qui cliquaient en août : histoire du soir, apprentissage de la lecture, cadeau.
 
 **Aller plus loin avec Lemrock**
 

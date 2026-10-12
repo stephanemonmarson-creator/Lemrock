@@ -4,58 +4,58 @@
  "words": [
   [
    [
-    "iPhone 17 Pro",
+    "forfait mobile",
     "O",
-    18,
-    1
+    20,
+    true
    ],
    [
-    "   Galaxy S26",
+    "   sans engagement",
     "K",
-    16,
-    1
+    18,
+    true
    ]
   ],
   [
    [
-    "forfait mobile",
+    "40 Go",
     "G",
+    16,
+    true
+   ],
+   [
+    "   150 Go",
+    "K",
     15,
-    1
+    true
+   ]
+  ],
+  [
+   [
+    "4G & 5G",
+    "O",
+    13,
+    true
    ],
    [
     "   eSIM",
-    "K",
-    14,
-    1
-   ]
-  ],
-  [
-   [
-    "reconditionné",
-    "O",
-    13,
-    1
-   ],
-   [
-    "   Pixel 10",
     "G",
     12,
-    0
+    false
    ]
   ],
   [
    [
-    "Redmi Note 15 Pro",
+    "meilleur prix",
     "O",
     11,
-    1
+    true
    ],
    [
-    "   256 Go",
+    "   data",
     "K",
     11,
-    1
+    true
    ]
   ],
   [
@@ -63,42 +63,32 @@
     "départ en vacances",
     "K",
     11,
-    1
+    true
    ],
    [
-    "   promotion",
+    "   changement d'opérateur",
     "G",
     11,
-    0
-   ],
-   [
-    "   fiabilité",
-    "O",
-    11,
-    1
+    false
    ]
   ],
   [
    [
-    "Honor 600",
+    "promotion",
     "K",
     11,
-    1
+    true
    ],
    [
     "   compatibilité",
     "G",
     11,
-    0
+    false
    ]
   ]
  ],
  "queries": [
-  "Montre-moi les smartphones Android 256 Go sous 500 €",
-  "Je recherche un smartphone microSD pour la photo",
-  "Comment je sais si un iPhone 15 reconditionné est fiable ?",
-  "Les Honor vendus en Europe ont-ils bien les services Google ?",
-  "Ça vaut le coup de changer de smartphone juste pour WhatsApp ?"
+  "À compléter : le rapport d'insights porte surtout sur les smartphones, pas sur les forfaits"
  ],
  "cats": [
   [
@@ -142,9 +132,9 @@
  ],
  "insights": [
   [
-   "Le forfait 40 Go est le plus efficace",
-   "Le forfait 40 Go sans engagement concentre deux tiers de la diffusion et reste au niveau du meilleur CTR (1,02 fois la moyenne).",
-   "Garder le 40 Go comme offre d'appel."
+   "Les forfaits 40 Go et 150 Go font jeu égal",
+   "Le forfait 40 Go (deux tiers de la diffusion) et le forfait 150 Go obtiennent le même CTR (0,99 à 1,02 fois la moyenne).",
+   "Garder le 40 Go comme offre d'appel, au prix le plus bas."
   ],
   [
    "Les trois annonces performent de la même façon",

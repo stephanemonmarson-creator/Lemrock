@@ -8,9 +8,15 @@ Un email par compte du deck `121026_Customer Success_Septembre 26.pptx`, aligné
 
 **Objet : Rapport de performance Allo Pneus - septembre 2026**
 
-Bonjour [Prénom],
+> **À vérifier** : Prévenir Mickaël (Affilae) avant tout contact direct avec Allopneus (règle posée le 16/09).
+
+**À :** Clément Bomperin, Florian Puisais (Allopneus) ; cc : Mickaël Pouhaër-Biguet (Affilae)
+
+Bonjour Clément, bonjour Florian,
 
 Vous trouverez ci-joint le rapport de performance d'Allo Pneus pour le mois de septembre 2026.
+
+Suite à nos échanges de septembre avec Affilae sur le ROI de la campagne, voici le bilan de septembre et nos pistes pour la haute saison.
 
 Par rapport à août :
 
@@ -33,11 +39,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Allo Pneus y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la saison hiver** : d'octobre à décembre, les conducteurs passent aux pneus hiver et 4 saisons. Un budget de **xx € par mois** permettrait de capter ce pic sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Prolonger le test pendant la saison hiver** : le test de 3 mois lancé le 10/06 arrive à son terme, au moment où les conducteurs passent aux pneus hiver. Nous vous proposons de le prolonger avec un budget de **xx € par mois**.
+2. **Installer le Lemrock Conversion Tracker** : c'est la condition pour mesurer le ROI réel de la campagne et optimiser la diffusion sur les ventes, et plus seulement sur les clics.
+3. **Lancer l'A/B test pages produits / pages catégories**, dès réception des liens catégories.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -52,9 +58,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Archipel Kombucha - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Achille Miklitarian, Lisa Carpentier
+
+Bonjour Achille, bonjour Lisa,
 
 Vous trouverez ci-joint le rapport de performance d'Archipel Kombucha pour le mois de septembre 2026.
+
+Merci encore pour l'installation du pixel Lemrock le 30/09 : les premières données remontent bien, et le mois d'octobre sera le premier mesuré sur vos ventes.
 
 Par rapport à août :
 
@@ -77,11 +87,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Archipel Kombucha y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Accélérer sur la fin d'année** : apéritifs sans alcool, Dry January et cadeaux gourmands. Votre budget court jusqu'à fin décembre ; nous concentrerons la diffusion sur ces moments.
+2. **Exploiter le Conversion Tracker** : nous comparerons les visites et ventes mesurées par Lemrock avec votre suivi Shopify, puis concentrerons la diffusion sur les produits qui vendent.
+3. **ChatGPT Ads** : suite à notre échange du 15/09, nous revenons vers vous dès que les conditions d'accès s'assouplissent.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -96,9 +106,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Basket4Ballers - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Simon Schwartz ; cc : Mélissande Kretz, Gilles Bollinger
+
+Bonjour Simon,
 
 Vous trouverez ci-joint le rapport de performance de Basket4Ballers pour le mois de septembre 2026.
+
+Merci pour le code promo BASKET4BALLERS5 et le flux enrichi des prix barrés : ils sont intégrés à la campagne, et l'A/B test sur vos ~100 pages catégories est lancé.
 
 Par rapport à août :
 
@@ -121,11 +135,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Basket4Ballers y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Accélérer sur Black Friday et Noël** : sneakers et maillots NBA sont des idées cadeaux fortes. Un budget de **xx € par mois** permettrait de capter ce pic sans interruption.
+2. **Installer le Lemrock Conversion Tracker** : à date, une seule commande (120 €) a pu être attribuée à Lemrock. Le tracker nous permettrait de mesurer toutes les ventes et d'optimiser sur celles-ci ; nous pouvons accompagner votre équipe IT pour l'installation.
+3. **Mettre en avant le code promo** dans les annonces sneakers, le format le plus cliqué.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -140,9 +154,15 @@ Bonne journée,
 
 **Objet : Rapport de performance Bayard Jeunesse - septembre 2026**
 
-Bonjour [Prénom],
+> **À vérifier** : Dorian a aussi demandé : toutes les requêtes, captures de diffusion, répartition IA généraliste / spécialisée et évolution de la PDV. À joindre ou à préparer (la PDV a été retirée des slides).
+
+**À :** Dorian Mitard, Stéphanie Vivier (Kwanko)
+
+Bonjour Dorian, bonjour Stéphanie,
 
 Vous trouverez ci-joint le rapport de performance de Bayard Jeunesse pour le mois de septembre 2026.
+
+Comme demandé par Dorian le 30/09, le rapport couvre désormais septembre. Nous restons disponibles pour un point tripartite avec Bayard.
 
 Par rapport à août :
 
@@ -165,11 +185,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Bayard Jeunesse y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Prolonger la diffusion jusqu'à consommation des 1 500 €**, comme souhaité par Bayard, en concentrant le budget sur les titres qui cliquent le plus (Phosphore, Okapi, Je bouquine).
+2. **Mesurer les abonnements** : pour piloter vers les repères de CPA (8 € par abonnement, 5 € par réabonnement), nous aurons besoin des abonnements attribués, via Kwanko ou via le Lemrock Conversion Tracker.
+3. **Préparer Noël** : l'abonnement magazine est un cadeau naturel ; nous vous proposons une campagne dédiée de novembre à décembre avec un budget de **xx €**.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -184,9 +204,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Bosch - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Philippe Le Page (Cdiscount)
+
+Bonjour Philippe,
 
 Vous trouverez ci-joint le rapport de performance de Bosch pour le mois de septembre 2026.
+
+Merci pour le partage des conversions depuis le lancement : 13 commandes validées pour 1 295 € HT sur Bosch.
 
 Par rapport à août :
 
@@ -209,11 +233,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Bosch y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Concentrer la fin de budget** (55 % consommés au 01/10) sur les modèles qui cliquent le plus.
+2. **Renforcer les produits de fin d'année** et activer de nouvelles catégories retail media, comme évoqué le 15/09.
+3. **Faire le point sur les pistes d'amélioration** avant de reparler du Conversion Tracker, comme convenu.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -228,9 +252,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Cdiscount Mobile - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Alice Mondon, Florian Guerra
+
+Bonjour Alice, bonjour Florian,
 
 Vous trouverez ci-joint le rapport de performance de Cdiscount Mobile pour le mois de septembre 2026.
+
+Merci pour la reconduction de 5 000 € validée le 01/10.
 
 Par rapport à août :
 
@@ -256,11 +284,11 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Mobile y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Tester de nouvelles accroches** : les 3 annonces actuelles cliquent de la même façon ; nous proposons d'en ajouter autour du prix, de l'eSIM et du sans engagement, qui cliquaient jusqu'à 4,3 fois plus en août.
+2. **Lancer l'A/B test pages produits / pages catégories**, dès réception des liens.
+3. **Préparer Black Friday**, période clé pour les forfaits mobiles.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -275,9 +303,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Cdiscount Voyages – Séjours - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Alice Mondon, Florian Guerra
+
+Bonjour Alice, bonjour Florian,
 
 Vous trouverez ci-joint le rapport de performance de Cdiscount Voyages – Séjours pour le mois de septembre 2026.
+
+Nous en parlerons lors de notre call du 15/10.
 
 Par rapport à août :
 
@@ -303,11 +335,11 @@ Pour rappel, l'objectif de la campagne : atteindre un ROI de 12 pour un CA de 30
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Voyages – Séjours y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur les vacances d'hiver** : Toussaint, Noël et février concentrent les réservations. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Anticiper le renouvellement** : les budgets expirent fin novembre, juste avant les réservations de Noël et de février. Un budget de **xx € par mois** permettrait de ne pas interrompre la diffusion.
+2. **Construire les annonces par destination** (Canaries, Baléares, Dubaï), qui cliquent le mieux.
+3. **Lancer l'A/B test pages produits / pages catégories**, dès réception des liens.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -322,9 +354,15 @@ Bonne journée,
 
 **Objet : Rapport de performance Cdiscount Voyages – Vols - septembre 2026**
 
-Bonjour [Prénom],
+> **À vérifier** : Conversions : Awin ne distingue pas Vols et Séjours ; harmoniser la convention d'attribution avant envoi.
+
+**À :** Alice Mondon, Florian Guerra
+
+Bonjour Alice, bonjour Florian,
 
 Vous trouverez ci-joint le rapport de performance de Cdiscount Voyages – Vols pour le mois de septembre 2026.
+
+Nous en parlerons lors de notre call du 15/10.
 
 Par rapport à août :
 
@@ -350,11 +388,11 @@ Pour rappel, l'objectif de la campagne : atteindre un ROI de 35 pour un CA de 87
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Cdiscount Voyages – Vols y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur les vacances d'hiver** : Toussaint, Noël et février concentrent les réservations. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Exploiter le Lemrock Conversion Tracker** : vos conversions nous permettent désormais de concentrer la diffusion sur les offres qui génèrent du chiffre d'affaires.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Anticiper le renouvellement** : les budgets expirent fin novembre, juste avant les départs de Noël et de février. Un budget de **xx € par mois** permettrait de ne pas interrompre la diffusion.
+2. **Fiabiliser le suivi des clics Vols dans Awin**, qui ne les capte pas depuis le 19/08.
+3. **Dissocier davantage les stratégies Vols et Séjours**, avec des annonces par destination long-courrier.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -369,9 +407,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Dorel - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Philippe Le Page (Cdiscount)
+
+Bonjour Philippe,
 
 Vous trouverez ci-joint le rapport de performance de Dorel pour le mois de septembre 2026.
+
+Depuis le lancement, vous avez mesuré 6 commandes validées pour 308 € HT.
 
 Par rapport à août :
 
@@ -394,11 +436,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Dorel y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Concentrer la diffusion sur l'éveil et la sécurité de la maison**, qui cliquent le plus, pour consommer le budget restant (39 % consommés au 01/10).
+2. **Préparer Noël** : tapis d'éveil et jouets sont des cadeaux de naissance naturels.
+3. **Faire le point sur les pistes d'amélioration** avant de reparler du Conversion Tracker, comme convenu.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -413,9 +455,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Sécurité Routière - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Anthony Loyez, Anne Chanthavong (Amnet) ; cc : Clémence Bougerol
+
+Bonjour Anthony, bonjour Anne,
 
 Vous trouverez ci-joint le rapport de performance de Sécurité Routière pour le mois de septembre 2026.
+
+La campagne diffuse jusqu'au 11/10 avec les nouveaux ciblages parents d'ados que vous nous avez transmis.
 
 C'était le premier mois de diffusion de la campagne :
 
@@ -438,11 +484,11 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Sécurité Routière y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Poursuivre la diffusion** avec un budget de **xx € par mois**, pour installer le message dans la durée.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Prolonger la campagne** au-delà du 11/10 avec un budget de **xx €**, en testant de nouvelles accroches (parents, réussite au permis).
+2. **Lancer la campagne de recrutement de professeurs** : nous attendons le brief pour vous faire une proposition.
+3. **ChatGPT Ads** : notre offre packagée (5 000 €/mois dont 3 500 € ChatGPT Ads) reste d'actualité si vous souhaitez l'étendre.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -457,9 +503,13 @@ Bonne journée,
 
 **Objet : Rapport de performance FidMe - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Sophie Descarrega
+
+Bonjour Sophie,
 
 Vous trouverez ci-joint le rapport de performance de FidMe pour le mois de septembre 2026.
+
+Nous vérifions en priorité avec notre équipe tech la mise à jour de l'offre WaterWipes à 1 € et des liens de tracking Matomo.
 
 Par rapport à août :
 
@@ -484,11 +534,11 @@ Pour rappel, l'objectif de la campagne : acquérir de nouveaux clients.
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et FidMe y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Prolonger la campagne** avec un budget de **xx € par mois** pour les offres de fin d'année, le budget actuel étant consommé.
+2. **Lancer l'A/B test site vs application**, comme vous le souhaitiez, sur une enveloppe dédiée.
+3. **Mesurer les remboursements** : nous pouvons vous accompagner pour déclarer Lemrock dans votre CMP, ou travailler à partir de vos données Matomo.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -503,9 +553,13 @@ Bonne journée,
 
 **Subject: Levi's performance report - September 2026**
 
-Hello [First name],
+**À :** Kathesa, Danielle Hawker (Levi's) ; cc : Sonja Jeffery (Rakuten)
+
+Hello Kathesa, hello Danielle,
 
 Please find attached the Levi's performance report for September 2026.
+
+Thank you for your October product focus: we are building it into the campaign.
 
 - **378 398 impressions** (−29 % vs August) and **1 677 clicks** (+46 %);
 - **a CTR of 0,44 %** (+0,23 pt).
@@ -526,11 +580,11 @@ Please find attached the Levi's performance report for September 2026.
 
 **Going further with Lemrock**
 
-AI assistants have become a key moment in purchase decisions, and Levi's is present there in front of precise intents. To amplify these results:
+To amplify these results:
 
-1. **Accelerate for the holiday season**: Black Friday and Christmas concentrate the strongest purchase intents. A budget of **xx € per month** would capture these peaks without interruption.
-2. **Install the Lemrock Conversion Tracker**: already used by our other clients, it measures the sales generated and optimises delivery on conversions, not just clicks.
-3. **Get ahead on ChatGPT Ads in France**: what we have learnt from your campaign will let us launch an optimised setup as soon as it opens.
+1. **Push the October focus products** alongside jeans, which remain above average.
+2. **Install the Lemrock Conversion Tracker**: it measures the sales generated and optimises delivery on conversions, not just clicks.
+3. **Launch the A/B test of product vs category pages**, as soon as we receive the category links.
 
 We will keep innovating with new formats and inventories, to make Lemrock your reference partner for conversational search.
 
@@ -545,9 +599,13 @@ Best regards,
 
 **Objet : Rapport de performance Mabex - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Julien Mazerolle (Comptoir des Pros)
+
+Bonjour Julien,
 
 Vous trouverez ci-joint le rapport de performance de Mabex pour le mois de septembre 2026.
+
+Suite à notre échange sur le rythme de dépense, la diffusion a nettement accéléré : 1 668 clics en septembre, avec un CTR de 0,53 %.
 
 Par rapport à août :
 
@@ -572,11 +630,11 @@ Pour rappel, l'objectif de la campagne : atteindre un ROAS d'au moins 10 (idéal
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Mabex y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Prolonger le test** avec un budget de **xx € par mois**, pour disposer d'un volume suffisant et juger la rentabilité du canal.
+2. **Installer le Lemrock Conversion Tracker** : la mesure GA4 actuelle (7 jours post-clic) reste peu fiable, comme vous l'avez souligné ; le tracker mesurerait précisément le CA généré.
+3. **Mettre en avant les packs chantier et la livraison offerte**, qui cliquent le plus.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -591,9 +649,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Marshall - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Philippe Le Page (Cdiscount)
+
+Bonjour Philippe,
 
 Vous trouverez ci-joint le rapport de performance de Marshall pour le mois de septembre 2026.
+
+Depuis le lancement, vous avez mesuré 30 commandes validées pour 1 636 € HT : c'est la marque la plus performante des trois.
 
 Par rapport à août :
 
@@ -616,11 +678,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Marshall y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Accélérer sur Black Friday et Noël** : enceintes Bluetooth et casques sont des cadeaux phares. Un budget de **xx €** permettrait de capter ce pic.
+2. **Afficher les prix dans les annonces casques**, qui cliquent presque deux fois plus.
+3. **Faire le point sur les pistes d'amélioration** avant de reparler du Conversion Tracker, comme convenu.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -635,9 +697,15 @@ Bonne journée,
 
 **Objet : Rapport de performance Monoprix Mode - septembre 2026**
 
-Bonjour [Prénom],
+> **À vérifier** : La slide indique 0 conversion en septembre alors que Kwanko en mesure 4 sur Mode : à aligner.
+
+**À :** Sarah Touaimia (Monoprix) ; cc : Julie Mazille (Kwanko)
+
+Bonjour Sarah, bonjour Julie,
 
 Vous trouverez ci-joint le rapport de performance de Monoprix Mode pour le mois de septembre 2026.
+
+Suite à notre point du 30/09 : Kwanko a mesuré 4 ventes Mode en septembre (10 au total avec Courses, contre 2 en août), 100 % de nouveaux clients.
 
 Par rapport à août :
 
@@ -661,11 +729,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Monoprix Mode y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Fiabiliser le Lemrock Conversion Tracker** : il est en place mais ne remonte aucune conversion en septembre. Vérifions-le ensemble pour piloter la campagne sur vos ventes.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Installer le Conversion Tracker** : nous vous avons envoyé la documentation le 09/10 et restons disponibles pour vous indiquer où poser le tag.
+2. **Lancer l'A/B test pages produits / pages catégories TML** (Femme, Homme, Maison, Beauté, Loisirs), avec les liens trackés reçus le 28/09.
+3. **Préparer Black Friday et Noël** avec de nouveaux médias (Marmiton, Biba, Grazia), une fois le tracker en place.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -680,9 +748,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Pierre & Vacances - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Erika Raoiliharizava (Pierre & Vacances) ; cc : Manon Giudicelli (CJ)
+
+Bonjour Erika, bonjour Manon,
 
 Vous trouverez ci-joint le rapport de performance de Pierre & Vacances pour le mois de septembre 2026.
+
+La campagne est en ligne depuis le 16/09 : ce rapport couvre ses deux premières semaines.
 
 C'était le premier mois de diffusion de la campagne :
 
@@ -705,11 +777,11 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Pierre & Vacances y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la saison d'hiver** : Noël et les vacances de février concentrent les réservations montagne. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Préparer Noël et les vacances de février** : nous ajouterons des annonces par station et par destination, avec un prix d'appel.
+2. **Mesurer les réservations** : pour piloter vers votre objectif de ROI (2 minimum, 4 à 6 idéalement), nous avons besoin des réservations attribuées, via CJ ou via le Lemrock Conversion Tracker selon ce que CJ autorise.
+3. **ChatGPT Ads** : notre proposition de 20 000 € reste d'actualité pour la saison d'hiver.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -768,9 +840,13 @@ Bonne journée,
 
 **Objet : Rapport de performance Qonto - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Marine Masson, Thomas Guillerm
+
+Bonjour Marine, bonjour Thomas,
 
 Vous trouverez ci-joint le rapport de performance de Qonto pour le mois de septembre 2026.
+
+Merci pour l'installation du tracker via GTM le 07/10 : les premiers événements remontent bien.
 
 C'était le premier mois de diffusion de la campagne :
 
@@ -793,11 +869,11 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Qonto y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer avant la réforme de la facturation électronique** : un budget de **xx € par mois** permettrait de capter ces intentions sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Exploiter le Conversion Tracker** : dès octobre, nous optimiserons la diffusion sur les ouvertures de compte, et plus seulement sur les clics.
+2. **Mettre en avant la facturation électronique**, l'annonce la plus cliquée, à l'approche de la réforme.
+3. **Retravailler l'annonce compte pro**, qui concentre 41 % de la diffusion.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -812,9 +888,15 @@ Bonne journée,
 
 **Objet : Rapport de performance Smartphone ID - septembre 2026**
 
-Bonjour [Prénom],
+> **À vérifier** : Emile conteste le temps à passer sur les trackers (09/10) : réponse commerciale à apporter avant ou avec cet email.
+
+**À :** Clément Béchu ; cc : Emile Menetrey
+
+Bonjour Clément,
 
 Vous trouverez ci-joint le rapport de performance de Smartphone ID pour le mois de septembre 2026.
+
+Suite à nos échanges, notre CTO a proposé une attribution via Adjust et notre API serveur, sans SDK ni tag à intégrer de votre côté.
 
 Par rapport à août :
 
@@ -835,11 +917,11 @@ Par rapport à août :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et Smartphone ID y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur la fin d'année** : Black Friday et Noël concentrent les plus fortes intentions d'achat. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Mettre en place l'attribution via Adjust** dès que nous avons un contact technique de votre côté, pour mesurer les installations réelles.
+2. **Ajouter des annonces par démarche** (passeport, permis, visa, photo de bébé) pour identifier celles qui convertissent le mieux.
+3. **Prolonger le test** avec un budget de **xx € par mois**.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 
@@ -854,9 +936,13 @@ Bonne journée,
 
 **Objet : Rapport de performance SNCF - septembre 2026**
 
-Bonjour [Prénom],
+**À :** Matthieu Ruault
+
+Bonjour Matthieu,
 
 Vous trouverez ci-joint le rapport de performance de SNCF pour le mois de septembre 2026.
+
+Merci pour votre rapport du 30/09 au 08/10. La campagne a été lancée le 30/09 sur le top 20 des origines-destinations.
 
 C'était le premier mois de diffusion de la campagne :
 
@@ -879,11 +965,11 @@ C'était le premier mois de diffusion de la campagne :
 
 **Aller plus loin avec Lemrock**
 
-Les assistants IA sont devenus un moment clé de la décision d'achat, et SNCF y est présent face à des intentions précises. Pour amplifier ces résultats :
+Pour amplifier ces résultats, nous vous proposons :
 
-1. **Accélérer sur les départs de fin d'année** : Toussaint et Noël concentrent les recherches de trajets. Un budget de **xx € par mois** permettrait de capter ces pics sans interruption.
-2. **Installer le Lemrock Conversion Tracker** : déjà en place chez nos autres clients, il mesure les ventes générées et optimise la diffusion sur les conversions, plus seulement sur les clics.
-3. **Prendre de l'avance sur ChatGPT Ads en France** : nos apprentissages sur votre campagne nous permettront de lancer un dispositif optimisé dès l'ouverture.
+1. **Rééquilibrer la diffusion** vers les liaisons qui cliquent le plus (Lyon, Marseille, Lille) et tester davantage de liaisons internationales.
+2. **Croiser vos données Eulerian avec nos clics** chaque semaine, pour suivre le ROI du POC.
+3. **Préparer les départs de Toussaint et de Noël** dans le cadre de l'enveloppe du POC.
 
 Nous continuerons d'innover avec de nouveaux formats et inventaires, pour faire de Lemrock votre partenaire de référence de la recherche conversationnelle.
 

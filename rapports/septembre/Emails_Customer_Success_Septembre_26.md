@@ -21,7 +21,7 @@ Par rapport à août :
 
 - **Mettre davantage en avant les pneus hiver** : les annonces de pneus hiver atteignent 1,15 fois le CTR moyen, le meilleur score du mois. Elles ne représentent pourtant que 8 % de la diffusion.
 - **Renforcer les pneus SUV** : les pneus SUV et 4x4 atteignent 1,09 fois le CTR moyen, et jusqu'à 1,43 fois pour le Kleber Quadraxer SUV. Les pneus utilitaires restent sous la moyenne (0,87 fois).
-- **Privilégier les marques au bon rapport qualité-prix** : les marques à prix accessible cliquent mieux : Hankook atteint 1,22 fois le CTR moyen. Les marques premium comme Goodyear restent en dessous (0,69 fois).
+- **Privilégier les marques au bon rapport qualité-prix** : les marques à prix accessible cliquent mieux, Hankook atteint 1,22 fois le CTR moyen. Les marques premium comme Goodyear restent en dessous (0,69 fois).
 - **Varier les descriptions des annonces** : la plupart des annonces utilisent la même description (« Leader de la vente de pneus pas chers en ligne ») et restent dans la moyenne.
 
 **Nos recommandations**
@@ -243,7 +243,7 @@ Pour rappel, l'objectif de la campagne : générer 550 nouvelles souscriptions.
 **Les principaux enseignements de septembre**
 
 - **Les forfaits 40 Go et 150 Go font jeu égal** : le forfait 40 Go (deux tiers de la diffusion) et le forfait 150 Go obtiennent le même CTR (0,99 à 1,02 fois la moyenne).
-- **Les trois annonces performent de la même façon** : les 3 annonces diffusées sont entre 0,99 et 1,02 fois la moyenne : elles ne permettent pas de tester d'autres messages.
+- **Les trois annonces performent de la même façon** : les 3 annonces diffusées sont entre 0,99 et 1,02 fois la moyenne, et ne permettent pas de tester d'autres messages.
 - **Activer le départ en vacances** : le départ en vacances déclenche 24 % des conversations du secteur, avec des recherches de forfait et d'eSIM.
 - **Les clics triplent, les conversions restent rares** : 9 138 clics (+207 %) mais 4 conversions seulement, loin de l'objectif de 550 souscriptions.
 
@@ -693,7 +693,7 @@ C'était le premier mois de diffusion de la campagne :
 
 - **Deux annonces au même niveau** : l'annonce location France et Europe (1,03 fois le CTR moyen) et l'annonce montagne en hiver (0,97 fois) se partagent la diffusion à parts égales.
 - **Préparer la saison d'hiver** : la moitié de la diffusion porte déjà sur les séjours à la montagne cet hiver.
-- **Des annonces sans destination ni prix** : les deux annonces restent génériques (« à la mer comme à la montagne », « près des pistes ») : aucune ne cite une station, une ville ou un prix.
+- **Des annonces sans destination ni prix** : les deux annonces restent génériques (« à la mer comme à la montagne », « près des pistes ») ; aucune ne cite une station, une ville ou un prix.
 - **Un premier mois encourageant** : lancée le 15/09, la campagne génère 3 144 clics en 16 jours, pour un CTR de 0,49 %.
 
 **Nos recommandations**

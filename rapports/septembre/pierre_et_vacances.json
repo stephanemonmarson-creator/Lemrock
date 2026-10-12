@@ -120,7 +120,7 @@
   ],
   [
    "Des annonces sans destination ni prix",
-   "Les deux annonces restent génériques (« à la mer comme à la montagne », « près des pistes ») : aucune ne cite une station, une ville ou un prix.",
+   "Les deux annonces restent génériques (« à la mer comme à la montagne », « près des pistes ») ; aucune ne cite une station, une ville ou un prix.",
    "Tester des annonces par station ou destination, avec un prix d'appel."
   ],
   [

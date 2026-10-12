@@ -1,0 +1,203 @@
+{
+ "client": "Monoprix Courses",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "sans additifs",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   étiquette",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "vin",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   viande",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "fromage",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   plats préparés",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "frais de livraison",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   congeler",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "grossesse",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   fleur de sel",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   comté",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Lidl",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   E.Leclerc",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Picard",
+    "K",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Comment repérer une vraie tablette sans additifs sur l'étiquette ?",
+  "Quel vin prendre si tu veux un goût moins tannique ?",
+  "C'est quoi le meilleur morceau de bœuf pour un pot-au-feu ?",
+  "Où je peux l'acheter en ligne et y a-t-il des frais de livraison ?",
+  "Peut-on préparer ce gratin à l'avance et le congeler ?"
+ ],
+ "cats": [
+  [
+   "Lidl",
+   27
+  ],
+  [
+   "E.Leclerc",
+   20
+  ],
+  [
+   "Auchan",
+   11
+  ],
+  [
+   "Carrefour",
+   11
+  ],
+  [
+   "Intermarché",
+   8
+  ],
+  [
+   "Autres (dont Monoprix 5,5 %)",
+   23
+  ]
+ ],
+ "insights": [
+  [
+   "Une diffusion relancée en septembre",
+   "Après un mois d'août quasi à l'arrêt (41 893 impressions), la campagne repart : 1 263 529 impressions et 4 813 clics, pour un CTR de 0,38 %.",
+   "Campagne terminée le 23/09 : bilan à partager pour préparer une éventuelle reprise."
+  ],
+  [
+   "Rassurer sur la composition",
+   "La composition et les ingrédients (29,0 %) et le doute sur l'utilité réelle (21,4 %) sont les premiers freins : l'audience lit les étiquettes.",
+   "Mettre en avant la qualité des produits Monoprix (origine, labels, recettes simples)."
+  ],
+  [
+   "Exister face aux enseignes discount",
+   "Monoprix pèse 5,5 % de part de voix (+2,5 pts, 7e) et 8,2 % des recommandations spontanées des IA, loin de Lidl et E.Leclerc. Côté ads : 24,2 % (+6,1 pts).",
+   "Différencier Monoprix par la qualité et la proximité plutôt que par le prix."
+  ],
+  [
+   "Plus de ventes, mais un ROAS faible",
+   "8 conversions en septembre (2 en août) pour 337 € de GMV, soit un ROAS de 0,27 et un CVR de 0,17 %.",
+   "Vérifier le panier moyen attribué et le tracking Kwanko avant une reprise."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "1 263 529",
+   "▲ +2916 %",
+   "up",
+   "YTD 8 576 833"
+  ],
+  [
+   "CLICS",
+   "4 813",
+   "▲ +2319 %",
+   "up",
+   "YTD 16 777"
+  ],
+  [
+   "CTR",
+   "0,38 %",
+   "▼ −0,09 pt",
+   "down",
+   "YTD 0,20 %"
+  ],
+  [
+   "CONVERSIONS",
+   "8",
+   "+6",
+   "up",
+   "YTD 17"
+  ],
+  [
+   "CVR",
+   "0,17 %",
+   "▼ −0,84 pt",
+   "down",
+   "YTD 0,10 %"
+  ],
+  [
+   "ROAS",
+   "0,27",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Monoprix_Courses_sept2026.pptx"
+}

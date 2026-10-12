@@ -7,7 +7,7 @@ O=RGBColor(0xEE,0x6A,0x2C);K=RGBColor(0x11,0x11,0x11);G=RGBColor(0x55,0x5B,0x66)
 GR=RGBColor(0x1E,0x7B,0x34);RD=RGBColor(0xB0,0x48,0x37);BG=RGBColor(0xF8,0xF6,0xF2);W=RGBColor(255,255,255);BOX=RGBColor(0xF1,0xEF,0xEA)
 import json,sys
 p=Presentation();p.slide_width=Emu(12192000);p.slide_height=Emu(6858000)
-for name in ['allo_pneus', 'archipel', 'basket4ballers', 'bosch', 'cdiscount_mobile', 'cdiscount_voyages_sejours', 'cdiscount_voyages_vols', 'dorel', 'fidme', 'levis', 'mabex', 'marshall', 'monoprix', 'pierre_et_vacances', 'pour_de_bon', 'qonto', 'smartphone_id', 'sncf']:
+for name in ['1001_pneus', 'allo_pneus', 'archipel', 'basket4ballers', 'bayard_jeunesse', 'bosch', 'cdiscount_mobile', 'cdiscount_voyages_sejours', 'cdiscount_voyages_vols', 'dorel', 'fidme', 'iopole', 'la_redoute', 'levis', 'mabex', 'marshall', 'monoprix_courses', 'monoprix', 'pierre_et_vacances', 'pour_de_bon', 'qonto', 'ryobi', 'smartphone_id', 'sncf']:
     D=json.load(open(name+'.json'))
     s=p.slides.add_slide(p.slide_layouts[6])
     X=lambda v:Emu(int(v*12192000/2000))  # coords in 2000-wide px space

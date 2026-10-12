@@ -1,0 +1,191 @@
+{
+ "client": "Bayard Jeunesse",
+ "words": [
+  [
+   [
+    "livres papier",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   abonnement",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "magazine",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   audiobook",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "numéros numériques",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   BD",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "Nathan",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   Mon Quotidien",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Glénat",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Fleurus",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Milan Presse",
+    "O",
+    11,
+    0
+   ]
+  ],
+  [
+   [
+    "livres audio",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Spotify",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Ça vaut le coup en audiobook ou mieux en lecture papier ?",
+  "Où je peux acheter le livre et à quel prix ?",
+  "Comment je m'abonne pour accéder aux numéros numériques ?",
+  "Comment je reçois le magazine papier chez moi ?",
+  "Montre-moi les livres audio disponibles sur Spotify"
+ ],
+ "cats": [
+  [
+   "Livres papier",
+   54
+  ],
+  [
+   "Livres",
+   28
+  ],
+  [
+   "Journaux",
+   7
+  ],
+  [
+   "Magazines",
+   7
+  ],
+  [
+   "Livres audio et e-books",
+   4
+  ]
+ ],
+ "insights": [
+  [
+   "Simplifier l'abonnement",
+   "Les requêtes sur les magazines portent sur la façon de s'abonner et de recevoir les numéros, papier ou numériques.",
+   "Mettre en avant l'abonnement en quelques clics et la livraison à domicile."
+  ],
+  [
+   "Une marque très recommandée par les IA",
+   "Bayard Jeunesse est 2e des recommandations spontanées des IA (34,7 %, +12,3 pts), juste derrière Nathan (36,3 %). Côté ads : 11,1 % (+7,0 pts).",
+   "Capitaliser sur cette recommandation pour pousser l'abonnement."
+  ],
+  [
+   "Une part de voix en recul face à Nathan",
+   "La part de voix baisse à 23,1 % (−12,6 pts), loin de Nathan (59,3 %).",
+   "Renforcer la présence sur les requêtes lecture jeunesse et rentrée."
+  ],
+  [
+   "Les clics triplent",
+   "Les clics passent de 722 à 2 277 (+215 %) pour 7 % d'impressions en plus. Le CTR passe de 0,19 % à 0,56 %.",
+   "Campagne terminée le 11/10 : partager le bilan et proposer un renouvellement."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "408 434",
+   "▲ +7 %",
+   "up",
+   "YTD 791 115"
+  ],
+  [
+   "CLICS",
+   "2 277",
+   "▲ +215 %",
+   "up",
+   "YTD 2 999"
+  ],
+  [
+   "CTR",
+   "0,56 %",
+   "▲ +0,37 pt",
+   "up",
+   "YTD 0,38 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Bayard_Jeunesse_sept2026.pptx"
+}

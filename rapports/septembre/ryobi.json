@@ -1,0 +1,188 @@
+{
+ "client": "Ryobi",
+ "objectif": "Acquérir de nouveaux clients.",
+ "words": [
+  [
+   [
+    "perceuse",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   visseuse",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "atelier",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   compresseur",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "scie-sabre",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   brushless",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "humidimètre",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   multimètre",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Bosch",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Parkside",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Makita",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "béton",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   élagage",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Quel outil Makita je devrais acheter en premier pour mon atelier ?",
+  "Quelle perceuse pour percer du béton et poser des étagères ?",
+  "C'est quoi la perceuse visseuse idéale pour bricoler à la maison ?",
+  "Un compresseur 50 L suffit-il pour un usage domestique ?",
+  "Je peux utiliser la scie-sabre sans être bricoleur ?"
+ ],
+ "cats": [
+  [
+   "Mesure et détection",
+   40
+  ],
+  [
+   "Outils et coffrets",
+   30
+  ],
+  [
+   "Électroportatif",
+   17
+  ],
+  [
+   "Autres",
+   13
+  ]
+ ],
+ "insights": [
+  [
+   "Cibler le premier équipement",
+   "Les requêtes portent souvent sur le premier outil à acheter : atelier, perceuse visseuse pour bricoler, compresseur pour un usage domestique.",
+   "Présenter les kits de démarrage Ryobi comme le bon premier achat."
+  ],
+  [
+   "Parler à des bricoleurs non experts",
+   "Les questions montrent une audience peu experte : « Je peux utiliser la scie-sabre sans être bricoleur ? ».",
+   "Mettre en avant la simplicité d'usage et la polyvalence de la batterie unique."
+  ],
+  [
+   "Regagner face à Bosch et Parkside",
+   "Ryobi recule à 6,9 % de part de voix (−1,1 pt, 4e) et à 0,8 % des recommandations spontanées des IA, loin de Bosch (43,5 %) et Parkside (21,7 %). Côté ads : 8,2 % (−1,3 pt).",
+   "Renforcer la présence ads sur les requêtes perceuse et visseuse lors d'une prochaine campagne."
+  ],
+  [
+   "Un dernier mois plus performant",
+   "Diffusion jusqu'au 24/09 : 5 969 clics (+222 %) et un CTR de 0,52 %. 3 conversions attribuées.",
+   "Campagne terminée : partager le bilan pour préparer un renouvellement."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "1 144 223",
+   "▲ +34 %",
+   "up",
+   "YTD 4 649 681"
+  ],
+  [
+   "CLICS",
+   "5 969",
+   "▲ +222 %",
+   "up",
+   "YTD 13 056"
+  ],
+  [
+   "CTR",
+   "0,52 %",
+   "▲ +0,31 pt",
+   "up",
+   "YTD 0,28 %"
+  ],
+  [
+   "CONVERSIONS",
+   "3",
+   "+3",
+   "up",
+   "YTD 7"
+  ],
+  [
+   "CVR",
+   "0,05 %",
+   "▲ +0,05 pt",
+   "up",
+   "YTD 0,05 %"
+  ],
+  [
+   "ROAS",
+   "0,03",
+   "▲ +0,03",
+   "up",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Ryobi_sept2026.pptx"
+}

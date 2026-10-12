@@ -1,0 +1,197 @@
+{
+ "client": "La Redoute",
+ "objectif": "Générer des ventes avec un focus sur les nouveaux clients (~40 %) et les marques propres Fashion & Home.",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "mariage",
+    "O",
+    18,
+    1
+   ],
+   [
+    "   cadeau",
+    "K",
+    16,
+    1
+   ]
+  ],
+  [
+   [
+    "chaussures",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   rideaux",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "déménagement",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   plante",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "housses anti-acariens",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   livraison",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "IKEA",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Amazon",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Kiabi",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "réveillon",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Maisons du Monde",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Les housses anti-acariens sont-elles vraiment efficaces ?",
+  "Y a-t-il des risques d'allergies avec des rideaux recyclés ?",
+  "Quels modèles de chaussures montantes conseilles-tu pour la randonnée ?",
+  "Montre-moi des modèles de chaussures aquatiques fermées pour rochers"
+ ],
+ "cats": [
+  [
+   "IKEA",
+   35
+  ],
+  [
+   "Amazon",
+   32
+  ],
+  [
+   "Kiabi",
+   14
+  ],
+  [
+   "La Redoute",
+   6
+  ],
+  [
+   "Zalando",
+   4
+  ],
+  [
+   "Autres",
+   9
+  ]
+ ],
+ "insights": [
+  [
+   "Des ventes en hausse",
+   "13 conversions en septembre (9 en août) pour 779 € de GMV. Le ROAS passe de 0,62 à 0,95.",
+   "Prolonger sur les catégories qui convertissent, en priorité les marques propres."
+  ],
+  [
+   "Activer les moments de vie",
+   "Le mariage (18,3 %), le cadeau (12,8 %), les vacances (12,4 %) et le déménagement (8,0 %) déclenchent les conversations.",
+   "Décliner des accroches mode (tenue de mariage) et maison (déménagement, réveillon)."
+  ],
+  [
+   "2e marque recommandée par les IA",
+   "La Redoute est 2e des recommandations spontanées des IA (19,1 %), derrière Amazon, mais recule à 6,1 % de part de voix (−1,8 pt). Côté ads : 11,8 % (+4,8 pts).",
+   "Maintenir la présence ads pour convertir cette recommandation en ventes."
+  ],
+  [
+   "Rassurer sur l'utilité et le prix",
+   "Le doute sur l'utilité réelle (21,8 %) et le prix (19,2 %) sont les premiers freins, devant la fiabilité (16,6 %).",
+   "Mettre en avant la qualité des matières et les retours gratuits."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "656 699",
+   "▲ +1 %",
+   "up",
+   "YTD 5 620 971"
+  ],
+  [
+   "CLICS",
+   "3 277",
+   "▲ +91 %",
+   "up",
+   "YTD 14 079"
+  ],
+  [
+   "CTR",
+   "0,50 %",
+   "▲ +0,24 pt",
+   "up",
+   "YTD 0,25 %"
+  ],
+  [
+   "CONVERSIONS",
+   "13",
+   "+4",
+   "up",
+   "YTD 32"
+  ],
+  [
+   "CVR",
+   "0,40 %",
+   "▼ −0,13 pt",
+   "down",
+   "YTD 0,23 %"
+  ],
+  [
+   "ROAS",
+   "0,95",
+   "▲ +0,34",
+   "up",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/La_Redoute_sept2026.pptx"
+}

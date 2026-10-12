@@ -16,3 +16,7 @@
 14. **Levi's** : comparé à août ; YTD = cumul de l'export depuis le 29/07 (contrat démarré le 23/06) → probablement incomplet. Pas de conversions Rakuten.
 15. **Secteurs voyage (Cdiscount Voyages, P&V, SNCF)** : les « produits nommés » des rapports d'insights sont de la bagagerie → bloc catégories remplacé par les marques citées ; les exemples de requêtes disponibles portent sur la bagagerie.
 16. **Qonto** : pas d'exemples de requêtes dans le rapport → « À compléter ».
+17. **Comptes terminés ajoutés** (1001 Pneus, Bayard Jeunesse, Iopole, La Redoute, Monoprix Courses, Ryobi) : comparés à août, YTD = YTD août du deck + septembre. Fin de diffusion : 1001 Pneus 10/09, Iopole 21/09, Monoprix Courses 23/09, Ryobi 24/09.
+18. **ROAS YTD** (Monoprix Courses, Ryobi, La Redoute) : non recalculable sans GMV/budget cumulés → « YTD — ».
+19. **Monoprix Courses** : le deck d'août affichait ROAS N/C alors que l'export donne 186 € de GMV pour 34,50 € en août (ROAS 5,4) → évolution du ROAS laissée à « — ». Le rapport d'insights Monoprix Courses est le même que Monoprix Mode côté parts de voix.
+20. **Iopole** : pas d'exemples de requêtes ni de produits dans le rapport → marques citées, requêtes « À compléter ».

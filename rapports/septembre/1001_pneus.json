@@ -1,0 +1,184 @@
+{
+ "client": "1001 Pneus",
+ "objectif": "Acquérir de nouveaux clients (automobilistes, motards, cyclistes) avec un CPA cible de 10 €.",
+ "words": [
+  [
+   [
+    "pneu hiver",
+    "O",
+    20,
+    1
+   ],
+   [
+    "    jante",
+    "K",
+    18,
+    1
+   ]
+  ],
+  [
+   [
+    "3PMSF",
+    "G",
+    16,
+    1
+   ],
+   [
+    "    roue de secours",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "voiture électrique",
+    "O",
+    14,
+    1
+   ],
+   [
+    "    freinage",
+    "G",
+    13,
+    0
+   ]
+  ],
+  [
+   [
+    "Michelin Alpin",
+    "O",
+    12,
+    1
+   ],
+   [
+    "    loi montagne",
+    "K",
+    12,
+    1
+   ]
+  ],
+  [
+   [
+    "Continental WinterContact",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "chaînes à neige",
+    "O",
+    11,
+    1
+   ],
+   [
+    "    kit anti-crevaison",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "Quels pneus pas chers sont quand même sûrs ?",
+  "Quels pneus VE recommandez-vous pour une Zoé 2020 ?",
+  "Peux-tu comparer Michelin Alpin 7 et Continental WinterContact TS870 ?",
+  "Chaînes, chaussettes ou pneus hiver : quoi privilégier ?",
+  "Mes pneus toutes saisons suffisent-ils pour la loi montagne ?"
+ ],
+ "cats": [
+  [
+   "Pneus auto et dimensions",
+   66
+  ],
+  [
+   "Jantes et roues",
+   15
+  ],
+  [
+   "Pneus hiver et neige",
+   9
+  ],
+  [
+   "Crevaison et dépannage",
+   7
+  ],
+  [
+   "Pneus été et toutes saisons",
+   2
+  ],
+  [
+   "Pneus connectés",
+   1
+  ]
+ ],
+ "insights": [
+  [
+   "Préparer la saison hiver",
+   "Pneus hiver et chaînes à neige pèsent 8,9 % des produits nommés, avec des questions sur la loi montagne et le marquage 3PMSF.",
+   "Lancer des messages hiver dès octobre lors d'une reprise de campagne."
+  ],
+  [
+   "Cibler les voitures électriques",
+   "Les requêtes citent des modèles électriques (Zoé, MG4 EV) et l'impact des jantes sur l'autonomie.",
+   "Créer des accroches dédiées aux pneus pour véhicules électriques."
+  ],
+  [
+   "Gagner en visibilité face à Norauto et Michelin",
+   "1001 Pneus pèse 1,8 % de part de voix (+1,2 pt, 8e) et reste sous 0,1 % des recommandations spontanées des IA. Côté ads : 1,6 % (−21,1 pts).",
+   "Reprendre la présence ads avant la saison hiver."
+  ],
+  [
+   "Une diffusion relancée puis arrêtée",
+   "Diffusion du 01 au 10/09 : 159 222 impressions et 781 clics (+292 %), CTR de 0,49 %.",
+   "Vérifier le tracking Affilae et préparer la reprise pour viser le CPA cible de 10 €."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "159 222",
+   "▲ +423 %",
+   "up",
+   "YTD 2 080 671"
+  ],
+  [
+   "CLICS",
+   "781",
+   "▲ +292 %",
+   "up",
+   "YTD 4 315"
+  ],
+  [
+   "CTR",
+   "0,49 %",
+   "▼ −0,16 pt",
+   "down",
+   "YTD 0,21 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/1001_Pneus_sept2026.pptx"
+}

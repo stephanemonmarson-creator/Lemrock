@@ -1,0 +1,187 @@
+{
+ "client": "Iopole",
+ "cats_title": "MARQUES CITÉES",
+ "cats_sub": "Part de voix dans les messages utilisateurs",
+ "words": [
+  [
+   [
+    "facturation électronique",
+    "O",
+    18,
+    1
+   ]
+  ],
+  [
+   [
+    "Chorus Pro",
+    "G",
+    15,
+    1
+   ],
+   [
+    "   Pennylane",
+    "K",
+    14,
+    1
+   ]
+  ],
+  [
+   [
+    "Indy",
+    "O",
+    13,
+    1
+   ],
+   [
+    "   Odoo",
+    "G",
+    12,
+    0
+   ]
+  ],
+  [
+   [
+    "retraite",
+    "O",
+    11,
+    1
+   ],
+   [
+    "   séparation",
+    "K",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Sage",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   Shine",
+    "G",
+    11,
+    0
+   ],
+   [
+    "   Tiime",
+    "O",
+    11,
+    1
+   ]
+  ],
+  [
+   [
+    "Cegid",
+    "K",
+    11,
+    1
+   ],
+   [
+    "   EBP",
+    "G",
+    11,
+    0
+   ]
+  ]
+ ],
+ "queries": [
+  "À compléter : le rapport d'insights ne fournit pas d'exemples de requêtes pour Iopole"
+ ],
+ "cats": [
+  [
+   "Chorus Pro",
+   36
+  ],
+  [
+   "Pennylane",
+   12
+  ],
+  [
+   "Indy",
+   11
+  ],
+  [
+   "Odoo",
+   10
+  ],
+  [
+   "Tiime",
+   7
+  ],
+  [
+   "Autres (dont Iopole 0,2 %)",
+   24
+  ]
+ ],
+ "insights": [
+  [
+   "Une catégorie dominée par Chorus Pro",
+   "Chorus Pro concentre 36,2 % des citations du secteur, devant Pennylane (11,7 %) et Indy (10,9 %). Iopole pèse 0,2 % (19e).",
+   "Positionner Iopole sur la réforme de la facturation électronique, en complément de Chorus Pro."
+  ],
+  [
+   "Les IA recommandent Sage et Shine",
+   "Sage (57,5 %) et Shine (37,8 %) captent presque toutes les recommandations spontanées des IA. Iopole y est sous 0,1 %.",
+   "Produire des contenus de référence (guides réforme 2026, comparatifs) pour être cité."
+  ],
+  [
+   "Une présence ads en recul",
+   "La part de voix ads d'Iopole passe à 25,2 % (−30,3 pts) avec la baisse de la diffusion.",
+   "Préparer une reprise avant les échéances de la réforme."
+  ],
+  [
+   "Une fin de campagne plus efficace",
+   "Diffusion jusqu'au 21/09 : 765 216 impressions (−79 %) et 3 523 clics (−45 %). Le CTR passe de 0,17 % à 0,46 %.",
+   "Campagne terminée : partager le bilan et proposer un renouvellement."
+  ]
+ ],
+ "kpis": [
+  [
+   "IMPRESSIONS",
+   "765 216",
+   "▼ −79 %",
+   "down",
+   "YTD 5 594 442"
+  ],
+  [
+   "CLICS",
+   "3 523",
+   "▼ −45 %",
+   "down",
+   "YTD 12 038"
+  ],
+  [
+   "CTR",
+   "0,46 %",
+   "▲ +0,29 pt",
+   "up",
+   "YTD 0,22 %"
+  ],
+  [
+   "CONVERSIONS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "CVR",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ],
+  [
+   "ROAS",
+   "N/C",
+   "—",
+   "n",
+   "YTD —"
+  ]
+ ],
+ "out": "/home/user/Lemrock/rapports/septembre/Iopole_sept2026.pptx"
+}

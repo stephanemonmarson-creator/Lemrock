@@ -48,27 +48,27 @@
  "words": [
   [
    [
-    "sneakers blanches",
+    "Jordan",
     "O",
-    18,
+    20,
     true
    ],
    [
-    "   jean",
+    "   Nike",
     "K",
-    16,
+    18,
     true
    ]
   ],
   [
    [
-    "Air Force 1",
+    "genouillères",
     "G",
     15,
     true
    ],
    [
-    "   Air Max 90",
+    "   ballon de basket",
     "K",
     14,
     true
@@ -76,13 +76,13 @@
   ],
   [
    [
-    "New Balance 574",
+    "maillots NBA",
     "O",
     13,
     true
    ],
    [
-    "   Cortez",
+    "   survêtements",
     "G",
     12,
     false
@@ -90,13 +90,13 @@
   ],
   [
    [
-    "marcher toute la journée",
+    "Air Force 1",
     "O",
     11,
     true
    ],
    [
-    "   confort",
+    "   short de compression",
     "K",
     11,
     true
@@ -104,19 +104,19 @@
   ],
   [
    [
-    "Nike P-6000",
+    "Équipe de France",
     "K",
     11,
     true
    ],
    [
-    "   running",
+    "   Paris Basketball",
     "G",
     11,
     false
    ],
    [
-    "   pas chères",
+    "   McDavid",
     "O",
     11,
     true
@@ -124,13 +124,13 @@
   ],
   [
    [
-    "Wilson Authentic",
+    "enfant",
     "K",
     11,
     true
    ],
    [
-    "   ballon de basket",
+    "   sneakers",
     "G",
     11,
     false
@@ -138,11 +138,9 @@
   ]
  ],
  "queries": [
+  "Je peux utiliser le Wilson Authentic en salle sans l'abîmer ?",
   "Des idées de sneakers blanches qui vont bien avec ce jean",
-  "Montre-moi des baskets solides et pas chères pour marcher beaucoup",
-  "Je peux porter la P-6000 pour courir régulièrement ?",
-  "Quels types de lacets aident les sneakers à mieux s'ajuster ?",
-  "Je peux utiliser le Wilson Authentic en salle sans l'abîmer ?"
+  "Montre-moi des baskets solides et pas chères pour marcher beaucoup"
  ],
  "cats": [
   [
@@ -169,9 +167,9 @@
    "Donner plus de place aux accessoires et petits équipements dans la diffusion."
   ],
   [
-   "Revoir les annonces vêtements et maillots",
-   "Les tenues de basket restent à 0,58 fois la moyenne et les maillots à 0,82 fois. Les survêtements et les casquettes tombent à 0,41 fois.",
-   "Associer les vêtements à un usage (match, échauffement, cadeau) plutôt qu'au prix."
+   "Renvoyer vers des fiches produit plutôt que des pages catégorie",
+   "Les annonces qui renvoient vers une fiche produit atteignent 1,06 fois le CTR moyen, contre 0,86 fois pour celles qui renvoient vers une page catégorie (survêtements, casquettes, maillots Paris Basketball).",
+   "Remplacer les annonces catégorie par des produits précis du flux."
   ],
   [
    "Les sneakers lifestyle tiennent leur rang",

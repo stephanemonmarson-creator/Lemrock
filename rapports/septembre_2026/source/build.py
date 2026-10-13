@@ -4,7 +4,7 @@ CSS="""@page{size:1000px 562px;margin:0}*{box-sizing:border-box;margin:0;padding
 body{font-family:"Liberation Sans",Arial,Helvetica,sans-serif;color:#1d1d1f}
 .p{width:1000px;height:562px;background:#f7f6f2;padding:44px 64px;position:relative;page-break-after:always;overflow:hidden}
 .ey{color:#e8692e;font-weight:700;font-size:13px;letter-spacing:.02em}
-h1{font-size:36px;font-weight:700;line-height:1.05;margin-top:2px}
+h1{font-size:34px;font-weight:700;line-height:1.05;margin-top:2px}
 .cmp{position:absolute;right:64px;top:50px;text-align:right}.cmp .l{color:#8a8f99;font-weight:700;font-size:12px}.cmp .v{font-weight:700;font-size:14px;margin-top:2px}
 .logo{position:absolute;right:64px;top:42px;font-weight:700;font-size:16px}
 .sh{color:#e8692e;font-weight:700;font-size:14px;margin-bottom:6px}

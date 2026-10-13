@@ -32,7 +32,7 @@ h1{font-size:34px;font-weight:700;line-height:1.05;margin-top:2px}
 .ic .a{font-size:11.5px;font-weight:700;color:#55595f;margin-top:8px;line-height:1.4}
 """
 def kpi(t,n,dl,y):
-    cls='up' if dl.startswith('▲') else 'dn'
+    cls='up' if dl.startswith('▲') else ('dn' if dl.startswith('▼') else 'y')
     return f'<div class="kc"><div class="t">{t}</div><div class="n">{n}</div><div class="{cls}">{dl}</div><div class="y">YTD {y}</div></div>'
 def conv(t,n,y,dl="—"): return f'<div class="cc"><span class="b">INDICATIF</span><div class="t">{t}</div><div class="n">{n}</div><div class="y">{dl}</div><div class="y">YTD {y}</div></div>'
 k=d['kpi'];c=d['conv']
@@ -41,15 +41,15 @@ rq=''.join(f'<div class="rq">{html.escape(q)}</div>' for q in d['req'])
 mx=max(v for _,v,_ in d['cat'])
 cat=''.join(f'<div class="cat"><div class="l">{l}<div class="tr"><div class="fi" style="width:{v/mx*100:.0f}%;background:{"#e8692e" if i==0 else "#8a8f99"}"></div></div></div><div class="v">{t}</div></div>' for i,(l,v,t) in enumerate(d['cat']))
 p1=f'''<div class="p"><div class="ey">RAPPORT MENSUEL SEPTEMBRE (01/09/26 → 30/09/26)</div><h1>{d["name"]}</h1>
-<div class="cmp"><div class="l">COMPARAISON</div><div class="v">vs AOÛT 01/08/26 → 31/08/26</div></div>
+<div class="cmp"><div class="l">COMPARAISON</div><div class="v">{d.get("cmp","vs AOÛT 01/08/26 → 31/08/26")}</div></div>
 <div class="k"><div><div class="sh">DIFFUSION</div>{kpi(*k[0])}</div><div><div class="sh">ENGAGEMENT</div><div style="display:flex;gap:20px">{kpi(*k[1])}{kpi(*k[2])}</div></div>
 <div style="margin-left:14px"><div class="sh" style="margin-bottom:0">CONVERSION</div><div style="display:flex;gap:16px">{conv(*c[0])}{conv(*c[1])}{conv(*c[2])}</div>
 <div class="bub {d.get("trk_cls","")}">{d["trk"]}</div></div></div>
 <div class="interp" style="margin-top:-52px"><b>Ce que disent ces chiffres :</b> {d["interp"]}</div>
 <div class="sh" style="margin-top:14px">INSIGHTS QUALITATIFS</div>
 <div class="qi"><div class="qc"><h4>CHAMP LEXICAL</h4><div class="s">Termes les plus fréquents</div><div class="wc">{wc}</div></div>
-<div class="qc"><h4>EXEMPLES DE REQUÊTES</h4><div class="s">Questions posées aux IA</div>{rq}</div>
-<div class="qc"><h4>CATÉGORIES DE PRODUITS</h4><div class="s">Répartition des requêtes</div>{cat}</div></div></div>'''
+<div class="qc"><h4>{d.get("req_t","EXEMPLES DE REQUÊTES")}</h4><div class="s">{d.get("req_s","Questions posées aux IA")}</div>{rq}</div>
+<div class="qc"><h4>{d.get("cat_t","CATÉGORIES DE PRODUITS")}</h4><div class="s">{d.get("cat_s","Répartition des requêtes")}</div>{cat}</div></div></div>'''
 ins=''.join(f'<div class="ic"><div class="hd"><div class="nm">0{i+1}</div><h3>{x["t"]}</h3></div><p>{x["c"]} <span class="so">{x["so"]}</span></p><div class="a">→ {x["a"]}</div></div>' for i,x in enumerate(d['ins']))
 p2=f'''<div class="p"><div class="ey">INSIGHTS QUALITATIFS · SEPTEMBRE 2026</div><h1>{d["name"]}</h1><div class="logo">Lemrock</div>
 <div class="obj">OBJECTIF <span>{d["obj"]}</span></div><div class="ih">INSIGHTS QUALITATIFS</div><div class="ig">{ins}</div></div>'''

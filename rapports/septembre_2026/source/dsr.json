@@ -1,0 +1,14 @@
+{"name":"Sécurité Routière","obj":"À définir (inscriptions ou visites de la page).","cmp":"PREMIER MOIS DE DIFFUSION",
+"kpi":[["IMPRESSIONS","374 204","1er mois","374 204"],["CLICS","1 591","1er mois","1 591"],["CTR","0,43 %","1er mois","0,43 %"]],
+"conv":[["CONVERSIONS","N/C","—","mesure au clic"],["CVR","N/C","—"],["ROAS","N/C","—"]],
+"trk_cls":"","trk":"<b>Campagne mesurée au clic :</b> pas de suivi de conversion prévu. Pour piloter la suite, nous proposons de fixer un objectif mesurable : visites de la page conduite accompagnée ou inscriptions.",
+"interp":"pour un premier mois, la campagne atteint un CTR de 0,43 %, proche de la moyenne de nos campagnes, avec une seule annonce. C'est une base solide : la marge de progression est dans les messages, que nous n'avons pas encore testés.",
+"wc":[["conduite accompagnée",17,1],["permis",16,0],["achat d'une voiture",14,0],["15 ans",14,1],["vie en van",12,0],["vacances",12,0],["auto-école",12,1],["3 000 km",12,0],["raid en montagne",11,0],["accident",11,1],["prévention",11,0],["sécurité",11,0]],
+"req_t":"L'ANNONCE DIFFUSÉE","req_s":"Seule annonce de la campagne",
+"req":["Titre : « Conduite accompagnée : 15 ans, c'est le bon moment »","Bénéfice 1 : 3 000 km au volant avant le permis","Bénéfice 2 : de meilleurs résultats au permis","Bénéfice 3 : moins d'accidents","Bénéfice 4 : un permis moins cher"],
+"cat_t":"MOMENTS DE VIE","cat_s":"Conversations déclenchées par un événement",
+"cat":[["Achat d'une voiture",41,"41 %"],["Vie en van",17,"17 %"],["Départ en vacances",17,"17 %"],["Raid en montagne",12,"12 %"],["Accident de voiture",7,"7 %"],["Événement automobile",6,"6 %"]],
+"ins":[
+{"t":"Une seule annonce : la campagne n'a encore rien testé","c":"Toute la campagne repose sur « Conduite accompagnée : 15 ans, c'est le bon moment », qui génère 1 591 clics pour un CTR de 0,43 %.","so":"Nous ne savons pas encore quel message fait le plus réagir : c'est le principal levier de progression.","a":"Nous allons ajouter 3 annonces (réussite au permis, économies, sécurité) pour identifier le message le plus performant."},
+{"t":"Le meilleur argument est caché dans la description","c":"Le titre met en avant l'âge ; les bénéfices chiffrés (3 000 km au volant) ne figurent que dans la description, que beaucoup d'utilisateurs ne lisent pas.","so":"L'argument le plus concret de la campagne est le moins visible.","a":"Nous allons tester un titre chiffré : « 3 000 km au volant avant le permis »."},
+{"t":"L'annonce parle aux parents, pas aux jeunes","c":"Les bénéfices mis en avant (expérience, réussite au permis, moins d'accidents, moins cher) sont des arguments de parents. Et 41 % des conversations sont déclenchées par l'achat d'une voiture.","so":"La décision de la conduite accompagnée se prend en famille : il faut convaincre le parent et motiver le jeune.","a":"Nous allons diffuser une version parents (sécurité, économies) et une version jeunes de 15 ans (autonomie, liberté)."}]}

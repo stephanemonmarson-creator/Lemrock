@@ -53,4 +53,8 @@ p1=f'''<div class="p"><div class="ey">RAPPORT MENSUEL SEPTEMBRE (01/09/26 → 30
 ins=''.join(f'<div class="ic"><div class="hd"><div class="nm">0{i+1}</div><h3>{x["t"]}</h3></div><p>{x["c"]} <span class="so">{x["so"]}</span></p><div class="a">→ {x["a"]}</div></div>' for i,x in enumerate(d['ins']))
 p2=f'''<div class="p"><div class="ey">INSIGHTS QUALITATIFS · SEPTEMBRE 2026</div><h1>{d["name"]}</h1><div class="logo">Lemrock</div>
 <div class="obj">OBJECTIF <span>{d["obj"]}</span></div><div class="ih">INSIGHTS QUALITATIFS</div><div class="ig">{ins}</div></div>'''
+EN=d.get('lang')=='en'
+if EN:
+    for a,b in [('RAPPORT MENSUEL SEPTEMBRE (01/09/26 → 30/09/26)','MONTHLY REPORT SEPTEMBER (01/09/26 → 30/09/26)'),('COMPARAISON','COMPARISON'),('vs AOÛT','vs AUGUST'),('>DIFFUSION<','>REACH<'),('ENGAGEMENT','ENGAGEMENT'),('>CONVERSION<','>CONVERSION<'),('INDICATIF','INDICATIVE'),('Ce que disent ces chiffres :','What these figures show:'),('INSIGHTS QUALITATIFS · SEPTEMBRE 2026','QUALITATIVE INSIGHTS · SEPTEMBER 2026'),('INSIGHTS QUALITATIFS','QUALITATIVE INSIGHTS'),('CHAMP LEXICAL','LEXICAL FIELD'),('Termes les plus fréquents','Most frequent terms'),('EXEMPLES DE REQUÊTES','SAMPLE QUERIES'),('Questions posées aux IA','Questions asked to AI'),('CATÉGORIES DE PRODUITS','PRODUCT CATEGORIES'),('Répartition des requêtes','Share of queries'),('OBJECTIF','OBJECTIVE'),('→ Nous','→ We')]:
+        p1=p1.replace(a,b);p2=p2.replace(a,b)
 open(sys.argv[2],'w').write(f'<!doctype html><html lang="fr"><head><meta charset="utf-8"><style>{CSS}</style></head><body>{p1}{p2}</body></html>')

@@ -9,8 +9,8 @@ h1{font-size:36px;font-weight:700;line-height:1.05;margin-top:2px}
 .logo{position:absolute;right:64px;top:42px;font-weight:700;font-size:16px}
 .sh{color:#e8692e;font-weight:700;font-size:14px;margin-bottom:6px}
 .k{display:flex;gap:20px;margin-top:16px}
-.kc{background:#fff;border-left:3px solid #e8692e;padding:9px 10px;width:108px;height:88px}
-.kc .t{font-size:10px;font-weight:700;color:#55595f}.kc .n{font-size:20px;font-weight:700;margin:6px 0 3px}
+.kc{background:#fff;border-left:3px solid #e8692e;padding:9px 8px;width:112px;height:88px}
+.kc .t{font-size:10px;font-weight:700;color:#55595f}.kc .n{font-size:20px;font-weight:700;margin:6px 0 3px;white-space:nowrap;letter-spacing:-.02em}
 .up{color:#2e8b3a;font-weight:700;font-size:10px}.dn{color:#e8692e;font-weight:700;font-size:10px}.y{font-size:8.5px;font-style:italic;color:#333;margin-top:5px}
 .cc{background:#eeede9;padding:9px 10px;width:108px;height:88px;position:relative;margin-top:6px}
 .cc .b{position:absolute;right:6px;top:-8px;background:#e2e1dd;border-radius:8px;font-size:8px;font-weight:700;color:#55595f;padding:1px 5px}
@@ -34,7 +34,7 @@ h1{font-size:36px;font-weight:700;line-height:1.05;margin-top:2px}
 def kpi(t,n,dl,y):
     cls='up' if dl.startswith('▲') else 'dn'
     return f'<div class="kc"><div class="t">{t}</div><div class="n">{n}</div><div class="{cls}">{dl}</div><div class="y">YTD {y}</div></div>'
-def conv(t,n,y): return f'<div class="cc"><span class="b">INDICATIF</span><div class="t">{t}</div><div class="n">{n}</div><div class="y">—</div><div class="y">YTD {y}</div></div>'
+def conv(t,n,y,dl="—"): return f'<div class="cc"><span class="b">INDICATIF</span><div class="t">{t}</div><div class="n">{n}</div><div class="y">{dl}</div><div class="y">YTD {y}</div></div>'
 k=d['kpi'];c=d['conv']
 wc=''.join(f'<span style="font-size:{s}px;color:{"#e8692e" if o else "#1d1d1f"}">{html.escape(w)}</span>' for w,s,o in d['wc'])
 rq=''.join(f'<div class="rq">{html.escape(q)}</div>' for q in d['req'])

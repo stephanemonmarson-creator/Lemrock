@@ -26,7 +26,7 @@ h1{font-size:36px;font-weight:700;line-height:1.05;margin-top:2px}
 .obj{color:#e8692e;font-weight:700;font-size:15px;margin-top:10px}.obj span{color:#1d1d1f;font-weight:400}
 .ih{color:#55595f;font-weight:700;font-size:15px;margin:6px 0 6px}
 .ig{display:grid;grid-template-columns:1fr 1fr;gap:14px 28px}
-.ic{background:#fff;padding:14px 22px;min-height:180px}
+.ic{background:#fff;padding:14px 22px;min-height:160px}
 .ic .hd{display:flex;gap:16px;align-items:flex-start}.ic .nm{color:#e8692e;font-weight:700;font-size:24px}.ic h3{font-size:16px;line-height:1.25;padding-top:2px}
 .ic p{font-size:11.5px;line-height:1.45;color:#444;margin-top:9px}.ic .so{color:#1d1d1f;font-weight:700}
 .ic .a{font-size:11.5px;font-weight:700;color:#55595f;margin-top:8px;line-height:1.4}

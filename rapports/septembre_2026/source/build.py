@@ -25,11 +25,11 @@ h1{font-size:36px;font-weight:700;line-height:1.05;margin-top:2px}
 .cat{display:flex;align-items:flex-end;font-size:9.5px;margin:3px 0}.cat .l{flex:1}.cat .tr{height:3px;background:#eee;margin-top:2px}.cat .fi{height:3px}.cat .v{width:38px;text-align:right;font-weight:700;font-size:11px}
 .obj{color:#e8692e;font-weight:700;font-size:15px;margin-top:10px}.obj span{color:#1d1d1f;font-weight:400}
 .ih{color:#55595f;font-weight:700;font-size:15px;margin:10px 0 8px}
-.ig{display:grid;grid-template-columns:1fr 1fr;gap:16px 28px}
-.ic{background:#fff;padding:16px 24px;height:182px}
-.ic .hd{display:flex;gap:16px;align-items:flex-start}.ic .nm{color:#e8692e;font-weight:700;font-size:24px}.ic h3{font-size:17px;line-height:1.25;padding-top:2px}
-.ic p{font-size:12px;line-height:1.45;color:#444;margin-top:9px}.ic .so{color:#1d1d1f;font-weight:700}
-.ic .a{font-size:12px;font-weight:700;color:#55595f;margin-top:8px;line-height:1.4}
+.ig{display:grid;grid-template-columns:1fr 1fr;gap:14px 28px}
+.ic{background:#fff;padding:14px 22px;min-height:180px}
+.ic .hd{display:flex;gap:16px;align-items:flex-start}.ic .nm{color:#e8692e;font-weight:700;font-size:24px}.ic h3{font-size:16px;line-height:1.25;padding-top:2px}
+.ic p{font-size:11.5px;line-height:1.45;color:#444;margin-top:9px}.ic .so{color:#1d1d1f;font-weight:700}
+.ic .a{font-size:11.5px;font-weight:700;color:#55595f;margin-top:8px;line-height:1.4}
 """
 def kpi(t,n,dl,y):
     cls='up' if dl.startswith('▲') else 'dn'

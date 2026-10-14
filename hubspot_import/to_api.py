@@ -10,7 +10,10 @@ FIELDS = {'Deal Name': 'dealname', 'Amount': 'amount', 'Total budget': 'total_bu
           'Objectives details': 'objectives_details', 'Product feed': 'product_feed', 'Outcome': 'outcome',
           'Churn reason': 'churn_reason', 'Churn details': 'churn_details'}
 OWNER = '38675653'
-rows = list(csv.DictReader(open(sys.argv[1], encoding='utf-8-sig')))
+AGENCY = {a['Network/ Agency']: a['HubSpot Record ID'] for a in csv.DictReader(open('agency_mapping.csv', encoding='utf-8'))
+          if a['HubSpot Record ID']}
+SKIP = set(sys.argv[2].split('|')) if len(sys.argv) > 2 else set()
+rows = [r for r in csv.DictReader(open(sys.argv[1], encoding='utf-8-sig')) if r['Deal Name'] not in SKIP]
 out = []
 for r in rows:
     props = {api: r[col] for col, api in FIELDS.items() if r[col] != ''}
@@ -18,5 +21,7 @@ for r in rows:
     obj = {'objectType': 'deals', 'properties': props}
     if r['Company Record ID']:
         obj['associations'] = [{'targetObjectType': 'COMPANY', 'targetObjectId': int(r['Company Record ID'])}]
+    if r['Network/ Agency'] in AGENCY:  # the deal is also linked to its agency / network
+        obj.setdefault('associations', []).append({'targetObjectType': 'COMPANY', 'targetObjectId': int(AGENCY[r['Network/ Agency']])})
     out.append(obj)
 json.dump(out, sys.stdout, ensure_ascii=False)

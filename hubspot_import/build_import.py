@@ -72,6 +72,13 @@ PENDING = {
 CHURN_MAP = {'Flux produits envoyé non tracké':'Untracked feed','Contact rompu':'Contact lost',
              'Essai non significatif':'Trial not significant'}
 
+# --- HubSpot record mapping (company_mapping.csv, validated with the user)
+MAP = {}
+with open(f'{out}/company_mapping.csv', encoding='utf-8') as f:
+    for m in csv.DictReader(f):
+        MAP[m['Excel name']] = m
+MAP['PV'].update({'HubSpot Record ID': '394338141402', 'HubSpot name': 'Pierre et Vacances Group'})
+
 # --- networks per client (most frequent)
 netc = collections.defaultdict(collections.Counter)
 for r in camps:
@@ -163,11 +170,47 @@ def write(path, rows):
     with open(path, 'w', newline='', encoding='utf-8-sig') as f:
         w = csv.DictWriter(f, fieldnames=list(rows[0]))
         w.writeheader(); w.writerows(rows)
-write(f'{out}/companies.csv', comp_rows)
-write(f'{out}/deals.csv', deal_rows)
+
+# --- final files, using the exact labels of the HubSpot portal
+OBJ = {'Awareness': 'Awarness'}
+TRACK_HS = {'Not proposed': 'Not Proposed'}
+final_comp = []
+for r in comp_rows:
+    m = MAP[r['Company name']]
+    final_comp.append({
+        'Record ID': m['HubSpot Record ID'],
+        # existing records keep their HubSpot name; new ones get the Excel name
+        'Name': m['HubSpot name'] or r['Company name'],
+        'Priority': r['Priority'], 'Network/ Agency': r['Network / Agency'],
+        'Risk Level': r['Risk level'], 'Conversion Tracker': TRACK_HS.get(r['Conversion tracker'], r['Conversion tracker']),
+        'Tracker refusal reason': r['Tracker refusal reason'], 'Next action': r['Next action'],
+        'Excel name': r['Company name'],
+    })
+final_deals = []
+for r in deal_rows:
+    if r['Deal name'].endswith('– Campaign 1'):
+        continue  # signed, not launched: stays in Brands, moved by hand (step 7)
+    m = MAP[r['Company name']]
+    final_deals.append({
+        'Deal Name': r['Deal name'], 'Pipeline': 'Campaigns', 'Deal Stage': r['Deal stage'],
+        'Amount': r['Amount'], 'Total budget': r['Total budget'],
+        'Monthly budget Open Web': r['Monthly budget Open Web'], 'Monthly budget ChatGPT': r['Monthly budget ChatGPT'],
+        'Duration (days)': r['Duration (days)'], 'CPC': r['CPC'],
+        'Signature date': r['Signature date'], 'Close Date': r['Close date'],
+        'Launch date': r['Launch date'], 'Campaign end date': r['Campaign end date'],
+        'Network/ Agency': r['Network / Agency'], 'Inventory': {'All inventory': 'All Inventory'}.get(r['Inventory'], r['Inventory']),
+        'Objective type': OBJ.get(r['Objective type'], r['Objective type']), 'Objective source': r['Objective source'],
+        'Objectives details': r['Objectives details'], 'Product feed': r['Product feed'],
+        'Outcome': r['Outcome'],
+        # churn fields only make sense when the client did not renew
+        'Churn reason': '' if r['Outcome'] in ('Renewed', 'Upsell') else r['Churn reason'],
+        'Churn details': '' if r['Outcome'] in ('Renewed', 'Upsell') else r['Churn details'],
+        'Company Record ID': m['HubSpot Record ID'], 'Company (Excel name)': r['Company name'],
+    })
+write(f'{out}/1_companies.csv', final_comp)
+write(f'{out}/2_deals.csv', final_deals)
 T = {'Cdiscount Voyages', 'Boulanger', '1001 Pneus'}
-write(f'{out}/TEST_companies.csv', [r for r in comp_rows if r['Company name'] in T])
-write(f'{out}/TEST_deals.csv', [r for r in deal_rows if r['Company name'] in T])
-print(len(comp_rows), 'companies', len(deal_rows), 'deals')
-print(collections.Counter(r['Deal stage'] for r in deal_rows))
-print('companies w/o deal:', [c for c in names if c not in by_client and c not in clients])
+write(f'{out}/TEST_deals.csv', [r for r in final_deals if r['Company (Excel name)'] in T])
+print(len(final_comp), 'companies', sum(1 for r in final_comp if not r['Record ID']), 'new')
+print(len(final_deals), 'deals', collections.Counter(r['Deal Stage'] for r in final_deals))
+print('deals w/o company id:', sorted({r['Company (Excel name)'] for r in final_deals if not r['Company Record ID']}))

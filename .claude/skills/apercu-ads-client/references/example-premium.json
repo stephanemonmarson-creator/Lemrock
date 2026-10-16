@@ -1,0 +1,83 @@
+{
+  "theme": "premium",
+  "image_fit": "contain",
+  "brand": {
+    "name": "Louis Vuitton",
+    "domain": "louisvuitton.com",
+    "initial": "LV",
+    "logo": "logo.svg"
+  },
+  "vertical_label": "mode & maroquinerie",
+  "specialized_ai_name": "Maison IA",
+  "specialized_ai_sub": "CONCIERGE MODE & MAROQUINERIE",
+  "generalist_ai_name": "Assistant IA",
+  "user_query_specialized": "Quel accessoire Louis Vuitton pour un cadeau élégant et intemporel ?",
+  "assistant_intro": "Voici une sélection de pièces emblématiques de la Maison, parfaites pour offrir.",
+  "products": [
+    {
+      "title": "Boucles d'oreilles LV Iconic",
+      "price": "380,00 €",
+      "image": "c1.jpg"
+    },
+    {
+      "title": "Porte-cartes LV Charms",
+      "price": "295,00 €",
+      "image": "c2.jpg"
+    },
+    {
+      "title": "Carré Bon Voyage 90",
+      "price": "490,00 €",
+      "image": "c3.jpg"
+    }
+  ],
+  "suggested": [
+    "Quelles pièces monogram pour débuter une collection ?",
+    "Idées cadeaux maroquinerie sous 500 €"
+  ],
+  "sponsored_q": "👜 Quelles nouveautés Louis Vuitton découvrir cette saison ?",
+  "user_query_generalist": "idée cadeau maroquinerie de luxe pour femme",
+  "answer_title": "Bien choisir un accessoire de luxe à offrir",
+  "answer_bullets": [
+    "Privilégiez une pièce intemporelle plutôt qu'une tendance passagère.",
+    "Les petits accessoires (porte-cartes, bijoux) sont une belle porte d'entrée dans une Maison.",
+    "Vérifiez l'authenticité et les services associés : gravure, entretien, réparation."
+  ],
+  "textad_phrase": "offrez l'iconique — porte-cartes, bijoux et carrés de soie de la Maison",
+  "followups": [
+    "porte-cartes ou petit sac : que choisir pour offrir ?",
+    "comment entretenir le cuir monogram ?"
+  ],
+  "chatgpt": {
+    "user_query": "Comment composer une garde-robe de mi-saison sans multiplier les achats ?",
+    "answer_intro": "Pour une garde-robe de mi-saison efficace, quelques principes suffisent :",
+    "answer_bullets": [
+      {
+        "b": "Superposition",
+        "t": "privilégiez des pièces fines qui s'empilent facilement."
+      },
+      {
+        "b": "Palette",
+        "t": "trois teintes neutres suffisent à tout combiner."
+      },
+      {
+        "b": "Matières",
+        "t": "laine légère et coton restent confortables toute la journée."
+      }
+    ],
+    "answer_outro": "Avec ces repères, une dizaine de pièces couvrent toute la saison.",
+    "chat_card": {
+      "advertiser": "Louis Vuitton",
+      "title": "Composez votre vestiaire de mi-saison",
+      "desc": "Des pièces intemporelles pensées pour durer, fabriquées en Europe.",
+      "cta": "Découvrir",
+      "image": "c1.jpg"
+    },
+    "product_ad": {
+      "title": "Boucles d'oreilles LV Iconic",
+      "price": "380,00 €",
+      "advertiser": "Louis Vuitton",
+      "cta": "Voir le produit",
+      "image": "c1.jpg"
+    }
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "brand": {
+    "name": "Sézane",
+    "domain": "sezane.com",
+    "initial": "S"
+  },
+  "vertical_label": "mode",
+  "specialized_ai_name": "Modéa",
+  "specialized_ai_sub": "IA MODE · SHOPPING",
+  "generalist_ai_name": "Assistant IA",
+  "user_query_specialized": "Quelles pièces pour un vestiaire de mi-saison élégant et intemporel ?",
+  "assistant_intro": "Voici une sélection de pièces parfaites pour composer un vestiaire de mi-saison chic.",
+  "products": [
+    {
+      "title": "Manteau en laine mélangée camel",
+      "price": "185.00 €",
+      "image": "img1.jpg"
+    },
+    {
+      "title": "Blouse en coton brodée col claudine",
+      "price": "95.00 €",
+      "image": "img2.jpg"
+    },
+    {
+      "title": "Sac en cuir grainé porté épaule",
+      "price": "160.00 €",
+      "image": "img3.jpg"
+    }
+  ],
+  "suggested": [
+    "Propose-moi une tenue complète pour moins de 300 €",
+    "Quelles couleurs pour un vestiaire capsule ?"
+  ],
+  "sponsored_q": "🧥 Quelles nouveautés découvrir chez Sézane cette saison ?",
+  "user_query_generalist": "veste mi-saison femme",
+  "answer_title": "Comment choisir sa veste de mi-saison",
+  "answer_bullets": [
+    "Privilégiez des matières respirantes comme la laine légère ou le coton.",
+    "Optez pour des coupes intemporelles (blazer, trench, saharienne) faciles à associer.",
+    "Misez sur des teintes neutres — camel, écru, bleu marine — pour multiplier les tenues."
+  ],
+  "textad_phrase": "composez votre vestiaire de mi-saison avec le manteau en laine camel",
+  "followups": [
+    "meilleures matières pour une veste de mi-saison",
+    "veste légère ou trench : comment choisir ?"
+  ],
+  "chatgpt": {
+    "user_query": "Comment composer une garde-robe de mi-saison sans multiplier les achats ?",
+    "answer_intro": "Pour une garde-robe de mi-saison efficace, quelques principes suffisent :",
+    "answer_bullets": [
+      {
+        "b": "Superposition",
+        "t": "privilégiez des pièces fines qui s'empilent facilement."
+      },
+      {
+        "b": "Palette",
+        "t": "trois teintes neutres suffisent à tout combiner."
+      },
+      {
+        "b": "Matières",
+        "t": "laine légère et coton restent confortables toute la journée."
+      }
+    ],
+    "answer_outro": "Avec ces repères, une dizaine de pièces couvrent toute la saison.",
+    "chat_card": {
+      "advertiser": "Sézane",
+      "title": "Composez votre vestiaire de mi-saison",
+      "desc": "Des pièces intemporelles pensées pour durer, fabriquées en Europe.",
+      "cta": "Découvrir",
+      "image": "img1.jpg"
+    },
+    "product_ad": {
+      "title": "Manteau en laine mélangée camel",
+      "price": "185.00 €",
+      "advertiser": "Sézane",
+      "cta": "Voir le produit",
+      "image": "img1.jpg"
+    }
+  }
+}

@@ -385,6 +385,9 @@ def build(cfg):
             stabs += f'<div class="ap-s-tab active">&#8635; {esc(lbl)}</div>'
         else:
             stabs += f'<div class="ap-s-tab">{esc(lbl)}</div>'
+    gen_logo = cfg.get("generalist_ai_logo")
+    gen_mark = (f'<img src="{data_uri(gen_logo)}" alt="{esc(cfg["generalist_ai_name"])}" style="display:block;height:34px;width:auto">'
+                if gen_logo else esc(cfg["generalist_ai_name"]))
     ai_logo = cfg.get("specialized_ai_logo")
     ai_name_html = (f'<img src="{data_uri(ai_logo)}" alt="{esc(cfg["specialized_ai_name"])}">'
                     if ai_logo else esc(cfg["specialized_ai_name"]))
@@ -439,7 +442,7 @@ def build(cfg):
     page_w = cfg.get("page_width", 680)
     search_html = f"""  <div class="ap-searchwrap"><div class="ap-search">
     <div class="ap-s-top">
-      <div class="ap-s-mark">{esc(cfg['generalist_ai_name'])}</div>
+      <div class="ap-s-mark">{gen_mark}</div>
       <div class="ap-s-bar"><div class="q">{esc(cfg['user_query_generalist'])}</div><div class="mag">&#9906;</div></div>
     </div>
     <div class="ap-s-tabs">{stabs}</div>
